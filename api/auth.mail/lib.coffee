@@ -50,7 +50,7 @@
 
   dict = {
     host:origin
-    url:protocol+'://'+origin
+    url:origin
     action:I18N[lang][action]
     code
   }
@@ -59,6 +59,7 @@
   text = mail.render dict
 
   dict.code = "${code}"
+  dict.url = "[#{origin}](#{protocol}://#{origin})"
   html = marked.parse(mail.render(dict)).replaceAll(
     '<p>','<p style="font-size:16px">'
   ).render({
