@@ -1,0 +1,1 @@
+export default "[${host}]${action}cód fíorúcháin:${code}\n\n[${host}]( https://${host})${action}cód fíorúcháin:${code}.\n\nMura bhfuil iarratas déanta agat ar [${host}]( https://${host})${action}, déan neamhaird den teachtaireacht seo le do thoil.\n\nMura bhfuil iarratas déanta agat ar [${host}]( https://${host})${action}, déan neamhaird den teachtaireacht seo le do thoil.\n"

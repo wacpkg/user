@@ -1,0 +1,1 @@
+export default "[${host}] .${action}सत्यापनसङ्केतः : १.${code}\n\n[${host}](https://${host}) ९.${action}सत्यापनसङ्केतः : १.${code}.\n\nयदि भवता [${host}](https://${host}) ९.${action}, कृपया एतत् सन्देशं अवहेलयन्तु।\n\nयदि भवता [${host}](https://${host}) ९.${action}, कृपया एतत् सन्देशं अवहेलयन्तु।\n"

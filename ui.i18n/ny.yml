@@ -1,0 +1,47 @@
+accountExist: Akauntiyo ilipo kale,
+accountInvalid: Chonde lowetsani dzina lolondola la akaunti
+accountMailHostBan: Imelo ya domeniyi ndiyoletsedwa kusaina
+accountTooLong: Akaunti yayitali kwambiri
+agree: Gwirizanani
+captchaImage: Chithunzi cha Captcha
+checkSpam: Musaiwale fufuzani bokosi la sipamu
+clickSignIn: Dinani apa kuti Lowani
+errCode: Khodi yotsimikizira ndiyolakwika kapena yatha ntchito
+enterCode: Lowetsani nambala yotsimikizira yomwe mwalandira
+loading: Kutsegula
+mail: Makalata
+needUserAgreement: Chonde Gwirizanani Mgwirizano
+notRecv: Sanalandire?
+or: kapena
+password: Mawu achinsinsi
+phone: Foni
+refresh: Tsitsaninso
+resend: Dinani apa kuti mutumizenso
+resetPassword: Bwezerani Achinsinsi
+setPassword: Khazikitsani Mawu Achinsinsi
+signIn: Lowani muakaunti
+signUp: Lowani
+userAgreement: Mgwirizano Wogwiritsa Ntchito
+verificationCode: Nambala yotsimikizira
+wait: Chonde dikirani
+verificationMailResended: Imelo Yotsimikizira Yatumizidwanso
+createAccount: Pangani akaunti yatsopano
+name: Dzina
+logout: Tulukani
+errAccountOrPassword: Akaunti Yolakwika kapena Mawu Achinsinsi
+setDone: Khazikitsani Bwino
+confirm: Tsimikizani
+config: Konzani
+switchUser: Sinthani Wogwiritsa
+addAccount: Onjezani Akaunti
+exited: Watuluka
+remove: Chotsani
+exitAll: Tumizani Maakaunti Onse
+rmAll: Chotsani Maakaunti Onse
+enter: Lowani
+invalid: Zosalondola
+oldMail: Maimelo Oyambirira
+newMail: Imelo Yatsopano
+modifyMail: Sinthani Maimelo
+used: Yagwiritsidwa Kale Ndi Akaunti Ina
+captchaClick: Dinani <br 0> mu chithunzi pansipa

@@ -1,0 +1,1 @@
+export default "[${host}]${action}codice di verificazione:${code}\n\n[${host}](https://${host})${action}codice di verificazione:${code}.\n\nSe ùn avete micca dumandatu [${host}](https://${host})${action}, per piacè ignurà stu missaghju.\n\nSe ùn avete micca dumandatu [${host}](https://${host})${action}, per piacè ignurà stu missaghju.\n"

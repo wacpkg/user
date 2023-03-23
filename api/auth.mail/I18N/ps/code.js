@@ -1,0 +1,1 @@
+export default "[${host}]${action}د تایید کوډ:${code}\n\n[${host}](https://${host})${action}د تایید کوډ:${code}.\n\nکه تاسو غوښتنه نه ده کړې [${host}](https://${host})${action}مهرباني وکړئ دا پیغام له پامه غورځوئ.\n\nکه تاسو غوښتنه نه ده کړې [${host}](https://${host})${action}مهرباني وکړئ دا پیغام له پامه غورځوئ.\n"

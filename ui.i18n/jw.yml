@@ -1,0 +1,47 @@
+accountExist: Akun wis ana,
+accountInvalid: Mangga ketik jeneng akun sing bener
+accountMailHostBan: Email domain iki dilarang kanggo ndhaptar
+accountTooLong: Akun dawa banget
+agree: Setuju
+captchaImage: Gambar Captcha
+checkSpam: Aja lali mriksa kothak layang spam
+clickSignIn: Klik kene kanggo mlebu
+errCode: Kode verifikasi ana kesalahan utawa kadaluwarsa
+enterCode: Ketik kode verifikasi sing ditampa
+loading: Loading
+mail: layang
+needUserAgreement: Mangga Agree Agreement
+notRecv: Ora ditampa?
+or: utawa
+password: Sandi
+phone: Telpon
+refresh: Refresh
+resend: Klik kene kanggo ngirim maneh
+resetPassword: Reset Sandi
+setPassword: Setel Sandi
+signIn: Mlebu
+signUp: Ndaftar
+userAgreement: Persetujuan pangguna
+verificationCode: Kode verifikasi
+wait: Mangga Enteni
+verificationMailResended: Surat Verifikasi dikirim maneh
+createAccount: Nggawe akun anyar
+name: jeneng
+logout: Metu
+errAccountOrPassword: Akun utawa Sandi sing salah
+setDone: Setel kanthi sukses
+confirm: Konfirmasi
+config: Konfigurasi
+switchUser: Ngalih Panganggo
+addAccount: Tambah Akun
+exited: Log metu
+remove: Mbusak
+exitAll: Logout Kabeh Akun
+rmAll: Mbusak Kabeh Akun
+enter: Ketik
+invalid: ora sah
+oldMail: Surat Asli
+newMail: Surat Anyar
+modifyMail: Ngowahi Mail
+used: Wis Digunakake dening Akun Liyane
+captchaClick: Klik <br 0> ing gambar ngisor

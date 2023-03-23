@@ -1,0 +1,1 @@
+export default "[${host}]${action}ચકાસણી કોડ:${code}\n\n[${host}](https://${host})${action}ચકાસણી કોડ:${code}.\n\nજો તમે [${host}](https://${host})${action}, કૃપા કરીને આ સંદેશને અવગણો.\n\nજો તમે [${host}](https://${host})${action}, કૃપા કરીને આ સંદેશને અવગણો.\n"

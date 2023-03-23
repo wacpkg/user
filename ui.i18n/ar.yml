@@ -1,0 +1,47 @@
+accountExist: الحساب موجود بالفعل ،
+accountInvalid: الرجاء إدخال اسم حساب صالح
+accountMailHostBan: تم حظر بريد هذا المجال للتسجيل
+accountTooLong: الحساب طويل جدًا
+agree: يوافق
+captchaImage: صورة CAPTCHA
+checkSpam: لا تنس التحقق من صندوق البريد العشوائي
+clickSignIn: اضغط هنا لتسجيل الدخول
+errCode: رمز التحقق خطأ أو منتهي الصلاحية
+enterCode: أدخل رمز التحقق الذي تلقيته
+loading: تحميل
+mail: بريد
+needUserAgreement: الرجاء الموافقة على الاتفاقية
+notRecv: لم يتم الاستلام ؟
+or: أو
+password: كلمة المرور
+phone: هاتف
+refresh: ينعش
+resend: انقر هنا لإعادة الإرسال
+resetPassword: إعادة تعيين كلمة المرور
+setPassword: ضبط كلمة السر
+signIn: تسجيل الدخول
+signUp: اشتراك
+userAgreement: اتفاقية المستخدم
+verificationCode: رمز التحقق
+wait: انتظر من فضلك
+verificationMailResended: إعادة إرسال بريد التحقق
+createAccount: انشاء حساب جديد
+name: اسم
+logout: تسجيل خروج
+errAccountOrPassword: حساب أو كلمة مرور غير صحيحة
+setDone: تم التعيين بنجاح
+confirm: يتأكد
+config: التكوين
+switchUser: تغير المستخدم
+addAccount: إضافة حساب
+exited: تسجيل الخروج
+remove: يزيل
+exitAll: تسجيل الخروج من جميع الحسابات
+rmAll: إزالة كافة الحسابات
+enter: يدخل
+invalid: غير صالح
+oldMail: البريد الأصلي
+newMail: بريد جديد
+modifyMail: تعديل البريد
+used: مستخدم بالفعل بواسطة حساب آخر
+captchaClick: انقر <br 0> في الصورة أدناه

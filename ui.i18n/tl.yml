@@ -1,0 +1,47 @@
+accountExist: Umiiral na ang account,
+accountInvalid: Mangyaring magpasok ng wastong pangalan ng account
+accountMailHostBan: Ang mail ng domain na ito ay pinagbawalan na mag-signup
+accountTooLong: Masyadong mahaba ang account
+agree: Sumang-ayon
+captchaImage: Larawan ng Captcha
+checkSpam: Huwag kalimutang suriin ang spam mailbox
+clickSignIn: Mag-click dito upang Mag-signIn
+errCode: Ang verification code ay error o nag-expire na
+enterCode: Ilagay ang verification code na iyong natanggap
+loading: Naglo-load
+mail: Mail
+needUserAgreement: Mangyaring Sumang-ayon sa Kasunduan
+notRecv: Hindi natanggap ?
+or: o
+password: Password
+phone: Telepono
+refresh: Refresh
+resend: Mag-click dito upang muling ipadala
+resetPassword: I-reset ang Password
+setPassword: Itakda ang Password
+signIn: Mag-signIn
+signUp: Mag-signUp
+userAgreement: Kasunduan ng User
+verificationCode: Verification Code
+wait: Mangyaring Maghintay
+verificationMailResended: Naipadalang muli ang Verification Mail
+createAccount: Lumikha ng Bagong Account
+name: Pangalan
+logout: Mag-logout
+errAccountOrPassword: Maling Account o Password
+setDone: Matagumpay na Itakda
+confirm: Kumpirmahin
+config: Config
+switchUser: Paglipat ng gumagamit
+addAccount: Magdagdag ng account
+exited: Naka-log out
+remove: Alisin
+exitAll: Mag-logout sa Lahat ng Account
+rmAll: Alisin ang Lahat ng Account
+enter: Pumasok
+invalid: Di-wasto
+oldMail: Orihinal na Mail
+newMail: Bagong Mail
+modifyMail: Baguhin ang Mail
+used: Ginamit Na Ng Ibang Account
+captchaClick: I-click <br 0> sa larawan sa ibaba

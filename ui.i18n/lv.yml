@@ -1,0 +1,47 @@
+accountExist: Konts jau pastāv,
+accountInvalid: Lūdzu, ievadiet derīgu konta nosaukumu
+accountMailHostBan: Šī domēna pastam ir aizliegts reģistrēties
+accountTooLong: Konts ir pārāk garš
+agree: Piekrītu
+captchaImage: Captcha attēls
+checkSpam: Neaizmirstiet pārbaudīt surogātpasta pastkasti
+clickSignIn: Noklikšķiniet šeit, lai pierakstītos
+errCode: Verifikācijas kods ir kļūda vai beidzies derīguma termiņš
+enterCode: Ievadiet saņemto verifikācijas kodu
+loading: Notiek ielāde
+mail: Pasts
+needUserAgreement: Lūdzu, piekrītiet līgumam
+notRecv: Nav saņemts ?
+or: vai
+password: Parole
+phone: Tālrunis
+refresh: atjaunot
+resend: Noklikšķiniet šeit, lai nosūtītu atkārtoti
+resetPassword: Atiestatīt paroli
+setPassword: Uzstādīt paroli
+signIn: Ielogoties
+signUp: Pierakstīties
+userAgreement: Lietotāja līgums
+verificationCode: Verifikācijas kods
+wait: Lūdzu uzgaidiet
+verificationMailResended: Verifikācijas pasts nosūtīts atkārtoti
+createAccount: Izveidot jaunu kontu
+name: Vārds
+logout: Izlogoties
+errAccountOrPassword: Nepareizs konts vai parole
+setDone: Sekmīgi iestatīts
+confirm: Apstiprināt
+config: Konfig
+switchUser: Pārslēgt lietotāju
+addAccount: Pievienot kontu
+exited: Izlogojies
+remove: Noņemt
+exitAll: Atteikties no visiem kontiem
+rmAll: Noņemt visus kontus
+enter: Ievadiet
+invalid: Nederīgs
+oldMail: Oriģinālais pasts
+newMail: Jauns pasts
+modifyMail: Mainīt pastu
+used: Jau izmanto cits konts
+captchaClick: Klikšķis <br 0> zemāk esošajā attēlā

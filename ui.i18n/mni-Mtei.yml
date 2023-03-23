@@ -1,0 +1,47 @@
+accountExist: ꯑꯦꯀꯥꯎꯟꯇ ꯑꯁꯤ ꯍꯥꯟꯅꯅꯥ ꯂꯩꯔꯦ, [...]
+accountInvalid: ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯆꯠꯅꯕꯥ ꯌꯥꯕꯥ ꯑꯦꯀꯥꯎꯟꯇꯀꯤ ꯃꯃꯤꯡ ꯑꯃꯥ ꯑꯦꯟꯇꯔ ꯇꯧꯕꯤꯌꯨ꯫
+accountMailHostBan: ꯗꯣꯃꯦꯏꯟ ꯑꯁꯤꯒꯤ ꯃꯦꯏꯜ ꯑꯁꯤ ꯁꯥꯏꯟ ꯑꯥꯞ ꯇꯧꯕꯗꯥ ꯑꯊꯤꯡꯕꯥ ꯊꯝꯂꯤ꯫
+accountTooLong: ꯑꯦꯀꯥꯎꯟꯇ ꯌꯥꯝꯅꯥ ꯁꯥꯡꯏ꯫
+agree: ꯌꯥꯕ
+captchaImage: ꯀꯦꯄꯆꯥ ꯏꯃꯦꯖ꯫
+checkSpam: ꯁ꯭ꯄꯦꯝ ꯃꯦꯏꯜ ꯕꯛꯁ ꯑꯗꯨ ꯆꯦꯛ ꯇꯧꯕꯥ ꯀꯥꯎꯔꯣꯏꯗꯕꯅꯤ꯫
+clickSignIn: ꯁꯥꯏꯟꯏꯟ ꯇꯧꯅꯕꯒꯤꯗꯃꯛ ꯃꯐꯃꯁꯤꯗꯥ ꯀ꯭ꯂꯤꯛ ꯇꯧꯕꯤꯌꯨ꯫
+errCode: ꯚꯦꯔꯤꯐꯤꯀꯦꯁꯟ ꯀꯣꯗ ꯑꯁꯤ ꯑꯁꯣꯌꯕꯥ ꯂꯩꯔꯦ ꯅꯠꯠꯔꯒꯥ ꯃꯇꯝ ꯂꯣꯏꯔꯦ꯫
+enterCode: ꯅꯍꯥꯛꯅꯥ ꯐꯪꯈꯤꯕꯥ ꯚꯦꯔꯤꯐꯤꯀꯦꯁꯟ ꯀꯣꯗ ꯑꯗꯨ ꯑꯦꯟꯇꯔ ꯇꯧꯔꯣ꯫
+loading: ꯂꯣꯗ ꯇꯧꯕꯥ꯫
+mail: ꯃꯦꯜ ꯇꯧꯕꯥ꯫
+needUserAgreement: ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯑꯦꯒ꯭ꯔꯤꯃꯦꯟꯇ ꯑꯗꯨ ꯌꯥꯕꯤꯌꯨ꯫
+notRecv: ꯐꯪꯗ꯭ꯔꯤꯕꯔꯥ ?
+or: ꯅꯠꯇ꯭ꯔꯒ
+password: ꯑꯔꯣꯟꯕꯁꯣ
+phone: ꯐꯣꯟ
+refresh: ꯔꯤꯐ꯭ꯔꯦꯁ ꯇꯧꯕꯥ꯫
+resend: ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯊꯥꯅꯕꯒꯤꯗꯃꯛ ꯃꯐꯃꯁꯤꯗꯥ ꯀ꯭ꯂꯤꯛ ꯇꯧꯕꯤꯌꯨ꯫
+resetPassword: ꯄꯥꯁꯋꯥꯔꯗ ꯔꯤꯁꯦꯠ ꯇꯧꯕꯥ꯫
+setPassword: ꯄꯥꯁꯋꯥꯔꯗ ꯁꯦꯠ ꯇꯧꯔꯣ꯫
+signIn: ꯁꯥꯏꯟꯏꯟ ꯇꯧꯕꯥ꯫
+signUp: ꯁꯥꯏꯟꯑꯞ ꯇꯧꯕꯥ꯫
+userAgreement: ꯌꯨꯖꯔ ꯑꯦꯒ꯭ꯔꯤꯃꯦꯟꯇ꯫
+verificationCode: ꯚꯦꯔꯤꯐꯤꯀꯦꯁꯟ ꯀꯣꯗ꯫
+wait: ꯆꯥꯅꯕꯤꯗꯨꯅꯥ ꯉꯥꯏꯕꯤꯌꯨ꯫
+verificationMailResended: ꯚꯦꯔꯤꯐꯤꯀꯦꯁꯟ ꯃꯦꯜ ꯑꯃꯨꯛ ꯍꯟꯅꯥ ꯊꯥꯗꯣꯀꯈ꯭ꯔꯦ꯫
+createAccount: ꯑꯅꯧꯕꯥ ꯑꯦꯀꯥꯎꯟꯇ ꯑꯃꯥ ꯁꯦꯝꯃꯨ꯫
+name: ꯃꯤꯡ
+logout: ꯂꯣꯒꯑꯥꯎꯠ ꯇꯧꯕꯥ꯫
+errAccountOrPassword: ꯑꯔꯥꯅꯕꯥ ꯑꯦꯀꯥꯎꯟꯇ ꯅꯠꯔꯒꯥ ꯄꯥꯁꯋꯥꯔꯗ꯫
+setDone: ꯃꯥꯌ ꯄꯥꯛꯅꯥ ꯁꯦꯠ ꯇꯧꯕꯥ꯫
+confirm: ꯌꯥꯕ
+config: ꯀꯅꯐꯤꯒꯔ ꯇꯧꯕꯥ꯫
+switchUser: ꯌꯨꯖꯔ ꯍꯣꯡꯗꯣꯀꯄꯥ꯫
+addAccount: ꯑꯦꯀꯥꯎꯟꯇ ꯍꯥꯄꯀꯗꯕꯅꯤ꯫
+exited: ꯂꯣꯒ ꯑꯥꯎꯠ ꯇꯧꯈ꯭ꯔꯦ꯫
+remove: ꯂꯧꯊꯣꯛꯄ
+exitAll: ꯑꯦꯀꯥꯎꯟꯇ ꯄꯨꯝꯅꯃꯛ ꯂꯣꯒꯑꯥꯎꯠ ꯇꯧ꯫
+rmAll: ꯑꯦꯀꯥꯎꯟꯇ ꯄꯨꯝꯅꯃꯛ ꯂꯧꯊꯣꯀꯎ꯫
+enter: ꯆꯪꯕ
+invalid: ꯆꯠꯅꯗ꯭ꯔꯕ
+oldMail: ꯑꯔꯤꯖꯤꯅꯦꯜ ꯃꯦꯜ꯫
+newMail: ꯑꯅꯧꯕꯥ ꯃꯦꯜ꯫
+modifyMail: ꯃꯦꯜ ꯃꯣꯗꯤꯐꯥꯏ ꯇꯧꯕꯥ꯫
+used: ꯍꯥꯟꯅꯅꯥ ꯑꯇꯣꯞꯄꯥ ꯑꯦꯀꯥꯎꯟꯇ ꯑꯃꯅꯥ ꯁꯤꯖꯤꯟꯅꯈ꯭ꯔꯦ꯫
+captchaClick: ꯀ꯭ꯂꯤꯛ ꯇꯧꯔꯣ꯫ <br 0> ꯃꯈꯥꯗꯥ ꯄꯤꯔꯤꯕꯥ ꯏꯃꯦꯖ ꯑꯁꯤꯗꯥ ꯌꯥꯑꯣꯔꯤ꯫

@@ -1,0 +1,1 @@
+export default "[${host}]${action}kinnituskood:${code}\n\n[${host}](https://${host})${action}kinnituskood:${code}.\n\nKui te ei ole taotlenud [${host}](https://${host})${action}, palun ignoreeri seda sõnumit.\n\nKui te ei ole taotlenud [${host}](https://${host})${action}, palun ignoreeri seda sõnumit.\n"

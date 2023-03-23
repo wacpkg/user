@@ -1,0 +1,47 @@
+accountExist: اڪائونٽ اڳ ۾ ئي موجود آهي،
+accountInvalid: مھرباني ڪري صحيح کاتي جو نالو داخل ڪريو
+accountMailHostBan: ھن ڊومين جي ميل سائن اپ ڪرڻ تي پابندي آھي
+accountTooLong: اڪائونٽ تمام ڊگهو
+agree: متفق
+captchaImage: ڪيپچا تصوير
+checkSpam: اسپام ميل باڪس چيڪ ڪرڻ نه وساريو
+clickSignIn: سائن ان ڪرڻ لاءِ هتي ڪلڪ ڪريو
+errCode: تصديق ڪوڊ غلطي يا ختم ٿي چڪو آهي
+enterCode: توهان کي مليل تصديقي ڪوڊ داخل ڪريو
+loading: لوڊشيڊنگ
+mail: ٽپال
+needUserAgreement: مھرباني ڪري اتفاق ڪريو
+notRecv: حاصل نه ڪيو؟
+or: يا
+password: پاسورڊ
+phone: فون
+refresh: تازو ڪريو
+resend: ٻيهر موڪلڻ لاءِ هتي ڪلڪ ڪريو
+resetPassword: پاسورڊ ري سيٽ ڪريو
+setPassword: پاسورڊ سيٽ ڪريو
+signIn: سائن ان ڪريو
+signUp: سائن اپ ڪريو
+userAgreement: استعمال ڪندڙ جو معاهدو
+verificationCode: تصديق ڪوڊ
+wait: مهرباني ڪري انتظار ڪريو
+verificationMailResended: تصديق واري ميل ٻيهر موڪليو ويو
+createAccount: نئون اڪائونٽ ٺاهيو
+name: نالو
+logout: ڪم ڇڏڻ
+errAccountOrPassword: غلط اڪائونٽ يا پاسورڊ
+setDone: ڪاميابي سان سيٽ ڪريو
+confirm: تصديق ڪريو
+config: ترتيب
+switchUser: استعمال ڪندڙ کي تبديل ڪريو
+addAccount: اڪائونٽ شامل ڪريو
+exited: لاگ آئوٽ ٿيو
+remove: هٽايو
+exitAll: لاگ آئوٽ سڀ اڪائونٽس
+rmAll: سڀ اڪائونٽ ختم ڪريو
+enter: داخل ڪريو
+invalid: غلط
+oldMail: اصل ٽپال
+newMail: نئون ميل
+modifyMail: ميل تبديل ڪريو
+used: اڳ ۾ ئي ٻئي اڪائونٽ طرفان استعمال ڪيو ويو آهي
+captchaClick: ڪلڪ ڪريو <br 0> هيٺ ڏنل تصوير ۾

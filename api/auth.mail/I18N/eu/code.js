@@ -1,0 +1,1 @@
+export default "[${host}]${action}egiaztapen-kodea:${code}\n\n[${host}](https://${host})${action}egiaztapen-kodea:${code}.\n\nEz baduzu eskatu [${host}](https://${host})${action}, mesedez, ez ikusi mezu honi.\n\nEz baduzu eskatu [${host}](https://${host})${action}, mesedez, ez ikusi mezu honi.\n"

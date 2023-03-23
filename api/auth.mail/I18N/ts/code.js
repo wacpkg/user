@@ -1,0 +1,1 @@
+export default "[${host}]${action}khodi yo tiyisisa:${code}\n\n[${host}](https://ku.${host}) .${action}khodi yo tiyisisa:${code}.\n\nLoko u nga si endla xikombelo xa [ .${host}](https://ku.${host}) .${action}, ndzi kombela u honisa rungula leri.\n\nLoko u nga si endla xikombelo xa [ .${host}](https://ku.${host}) .${action}, ndzi kombela u honisa rungula leri.\n"

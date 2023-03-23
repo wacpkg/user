@@ -1,0 +1,47 @@
+accountExist: खाता त पहिलहीं से मौजूद बा,
+accountInvalid: कृपया एगो वैध खाता के नाम दर्ज करीं
+accountMailHostBan: एह डोमेन के मेल साइनअप पर रोक लगा दिहल गइल बा
+accountTooLong: खाता बहुत लंबा बा
+agree: मानल
+captchaImage: कैप्चा इमेज के बा
+checkSpam: स्पैम मेलबॉक्स के जांच मत भूलीं
+clickSignIn: साइनइन करे खातिर इहाँ क्लिक करीं
+errCode: सत्यापन कोड में त्रुटि बा भा एक्सपायरी हो गइल बा
+enterCode: रउरा मिलल सत्यापन कोड दर्ज करीं
+loading: लोड हो रहल बा
+mail: मेल के बा
+needUserAgreement: कृपया सहमति से सहमत बानी
+notRecv: ना मिलल ?
+or: अऊर
+password: पासवर्ड
+phone: फोन
+refresh: ताज़ा कर दिहल जाव
+resend: दोबारा भेजे खातिर इहाँ क्लिक करीं
+resetPassword: पासवर्ड के रीसेट करीं
+setPassword: पासवर्ड सेट करीं
+signIn: साइनइन करीं
+signUp: साइनअप कर लीं
+userAgreement: उपयोगकर्ता समझौता के बारे में बतावल गइल बा
+verificationCode: सत्यापन कोड के बारे में बतावल गइल बा
+wait: कृपया इंतजार करीं
+verificationMailResended: सत्यापन मेल फेर से भेजल गइल
+createAccount: नया खाता बनाईं
+name: नांव
+logout: लॉगआउट हो गइल बा
+errAccountOrPassword: गलत खाता भा पासवर्ड बा
+setDone: सफलतापूर्वक सेट कइल गइल बा
+confirm: पक्का कयिल
+config: कॉन्फ़िगर कइल जाला
+switchUser: उपयोगकर्ता के स्विच करीं
+addAccount: खाता जोड़ल जाला
+exited: लॉग आउट हो गइल बा
+remove: निकालल
+exitAll: सब खाता के लॉगआउट करीं
+rmAll: सब खाता हटा दीं
+enter: घुसऽ
+invalid: अमान्य
+oldMail: मूल मेल के बा
+newMail: नया मेल मिलल बा
+modifyMail: मेल में संशोधन कइल जाव
+used: पहिले से कवनो दोसरा खाता के इस्तेमाल कइल गइल बा
+captchaClick: क्लिक करीं <br 0> नीचे दिहल छवि में दिहल गइल बा

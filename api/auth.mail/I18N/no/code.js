@@ -1,0 +1,1 @@
+export default "[${host}]${action}bekreftelseskode:${code}\n\n[${host}](https://${host})${action}bekreftelseskode:${code}.\n\nHvis du ikke har søkt om [${host}](https://${host})${action}, vennligst ignorer denne meldingen.\n\nHvis du ikke har søkt om [${host}](https://${host})${action}, vennligst ignorer denne meldingen.\n"

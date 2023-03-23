@@ -1,0 +1,1 @@
+export default "[${host}]${action}doğrulama kodu:${code}\n\n[${host}](https://${host})${action}doğrulama kodu:${code}.\n\n[${host}](https://${host})${action}, lütfen bu mesajı dikkate almayın.\n\n[${host}](https://${host})${action}, lütfen bu mesajı dikkate almayın.\n"

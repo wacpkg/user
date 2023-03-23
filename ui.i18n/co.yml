@@ -1,0 +1,47 @@
+accountExist: U contu esiste digià,
+accountInvalid: Per piacè inserite un nome di contu validu
+accountMailHostBan: U mail di stu duminiu hè pruibitu di firmà
+accountTooLong: U contu troppu longu
+agree: D'accordu
+captchaImage: Captcha Image
+checkSpam: Ùn vi scurdate di verificà a casella di spam
+clickSignIn: Cliccate quì per SignIn
+errCode: U codice di verificazione hè errore o scadutu
+enterCode: Inserite u codice di verificazione chì avete ricevutu
+loading: Carica
+mail: Mail
+needUserAgreement: Per piacè Accordu Accordu
+notRecv: Ùn hè micca ricevutu ?
+or: o
+password: Codice
+phone: telefonu
+refresh: Refresh
+resend: Cliccate quì per rinvià
+resetPassword: Resetten Password
+setPassword: Set Password
+signIn: Firmà lu
+signUp: Firma
+userAgreement: Accordu d'Usuariu
+verificationCode: Codice di verificazione
+wait: Per piacè Aspetta
+verificationMailResended: Mail di verificazione rimandata
+createAccount: Crea un novu contu
+name: Nome
+logout: Scunnettà si
+errAccountOrPassword: Cuntu o Password sbagliatu
+setDone: Set Successivamente
+confirm: Cunfirmà
+config: Config
+switchUser: Cambia User
+addAccount: Add Account
+exited: Connessu
+remove: Eliminate
+exitAll: Logout All Accounts
+rmAll: Elimina tutti i cunti
+enter: Entre
+invalid: Invalidu
+oldMail: Mail uriginale
+newMail: New Mail
+modifyMail: Mudificà Mail
+used: Digià utilizatu da un altru contu
+captchaClick: Cliccate <br 0> in l'imagine sottu

@@ -1,0 +1,1 @@
+export default "[1] .${host}] .${action}chiqapa uñt’ayawi: 1.1.${code}\n\n[1] .${host}](https://qu.${host}) .${action}chiqapa uñt’ayawi: 1.1.${code}.\n\nUkaxa janiwa [ 1 ].${host}](https://qu.${host}) .${action}, uka yatiyäw jan yäqapxamti.\n\nUkaxa janiwa [ 1 ].${host}](https://qu.${host}) .${action}, uka yatiyäw jan yäqapxamti.\n"

@@ -1,0 +1,47 @@
+accountExist: Iwe akọọlẹ naa ti wa tẹlẹ,
+accountInvalid: Jọwọ tẹ orukọ akọọlẹ to wulo sii
+accountMailHostBan: Ifiweranṣẹ agbegbe yii ti gbesele lati forukọsilẹ
+accountTooLong: Iroyin gun ju
+agree: Gba
+captchaImage: Aworan Captcha
+checkSpam: Maṣe gbagbe ṣayẹwo apoti leta spam
+clickSignIn: Tẹ ibi lati Wọle
+errCode: Koodu idaniloju jẹ aṣiṣe tabi ti pari
+enterCode: Tẹ koodu idaniloju ti o gba wọle
+loading: Ikojọpọ
+mail: meeli
+needUserAgreement: Jọwọ Gba Adehun
+notRecv: Ko gba?
+or: tabi
+password: Ọrọigbaniwọle
+phone: Foonu
+refresh: Tuntun
+resend: Tẹ ibi lati tun firanṣẹ
+resetPassword: Tun Ọrọigbaniwọle to
+setPassword: Ṣeto Ọrọigbaniwọle
+signIn: Wọle
+signUp: Forukọsilẹ
+userAgreement: Adehun olumulo
+verificationCode: Kodu afimo
+wait: Jọwọ duro
+verificationMailResended: Ifijiṣẹ Mail Tuntun
+createAccount: Ṣẹda iroyin titun
+name: Oruko
+logout: Jade jade
+errAccountOrPassword: Ti ko tọ Account tabi Ọrọigbaniwọle
+setDone: Ṣeto ni aṣeyọri
+confirm: Jẹrisi
+config: Iṣeto
+switchUser: Yipada User
+addAccount: Fi Account
+exited: Ti jade
+remove: Yọ kuro
+exitAll: Jade Gbogbo Awọn iroyin
+rmAll: Yọ Gbogbo Awọn akọọlẹ kuro
+enter: Wọle
+invalid: Ti ko tọ
+oldMail: Ifiweranṣẹ atilẹba
+newMail: New Mail
+modifyMail: Ṣe atunṣe Mail
+used: Tẹlẹ Lo Nipa Miiran Account
+captchaClick: Tẹ <br 0> ni isalẹ aworan

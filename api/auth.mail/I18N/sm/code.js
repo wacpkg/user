@@ -1,0 +1,1 @@
+export default "[${host}]${action}tulafono fa'amaonia:${code}\n\n[${host}](https://${host})${action}tulafono fa'amaonia:${code}.\n\nAfai e te le'i talosaga mo [${host}](https://${host})${action}, faamolemole le amana'ia lenei savali.\n\nAfai e te le'i talosaga mo [${host}](https://${host})${action}, faamolemole le amana'ia lenei savali.\n"

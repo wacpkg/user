@@ -1,0 +1,1 @@
+export default "[${host}]${action}баталгаажуулах код:${code}\n\n[${host}](https://${host})${action}баталгаажуулах код:${code}.\n\nХэрэв та өргөдөл гаргаагүй бол [${host}](https://${host})${action}, энэ мессежийг үл тооно уу.\n\nХэрэв та өргөдөл гаргаагүй бол [${host}](https://${host})${action}, энэ мессежийг үл тооно уу.\n"

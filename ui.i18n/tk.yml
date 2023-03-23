@@ -1,0 +1,47 @@
+accountExist: Hasap eýýäm bar,
+accountInvalid: Dogry hasap adyny giriziň
+accountMailHostBan: Bu domeniň poçta ýazylmagy gadagan edildi
+accountTooLong: Hasap gaty uzyn
+agree: Razy
+captchaImage: Captcha suraty
+checkSpam: Spam poçta gutusyny barlamagy ýatdan çykarmaň
+clickSignIn: Giriş üçin şu ýere basyň
+errCode: Barlag kody säwlik ýa-da möhleti gutardy
+enterCode: Alnan tassyklama kody giriziň
+loading: Adingüklemek
+mail: Poçta
+needUserAgreement: Ylalaşyk bilen ylalaşmagyňyzy haýyş edýäris
+notRecv: Almadyňyzmy?
+or: ýa-da
+password: Parol
+phone: Telefon
+refresh: Täzele
+resend: Ibermek üçin şu ýere basyň
+resetPassword: Paroly täzeden düzmek
+setPassword: Paroly düzüň
+signIn: Giriş
+signUp: SignUp
+userAgreement: Ulanyjy şertnamasy
+verificationCode: Barlag kody
+wait: Garaşyň
+verificationMailResended: Barlag haty yzyna iberildi
+createAccount: Täze hasap dörediň
+name: Ady
+logout: Hasapdan çykmak
+errAccountOrPassword: Nädogry hasap ýa-da parol
+setDone: Üstünlik bilen düzüň
+confirm: Tassykla
+config: Sazlamak
+switchUser: Ulanyjyny çalyş
+addAccount: Hasap goşuň
+exited: Çykdy
+remove: Aýyr
+exitAll: Allhli hasaplardan çykyň
+rmAll: Accountshli hasaplary aýyryň
+enter: Enter
+invalid: Nädogry
+oldMail: Asyl poçta
+newMail: Täze poçta
+modifyMail: Poçta üýtgediň
+used: Eýýäm başga bir hasap bilen ulanylýar
+captchaClick: Basyň <br 0> aşakdaky suratda

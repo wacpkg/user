@@ -1,0 +1,47 @@
+accountExist: खातें पयलींच अस्तित्वांत आसा,
+accountInvalid: उपकार करून वैध खात्याचें नांव घालात
+accountMailHostBan: ह्या डोमेनाचो मेल सायनअप करपाक बंदी घाली
+accountTooLong: खातें चड लांब
+agree: मान्य
+captchaImage: कॅप्टचा इमेज
+checkSpam: स्पॅम मेलबॉक्स तपासपाक विसरूं नाकात
+clickSignIn: सायनइन करपाक हांगा क्लिक करात
+errCode: सत्यापन कोड त्रुटी वा कालबाह्य जाला
+enterCode: तुमकां मेळिल्लो सत्यापन कोड दाखयात
+loading: लोड करप
+mail: मेल
+needUserAgreement: उपकार करून करार मान्य करात
+notRecv: मेळूंक ना ?
+or: वा
+password: पासवर्ड
+phone: फोन
+refresh: ताजें करचें
+resend: परतून धाडपाक हांगा क्लिक करात
+resetPassword: पासवर्ड रीसेट करात
+setPassword: पासवर्ड सेट करचो
+signIn: सायनइन करचें
+signUp: सायनअप करचें
+userAgreement: वापरपी करार
+verificationCode: सत्यापन संहिता
+wait: कृपा करून वाट पळयात
+verificationMailResended: सत्यापन मेल परतून धाडलो
+createAccount: नवे खातें तयार करचें
+name: नांव
+logout: लॉगआउट करप
+errAccountOrPassword: चुकीचें खातें वा पासवर्ड
+setDone: यशस्वीपणान सेट करात
+confirm: निश्चीत
+config: कॉन्फिग करप
+switchUser: वापरपी स्वीच करात
+addAccount: खातें जोडचें
+exited: लॉग आउट जालें
+remove: काडचें
+exitAll: सगळे खातीं लॉगआउट करात
+rmAll: सगळीं खातीं काडून उडोवचीं
+enter: प्रवेश
+invalid: अवैध
+oldMail: मूळ मेल
+newMail: नवी मेल
+modifyMail: मेलांत बदल करप
+used: पयलींच दुसर् या खात्यान वापरिल्लें
+captchaClick: क्लिक करात <br 0> सकयल दिल्ल्या प्रतिमेंत

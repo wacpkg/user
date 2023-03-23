@@ -1,0 +1,1 @@
+export default "[${host}]${action}lambar tabbaci:${code}\n\n[${host}](https://${host})${action}lambar tabbaci:${code}.\n\nIdan baku nema ba [${host}](https://${host})${action}, da fatan za a yi watsi da wannan sakon.\n\nIdan baku nema ba [${host}](https://${host})${action}, da fatan za a yi watsi da wannan sakon.\n"

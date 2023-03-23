@@ -1,0 +1,47 @@
+accountExist: החשבון כבר קיים,
+accountInvalid: נא להזין שם חשבון חוקי
+accountMailHostBan: הדואר של הדומיין הזה נאסר להרשמה
+accountTooLong: חשבון ארוך מדי
+agree: לְהַסכִּים
+captchaImage: תמונת Captcha
+checkSpam: אל תשכח לבדוק את תיבת הדואר הזבל
+clickSignIn: לחץ כאן כדי להיכנס
+errCode: קוד האימות הוא שגיאה או שפג תוקפו
+enterCode: הזן את קוד האימות שקיבלת
+loading: טוען
+mail: דוֹאַר
+needUserAgreement: נא להסכים להסכם
+notRecv: לא התקבל?
+or: אוֹ
+password: סיסמה
+phone: טלפון
+refresh: לְרַעֲנֵן
+resend: לחץ כאן כדי לשלוח שוב
+resetPassword: לאפס את הסיסמה
+setPassword: הגדר סיסמא
+signIn: להתחבר
+signUp: הירשם
+userAgreement: הסכמת המשתמש
+verificationCode: קוד אימות
+wait: המתן בבקשה
+verificationMailResended: דואר אימות נשלח מחדש
+createAccount: ליצור חשבון חדש
+name: שֵׁם
+logout: להתנתק
+errAccountOrPassword: חשבון או סיסמה שגויים
+setDone: הגדר בהצלחה
+confirm: לְאַשֵׁר
+config: Config
+switchUser: החלף משתמש
+addAccount: הוסף חשבון
+exited: התנתק
+remove: לְהַסִיר
+exitAll: התנתק מכל החשבונות
+rmAll: הסר את כל החשבונות
+enter: להיכנס
+invalid: לא חוקי
+oldMail: דואר מקורי
+newMail: דואר חדש
+modifyMail: שנה דואר
+used: כבר בשימוש על ידי חשבון אחר
+captchaClick: נְקִישָׁה <br 0> בתמונה למטה

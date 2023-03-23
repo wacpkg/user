@@ -1,0 +1,1 @@
+export default "[${host}]${action}code ya vérification:${code}\n\n[${host}](https://www.${host}) .${action}code ya vérification:${code}.\n\nSoki osɛngaki te [ .${host}](https://www.${host}) .${action}, svp bo ignorer message oyo.\n\nSoki osɛngaki te [ .${host}](https://www.${host}) .${action}, svp bo ignorer message oyo.\n"

@@ -1,0 +1,47 @@
+accountExist: Mae'r cyfrif eisoes yn bodoli,
+accountInvalid: Rhowch enw cyfrif dilys
+accountMailHostBan: Mae post y parth hwn wedi'i wahardd i gofrestru
+accountTooLong: Cyfrif yn rhy hir
+agree: Cytuno
+captchaImage: Delwedd Captcha
+checkSpam: Peidiwch ag anghofio gwirio'r blwch post sbam
+clickSignIn: Cliciwch yma i Arwyddo
+errCode: Mae'r cod dilysu yn wall neu wedi dod i ben
+enterCode: Rhowch y cod dilysu a gawsoch
+loading: Llwytho
+mail: Post
+needUserAgreement: Os gwelwch yn dda Cytuno Cytundeb
+notRecv: Heb ei dderbyn?
+or: neu
+password: Cyfrinair
+phone: Ffonio
+refresh: Adnewyddu
+resend: Cliciwch yma i ail-anfon
+resetPassword: Ailosod cyfrinair
+setPassword: Gosod Cyfrinair
+signIn: Mewngofnodi
+signUp: Cofrestru
+userAgreement: Cytundeb Defnyddiwr
+verificationCode: Cod Dilysu
+wait: Arhoswch os gwelwch yn dda
+verificationMailResended: Post Dilysu wedi'i Ail- anfon
+createAccount: Creu cyfrif newydd
+name: Enw
+logout: Allgofnodi
+errAccountOrPassword: Cyfrif neu Gyfrinair Anghywir
+setDone: Gosod yn Llwyddiannus
+confirm: Cadarnhau
+config: Config
+switchUser: Newid Defnyddiwr
+addAccount: Ychwanegu Cyfrif
+exited: Wedi allgofnodi
+remove: Dileu
+exitAll: Allgofnodi Pob Cyfrif
+rmAll: Dileu Pob Cyfrif
+enter: Ewch i mewn
+invalid: Annilys
+oldMail: Post Gwreiddiol
+newMail: Post Newydd
+modifyMail: Addasu Post
+used: Eisoes Wedi'i Ddefnyddio Gan Gyfrif Arall
+captchaClick: Cliciwch <br 0> yn y llun isod

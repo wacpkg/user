@@ -1,0 +1,47 @@
+accountExist: Účet už existuje,
+accountInvalid: Zadajte platný názov účtu
+accountMailHostBan: E-mail tejto domény má zakázanú registráciu
+accountTooLong: Účet je príliš dlhý
+agree: Súhlasím
+captchaImage: Obrázok captcha
+checkSpam: Nezabudnite skontrolovať spamovú schránku
+clickSignIn: Kliknite sem a prihláste sa
+errCode: Overovací kód je chybný alebo jeho platnosť vypršala
+enterCode: Zadajte overovací kód, ktorý ste dostali
+loading: Načítava
+mail: Mail
+needUserAgreement: Súhlaste so Zmluvou
+notRecv: Nedostal ?
+or: alebo
+password: heslo
+phone: Telefón
+refresh: Obnoviť
+resend: Kliknutím sem znova odošlete
+resetPassword: Obnoviť heslo
+setPassword: Nastaviť heslo
+signIn: Prihlásiť sa
+signUp: Prihlásiť Se
+userAgreement: súhlas používateľa
+verificationCode: Overovací kód
+wait: Prosím čakajte
+verificationMailResended: Overovacia pošta bola znovu odoslaná
+createAccount: Vytvoriť nový účet
+name: názov
+logout: Odhlásiť sa
+errAccountOrPassword: Nesprávny účet alebo heslo
+setDone: Nastaviť úspešne
+confirm: Potvrďte
+config: Konfig
+switchUser: Zmeniť používateľa
+addAccount: Pridať účet
+exited: Odhlasený
+remove: Odstrániť
+exitAll: Odhlásiť všetky účty
+rmAll: Odstrániť všetky účty
+enter: Zadajte
+invalid: Neplatné
+oldMail: Pôvodná pošta
+newMail: Nová pošta
+modifyMail: Upraviť poštu
+used: Už ho používa iný účet
+captchaClick: Kliknite <br 0> na obrázku nižšie

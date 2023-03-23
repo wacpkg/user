@@ -1,0 +1,47 @@
+accountExist: Հաշիվն արդեն գոյություն ունի,
+accountInvalid: Խնդրում ենք մուտքագրել վավեր հաշվի անուն
+accountMailHostBan: Այս տիրույթի փոստն արգելված է գրանցվել
+accountTooLong: Հաշիվը չափազանց երկար է
+agree: Համաձայնվել
+captchaImage: Captcha պատկեր
+checkSpam: Մի մոռացեք ստուգել սպամի փոստարկղը
+clickSignIn: Սեղմեք այստեղ Մուտք գործելու համար
+errCode: Հաստատման կոդը սխալ է կամ ժամկետանց
+enterCode: Մուտքագրեք ստացված հաստատման կոդը
+loading: Բեռնվում է
+mail: Փոստ
+needUserAgreement: Խնդրում ենք Համաձայնել Համաձայնագիր
+notRecv: 'Չե՞ն ստացել:'
+or: կամ
+password: Գաղտնաբառ
+phone: Հեռախոս
+refresh: Թարմացնել
+resend: Սեղմեք այստեղ՝ նորից ուղարկելու համար
+resetPassword: Վերականգնել գաղտնաբառը
+setPassword: Սահմանել գաղտնաբառը
+signIn: Մուտք գործել
+signUp: Գրանցվել
+userAgreement: Օգտագործողի պայմանագիր
+verificationCode: Ստուգման կոդը
+wait: Խնդրում ենք սպասել
+verificationMailResended: Ստուգման նամակը նորից ուղարկվեց
+createAccount: Ստեղծեք նոր հաշիվ
+name: Անուն
+logout: Դուրս գալ
+errAccountOrPassword: Սխալ հաշիվ կամ գաղտնաբառ
+setDone: Սահմանել հաջողությամբ
+confirm: Հաստատել
+config: Կազմաձև
+switchUser: Փոխել օգտվողին
+addAccount: Ավելացնել հաշիվ
+exited: Դուրս է եկել
+remove: Հեռացնել
+exitAll: Դուրս գալ բոլոր հաշիվներից
+rmAll: Հեռացնել բոլոր հաշիվները
+enter: Մուտքագրեք
+invalid: Անվավեր
+oldMail: Բնօրինակ նամակ
+newMail: Նոր փոստ
+modifyMail: Փոփոխել փոստը
+used: Արդեն օգտագործվում է մեկ այլ հաշվի կողմից
+captchaClick: Սեղմել <br 0> ստորև ներկայացված պատկերում

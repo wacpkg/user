@@ -1,0 +1,1 @@
+export default "[${host}]${action}دەلىللەش كودى:${code}\n\n[${host}] (https: //${host})${action}دەلىللەش كودى:${code}.\n\nئەگەر ئىلتىماس قىلمىغان بولسىڭىز${host}] (https: //${host})${action}بۇ ئۇچۇرغا پەرۋا قىلماڭ.\n\nئەگەر ئىلتىماس قىلمىغان بولسىڭىز${host}] (https: //${host})${action}بۇ ئۇچۇرغا پەرۋا قىلماڭ.\n"

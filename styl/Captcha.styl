@@ -1,0 +1,50 @@
+@import 'styl/var/svg.styl'
+
+main, nav
+  display flex
+
+nav
+  justify-content space-between
+  line-height 29px
+  padding 1em
+
+  &>b
+    cursor s-resize
+    display flex
+
+    & > :global(svg)
+      margin 0 6px
+      width 18px
+
+  &>a
+    background svg-refresh 0 0 / cover
+    cursor pointer
+    height 29px
+    width 29px
+
+    &:hover
+      filter invert(42%) sepia(1) saturate(47)
+
+main
+  flex-direction column
+  max-width 100%
+  user-select none
+  width 350px
+
+img
+  background #eee
+  cursor cell
+  height 350px
+
+img, main>b
+  width 100%
+
+main>b
+  align-items center
+  background #f0f0f0
+  color #999
+  display flex
+  font-size 64px
+  height 5.46875em
+  justify-content center
+  text-shadow 0 0 1px #000

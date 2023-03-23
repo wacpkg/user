@@ -1,0 +1,47 @@
+accountExist: Xibalo se xi kona, .
+accountInvalid: Hi kombela u nghenisa vito ra akhawunti leri tirhaka
+accountMailHostBan: Poso ya domain leyi yi yirisiwile ku tsarisa
+accountTooLong: Account yi lehe ngopfu
+agree: Pfumela
+captchaImage: Xifaniso xa Captcha
+checkSpam: U nga rivali ku kambela bokisi ra poso ra spam
+clickSignIn: Click laha ku SignIn
+errCode: Khodi ya ku tiyisisa yi na xihoxo kumbe yi hundzeriwile hi nkarhi
+enterCode: Nghenisa khodi ya ku tiyisisa leyi u yi kumeke
+loading: Ku layicha
+mail: Poso
+needUserAgreement: Hi kombela u Pfumela Ntwanano
+notRecv: A swi amukeriwanga ?
+or: kumbe
+password: Phasiwedi
+phone: Riqingho
+refresh: Pfuxeta
+resend: Click laha ku rhumela nakambe
+resetPassword: Seta Phasiwedi nakambe
+setPassword: Seta Phasiwedi
+signIn: Nghena eka
+signUp: Tsarisa
+userAgreement: Ntwanano wa Mutirhisi
+verificationCode: Khodi ya ku Tiyisisa
+wait: Ndzi kombela ku Yimela
+verificationMailResended: Poso yo Tiyisisa Yi Rhumeriwile Nakambe
+createAccount: Endla akhawunti leyintshwa
+name: Vito
+logout: Ku huma hi nhloko
+errAccountOrPassword: Akhawunti kumbe Phasiwedi leyi hoxeke
+setDone: Seta Hi Ku Humelela
+confirm: Tiyisisa
+config: Ku hlela
+switchUser: Cinca Mutirhisi
+addAccount: Engetelani akhawunti
+exited: U humile ehandle
+remove: Susa
+exitAll: Huma eka Tiakhawunti Hinkwato
+rmAll: Susa Tiakhawunti Hinkwato
+enter: Nghena
+invalid: Vuhava
+oldMail: Poso ya Xiviri
+newMail: Poso Leyintshwa
+modifyMail: Cinca Poso
+used: Se Yi Tirhisiwile Hi Akhawunti Yin’wana
+captchaClick: Click <br 0> eka xifaniso lexi nga laha hansi

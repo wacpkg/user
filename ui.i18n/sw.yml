@@ -1,0 +1,47 @@
+accountExist: Akaunti tayari ipo,
+accountInvalid: Tafadhali weka jina halali la akaunti
+accountMailHostBan: Barua ya kikoa hiki imepigwa marufuku kujisajili
+accountTooLong: Akaunti ndefu sana
+agree: Kubali
+captchaImage: Picha ya Captcha
+checkSpam: Usisahau kuangalia kisanduku cha barua taka
+clickSignIn: Bofya hapa ili Kuingia
+errCode: Nambari ya kuthibitisha ina hitilafu au imekwisha muda wake
+enterCode: Weka nambari ya kuthibitisha uliyopokea
+loading: Inapakia
+mail: Barua
+needUserAgreement: Tafadhali Kubali Makubaliano
+notRecv: Haijapokelewa?
+or: au
+password: Nenosiri
+phone: Simu
+refresh: Onyesha upya
+resend: Bofya hapa kutuma tena
+resetPassword: Weka upya Nenosiri
+setPassword: Weka Nenosiri
+signIn: Weka sahihi
+signUp: Jisajili
+userAgreement: Mkataba wa Mtumiaji
+verificationCode: Nambari ya Uthibitishaji
+wait: Tafadhali subiri
+verificationMailResended: Barua ya Uthibitishaji Imetumwa Tena
+createAccount: Fungua akaunti mpya
+name: Jina
+logout: Ondoka
+errAccountOrPassword: Akaunti au Nenosiri Si Sahihi
+setDone: Weka kwa Mafanikio
+confirm: Thibitisha
+config: Sanidi
+switchUser: Badili mtumiaji
+addAccount: Ongeza Akaunti
+exited: Umetoka nje
+remove: Ondoa
+exitAll: Ondoka kwa Akaunti Zote
+rmAll: Ondoa Akaunti Zote
+enter: Ingiza
+invalid: Batili
+oldMail: Barua Asilia
+newMail: Barua Mpya
+modifyMail: Rekebisha Barua
+used: Tayari Inatumiwa na Akaunti Nyingine
+captchaClick: Bofya <br 0> katika picha hapa chini

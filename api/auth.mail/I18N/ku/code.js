@@ -1,0 +1,1 @@
+export default "[${host}]${action}koda verastkirinê:${code}\n\n[${host}](https://${host})${action}koda verastkirinê:${code}.\n\nGer we serlêdan nekiribe [${host}](https://${host})${action}, ji kerema xwe vê peyamê paşguh nekin.\n\nGer we serlêdan nekiribe [${host}](https://${host})${action}, ji kerema xwe vê peyamê paşguh nekin.\n"

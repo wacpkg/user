@@ -1,0 +1,1 @@
+export default "[${host}]${action}ਪੜਤਾਲ ਕੋਡ:${code}\n\n[${host}](https://${host})${action}ਪੜਤਾਲ ਕੋਡ:${code}.\n\nਜੇਕਰ ਤੁਸੀਂ [${host}](https://${host})${action}, ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਸੰਦੇਸ਼ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ।\n\nਜੇਕਰ ਤੁਸੀਂ [${host}](https://${host})${action}, ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਸੰਦੇਸ਼ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ।\n"

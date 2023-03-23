@@ -1,0 +1,47 @@
+accountExist: Tài khoản đã tồn tại,
+accountInvalid: Vui lòng nhập tên tài khoản hợp lệ
+accountMailHostBan: Thư của tên miền này bị cấm đăng ký
+accountTooLong: Tài khoản quá dài
+agree: Đồng ý
+captchaImage: Hình ảnh CAPTCHA
+checkSpam: Đừng quên kiểm tra hộp thư rác
+clickSignIn: Nhấn vào đây để nhận xét
+errCode: Mã xác minh bị lỗi hoặc hết hạn
+enterCode: Nhập mã xác minh bạn nhận được
+loading: Đang tải
+mail: Thư
+needUserAgreement: Xin vui lòng đồng ý Thỏa thuận
+notRecv: Không nhận ?
+or: hoặc
+password: Mật khẩu
+phone: Điện thoại
+refresh: Làm cho khỏe lại
+resend: Nhấn vào đây để gửi lại
+resetPassword: Đặt lại mật khẩu
+setPassword: Đặt mật khẩu
+signIn: Đăng nhập
+signUp: Đăng ký
+userAgreement: sự thỏa thuận của người dùng
+verificationCode: Mã xác nhận
+wait: Vui lòng chờ
+verificationMailResended: Thư xác minh đã được gửi lại
+createAccount: Tạo tài khoản mới
+name: Tên
+logout: Đăng xuất
+errAccountOrPassword: Tài khoản hoặc mật khẩu không chính xác
+setDone: Đặt thành công
+confirm: Xác nhận
+config: cấu hình
+switchUser: Chuyển người dùng
+addAccount: Thêm tài khoản
+exited: đăng xuất
+remove: Di dời
+exitAll: Đăng xuất tất cả tài khoản
+rmAll: Xóa tất cả tài khoản
+enter: Đi vào
+invalid: Không hợp lệ
+oldMail: thư gốc
+newMail: Thư điện tử mới
+modifyMail: Sửa Thư
+used: Đã được sử dụng bởi một tài khoản khác
+captchaClick: Nhấp chuột <br 0> trong hình dưới đây

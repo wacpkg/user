@@ -1,0 +1,1 @@
+export default "[${host}]${action}verification code:${code}\n\n[${host}](https://${host})${action}verification code:${code}.\n\nKung wala ka nag-aplay alang sa [${host}](https://${host})${action}, palihug ibaliwala kini nga mensahe.\n\nKung wala ka nag-aplay alang sa [${host}](https://${host})${action}, palihug ibaliwala kini nga mensahe.\n"

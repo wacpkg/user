@@ -1,0 +1,47 @@
+accountExist: I-akhawunti sele ikhona,
+accountInvalid: Nceda ngenisa igama elisebenzayo le-akhawunti
+accountMailHostBan: Le imeyile ayivumelekanga ukuba ubhalise
+accountTooLong: Iakhawunti inde kakhulu
+agree: Vuma
+captchaImage: Umfanekiso weCaptcha
+checkSpam: Ungalibali ukujonga ibhokisi yeposi yespam
+clickSignIn: Cofa apha ukuze ungene
+errCode: Ikhowudi yokuqinisekisa iyimpazamo okanye iphelelwe lixesha
+enterCode: Faka ikhowudi yokuqinisekisa oyifumeneyo
+loading: Iyalayisha
+mail: Imeyile
+needUserAgreement: Nceda usivume isivumelwano
+notRecv: Ayifunyanwanga ?
+or: okanye
+password: Inombolo yokuvula
+phone: Ifowuni
+refresh: Hlaziya
+resend: Cofa apha ukuthumela kwakhona
+resetPassword: Lungisa Igama Lokugqithisa
+setPassword: Seta Igama Lokugqithisa
+signIn: Ngena
+signUp: Bhalisa
+userAgreement: Isivumelwano somsebenzisi
+verificationCode: Gqina ikhowudi
+wait: Nceda linda
+verificationMailResended: Imeyile yoQinisekiso iThunyelwe kwakhona
+createAccount: Yenza iakhawunti entsha
+name: Igama
+logout: Phuma
+errAccountOrPassword: Iakhawunti engalunganga okanye igama lokugqithisa
+setDone: Seta ngempumelelo
+confirm: Qinisekisa
+config: Qwalasela
+switchUser: Tshinthsa umsebenzisi
+addAccount: Yongeza iAkhawunti
+exited: Uphumile
+remove: Susa
+exitAll: Phuma kuzo zonke iiAkhawunti
+rmAll: Susa Zonke Iiakhawunti
+enter: Ngena
+invalid: Ayisebenzi
+oldMail: Imeyile yoqobo
+newMail: Imeyile Entsha
+modifyMail: Guqula Imeyile
+used: Esele Isetyenziswa Yenye Iakhawunti
+captchaClick: Cofa <br 0> kumfanekiso ongezantsi

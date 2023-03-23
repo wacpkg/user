@@ -1,0 +1,47 @@
+accountExist: Ang account anaa na,
+accountInvalid: Palihug pagsulod ug balido nga ngalan sa account
+accountMailHostBan: Ang mail niini nga domain gidid-an sa pag-signup
+accountTooLong: Taas kaayo ang account
+agree: Uyon
+captchaImage: Imahe sa Captcha
+checkSpam: Ayaw kalimti nga susihon ang spam mailbox
+clickSignIn: Pag-klik dinhi aron mag-signIn
+errCode: Ang verification code kay sayop o expire na
+enterCode: Pagsulod sa verification code nga imong nadawat
+loading: Nagkarga
+mail: Mail
+needUserAgreement: Palihug Agree Agreement
+notRecv: Wala nadawat ?
+or: o
+password: Password
+phone: Telepono
+refresh: I-refresh
+resend: I-klik dinhi aron ipadala pag-usab
+resetPassword: I-reset ang Password
+setPassword: Ibutang ang Password
+signIn: SignIn
+signUp: SignUp
+userAgreement: Kasabutan sa Gumagamit
+verificationCode: Verification Code
+wait: Palihog hulat
+verificationMailResended: Gipadala na usab ang Verification Mail
+createAccount: Paghimo og bag-ong account
+name: Ngalan
+logout: Pag-logout
+errAccountOrPassword: Sayop nga Account o Password
+setDone: Malamposong Ipahimutang
+confirm: Sa pagmatuod sa
+config: Config
+switchUser: Pagbalhin sa Gumagamit
+addAccount: Idugang ang Account
+exited: Naka-log out
+remove: Kuhaa
+exitAll: Pag-logout sa Tanang Account
+rmAll: Kuhaa ang Tanang Account
+enter: Pagsulod
+invalid: Dili balido
+oldMail: Orihinal nga Mail
+newMail: Bag-ong Mail
+modifyMail: Usba ang Mail
+used: Gigamit Na Sa Laing Account
+captchaClick: Pag-klik <br 0> sa ubos nga hulagway

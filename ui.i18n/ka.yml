@@ -1,0 +1,47 @@
+accountExist: ანგარიში უკვე არსებობს,
+accountInvalid: გთხოვთ, შეიყვანოთ ანგარიშის სწორი სახელი
+accountMailHostBan: ამ დომენის ფოსტა აკრძალულია რეგისტრაცია
+accountTooLong: ანგარიში ძალიან გრძელია
+agree: ვეთანხმები
+captchaImage: კაპჩას სურათი
+checkSpam: არ დაგავიწყდეთ შეამოწმოთ სპამის საფოსტო ყუთი
+clickSignIn: დააწკაპუნეთ აქ შესასვლელად
+errCode: დამადასტურებელი კოდი შეცდომაა ან ვადაგასულია
+enterCode: შეიყვანეთ მიღებული დამადასტურებელი კოდი
+loading: Ჩატვირთვა
+mail: ფოსტა
+needUserAgreement: გთხოვთ დაეთანხმოთ შეთანხმებას
+notRecv: არ მიიღეს ?
+or: ან
+password: პაროლი
+phone: ტელეფონი
+refresh: განაახლეთ
+resend: დააწკაპუნეთ აქ ხელახლა გასაგზავნად
+resetPassword: პაროლის აღდგენა
+setPassword: Პაროლის დაყენება
+signIn: Შებრძანდით
+signUp: რეგისტრაცია
+userAgreement: მომხმარებლის შეთანხმება
+verificationCode: Დამადასტურებელი კოდი
+wait: Გთხოვთ მოიცადოთ
+verificationMailResended: გადამოწმების ფოსტა ხელახლა გაიგზავნა
+createAccount: შექმენით ახალი ანგარიში
+name: სახელი
+logout: გამოსვლა
+errAccountOrPassword: არასწორი ანგარიში ან პაროლი
+setDone: დაყენება წარმატებით
+confirm: დაადასტურეთ
+config: კონფიგურაცია
+switchUser: მომხმარებლის შეცვლა
+addAccount: ანგარიშის დამატება
+exited: Გამოსვლა
+remove: ამოღება
+exitAll: ყველა ანგარიშიდან გამოსვლა
+rmAll: წაშალეთ ყველა ანგარიში
+enter: შედი
+invalid: არასწორია
+oldMail: ორიგინალური ფოსტა
+newMail: ახალი ფოსტა
+modifyMail: ფოსტის შეცვლა
+used: უკვე გამოყენებულია სხვა ანგარიშით
+captchaClick: დააწკაპუნეთ <br 0> ქვემოთ მოცემულ სურათზე

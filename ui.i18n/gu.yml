@@ -1,0 +1,47 @@
+accountExist: એકાઉન્ટ પહેલેથી જ અસ્તિત્વમાં છે,
+accountInvalid: કૃપા કરીને માન્ય એકાઉન્ટ નામ દાખલ કરો
+accountMailHostBan: આ ડોમેનનો મેઇલ સાઇન અપ કરવા માટે પ્રતિબંધિત છે
+accountTooLong: એકાઉન્ટ ખૂબ લાંબુ છે
+agree: સંમત
+captchaImage: કેપ્ચા છબી
+checkSpam: સ્પામ મેઇલબોક્સ તપાસવાનું ભૂલશો નહીં
+clickSignIn: સાઇન ઇન કરવા માટે અહીં ક્લિક કરો
+errCode: ચકાસણી કોડ ભૂલ છે અથવા સમાપ્ત થઈ ગયો છે
+enterCode: તમને પ્રાપ્ત થયેલ ચકાસણી કોડ દાખલ કરો
+loading: લોડ કરી રહ્યું છે
+mail: મેલ
+needUserAgreement: કૃપા કરીને સંમત થાઓ
+notRecv: પ્રાપ્ત નથી?
+or: અથવા
+password: પાસવર્ડ
+phone: ફોન
+refresh: તાજું કરો
+resend: ફરીથી મોકલવા માટે અહીં ક્લિક કરો
+resetPassword: પાસવર્ડ રીસેટ કરો
+setPassword: પાસવર્ડ સેટ કરો
+signIn: સાઇન ઇન કરો
+signUp: સાઇન અપ કરો
+userAgreement: વપરાશકર્તા કરાર
+verificationCode: ચકાસણી કોડ
+wait: મહેરબાની કરી રાહ જુવો
+verificationMailResended: ચકાસણી મેઇલ ફરીથી મોકલ્યો
+createAccount: નવું ખાતું બનાવો
+name: નામ
+logout: લૉગ આઉટ
+errAccountOrPassword: ખોટો એકાઉન્ટ અથવા પાસવર્ડ
+setDone: સફળતાપૂર્વક સેટ કરો
+confirm: પુષ્ટિ કરો
+config: રૂપરેખા
+switchUser: વપરાશકર્તા બદલો
+addAccount: ખાતું ઉમેરો
+exited: લૉગ આઉટ
+remove: દૂર કરો
+exitAll: બધા એકાઉન્ટ્સ લોગઆઉટ કરો
+rmAll: બધા એકાઉન્ટ્સ દૂર કરો
+enter: દાખલ કરો
+invalid: અમાન્ય
+oldMail: મૂળ મેઇલ
+newMail: નવો મેઇલ
+modifyMail: મેલમાં ફેરફાર કરો
+used: પહેલેથી જ અન્ય એકાઉન્ટ દ્વારા ઉપયોગમાં લેવાય છે
+captchaClick: ક્લિક કરો <br 0> નીચેની છબીમાં

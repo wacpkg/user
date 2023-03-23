@@ -1,0 +1,1 @@
+export default "[${host}]${action}ikhodi yokuqinisekisa:${code}\n\n[${host}](https://${host})${action}ikhodi yokuqinisekisa:${code}.\n\nUma ungasifakanga isicelo [${host}](https://${host})${action}, ngicela uzibe lo mlayezo.\n\nUma ungasifakanga isicelo [${host}](https://${host})${action}, ngicela uzibe lo mlayezo.\n"

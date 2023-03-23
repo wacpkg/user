@@ -1,0 +1,1 @@
+export default "[${host}]${action}verifikasie kode:${code}\n\n[${host}](https://${host})${action}verifikasie kode:${code}.\n\nAs jy nie aansoek gedoen het vir [${host}](https://${host})${action}, ignoreer asseblief hierdie boodskap.\n\nAs jy nie aansoek gedoen het vir [${host}](https://${host})${action}, ignoreer asseblief hierdie boodskap.\n"

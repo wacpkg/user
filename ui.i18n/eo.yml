@@ -1,0 +1,47 @@
+accountExist: La konto jam ekzistas,
+accountInvalid: Bonvolu enigi validan kontnomon
+accountMailHostBan: La retpoŝto de ĉi tiu domajno malpermesita por registriĝi
+accountTooLong: Konto tro longa
+agree: Konsentu
+captchaImage: Captcha Bildo
+checkSpam: Ne forgesu kontroli la spam-leterkeston
+clickSignIn: Klaku ĉi tie por Ensaluti
+errCode: La konfirmkodo estas eraro aŭ eksvalidiĝis
+enterCode: Enigu la konfirmkodon, kiun vi ricevis
+loading: Ŝarĝante
+mail: Poŝto
+needUserAgreement: Bonvolu Interkonsenti Interkonsenton
+notRecv: Ne ricevita ?
+or: aŭ
+password: Pasvorto
+phone: Telefono
+refresh: Refreŝigi
+resend: Klaku ĉi tie por resendi
+resetPassword: Restarigi Pasvorton
+setPassword: Agordu Pasvorton
+signIn: Ensaluti
+signUp: Aliĝu
+userAgreement: Uzanto-Interkonsento
+verificationCode: Konfirmkodo
+wait: Bonvolu atendi
+verificationMailResended: Konfirma Poŝto Resendita
+createAccount: Krei novan konton
+name: Nomo
+logout: Elsaluti
+errAccountOrPassword: Malĝusta Konto aŭ Pasvorto
+setDone: Agordu Sukcese
+confirm: Konfirmu
+config: Agordo
+switchUser: Ŝanĝi Uzanton
+addAccount: Aldonu konto
+exited: Elsalutita
+remove: Forigi
+exitAll: Elsalutu Ĉiuj Kontoj
+rmAll: Forigi Ĉiuj Kontoj
+enter: Eniru
+invalid: Nevalida
+oldMail: Originala Poŝto
+newMail: Nova Poŝto
+modifyMail: Modifi Poŝton
+used: Jam Uzita De Alia Konto
+captchaClick: Klaku <br 0> en la suba bildo

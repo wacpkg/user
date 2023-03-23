@@ -1,0 +1,47 @@
+accountExist: A fiók már létezik,
+accountInvalid: Adjon meg egy érvényes fióknevet
+accountMailHostBan: A domain e-mailjeit letiltották a regisztrációhoz
+accountTooLong: A fiók túl hosszú
+agree: Egyetért
+captchaImage: Captcha kép
+checkSpam: Ne felejtse el ellenőrizni a spam postafiókot
+clickSignIn: Kattintson ide a bejelentkezéshez
+errCode: Az ellenőrző kód hibás vagy lejárt
+enterCode: Írja be a kapott ellenőrző kódot
+loading: Betöltés
+mail: Levél
+needUserAgreement: Kérem, kössön megállapodást
+notRecv: Nem kapott ?
+or: vagy
+password: Jelszó
+phone: Telefon
+refresh: Frissítés
+resend: Kattintson ide az újraküldéshez
+resetPassword: Jelszó visszaállítása
+setPassword: Állítsd be a jelszót
+signIn: Bejelentkezés
+signUp: Regisztrálj
+userAgreement: Felhasználói Szerződés
+verificationCode: Ellenőrző kód
+wait: Kérlek várj
+verificationMailResended: Ellenőrző levél újraküldve
+createAccount: Új fiók létrehozása
+name: Név
+logout: Kijelentkezés
+errAccountOrPassword: Helytelen fiók vagy jelszó
+setDone: Beállítás sikeresen
+confirm: megerősít
+config: Konfig
+switchUser: Felhasználót váltani
+addAccount: Fiók hozzáadása
+exited: Kilépett
+remove: Távolítsa el
+exitAll: Kijelentkezés az összes fiókból
+rmAll: Távolítsa el az összes fiókot
+enter: Belép
+invalid: Érvénytelen
+oldMail: Eredeti levél
+newMail: Új levél
+modifyMail: Mail módosítása
+used: Egy másik fiók már használja
+captchaClick: Kattintson <br 0> az alábbi képen

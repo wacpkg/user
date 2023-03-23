@@ -1,0 +1,1 @@
+export default "[${host}]${action}yoxlama kodu:${code}\n\n[${host}](https://${host})${action}yoxlama kodu:${code}.\n\nƏgər müraciət etməmisinizsə [${host}](https://${host})${action}, lütfən, bu mesaja məhəl qoymayın.\n\nƏgər müraciət etməmisinizsə [${host}](https://${host})${action}, lütfən, bu mesaja məhəl qoymayın.\n"

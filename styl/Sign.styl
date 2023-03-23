@@ -1,0 +1,118 @@
+@import 'styl/base.styl'
+@import 'styl/ing.styl'
+@import 'styl/run.styl'
+
+footer, div>i
+  align-items stretch
+  background svg-dash 0 0 repeat-x
+  display flex
+  justify-content space-between
+  margin 0
+  position relative
+  user-select none
+
+a, div>i
+  cursor pointer
+
+footer
+  &>a
+    padding 16px 32px
+
+    &:first-child
+      padding-right 0
+
+    &:last-child
+      text-align right
+
+    &:hover
+      color #f40
+
+div>i
+  position relative
+
+  :global(&>ul)
+    background #fff
+    border 1px solid #ccc
+    border-top 0
+    color #000
+    list-style none
+    margin 0
+    padding 0
+    position absolute
+    right -8px
+    top 80%
+    z-index 1
+
+  :global(&>ul>li)
+    border-top 1px solid #ccc
+    padding 8px 16px
+
+    &:hover
+      background #f3f3f3
+
+  &>a
+    background svg-dash-h 0 0 repeat-y
+    display block
+    padding 0 24px
+    position relative
+
+    &:before
+      background svg-nabla 50% 52% / 12px no-repeat
+      bottom 0
+      content ''
+      left 0
+      position absolute
+      right 0
+      top 0
+
+  &>b
+    align-items center
+    display flex
+    flex 1
+    justify-content space-between
+    padding 16px 32px
+
+    &>i
+      background svg-right 50% 50% / contain no-repeat
+      display block
+      height 16px
+      margin-left 12px
+      margin-right -12px
+      width 16px
+
+    &>b
+      display flex
+      flex-direction column
+
+      &>i
+        font-size 14px
+
+  &>a, &>b
+    border 0
+    outline 0
+
+    &:hover
+      background-color #f3f3f3
+
+.me > i
+  & > b:hover
+    background transparent
+    cursor auto
+
+  & > b > i
+    background #3d0
+    border-radius 7px
+    box-shadow 0 0 3px #363 inset
+    height 7px
+    margin-left 12px
+    margin-right -8px
+    width 7px
+
+.exit, .signin > i > b > b > i, .signin > i > b > b > b
+  color #999
+
+.exit
+  &>i
+    &>a
+      &:before
+        opacity 0.5

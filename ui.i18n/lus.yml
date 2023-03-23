@@ -1,0 +1,47 @@
+accountExist: Account chu a awm tawh a, .
+accountInvalid: Account hming dik tak i ziak lut dawn nia
+accountMailHostBan: He domain mail hi signup khap a ni
+accountTooLong: Account a rei lutuk
+agree: Pawmpui
+captchaImage: Captcha Hmanlai thlalak
+checkSpam: Spam mailbox kha check theihnghilh suh
+clickSignIn: SignIn turin hetah hian click la
+errCode: Verification code hi error emaw expired emaw a ni
+enterCode: Verification code i dawn kha ziak lut rawh
+loading: Loading a ni
+mail: Mail hmanga thawn theih a ni
+needUserAgreement: Khawngaihin Inremna hi pawm rawh u
+notRecv: A dawng lo ?
+or: emaw
+password: Tawngkam ruk
+phone: Biakhlatna
+refresh: Refresh leh rawh
+resend: Reend duh tan hetah hian click la
+resetPassword: Password chu reset rawh
+setPassword: Password tih kha set rawh
+signIn: SignIn rawh
+signUp: SignUp rawh
+userAgreement: User Inremna siam a ni
+verificationCode: Verification Code hmanga siam a ni
+wait: Khawngaihin lo nghak rawh
+verificationMailResended: Verification Mail thawn leh a ni
+createAccount: Account thar siam rawh
+name: Hming
+logout: Logout rawh
+errAccountOrPassword: Account emaw Password emaw dik lo
+setDone: Set Hlawhtling takin
+confirm: Nemnghet
+config: Config a ni
+switchUser: User thlak rawh
+addAccount: Account dah belh rawh
+exited: Log out a ni
+remove: Paih
+exitAll: Account zawng zawng chu Logout rawh
+rmAll: Account zawng zawng paih vek rawh
+enter: Lut
+invalid: Dik hlel
+oldMail: Original Mail a ni
+newMail: Mail thar a awm
+modifyMail: Mail siam danglam rawh
+used: Account dangin a hmang tawh
+captchaClick: Click rawh <br 0> in below image ah hian a awm

@@ -1,0 +1,1 @@
+export default "[${host}]${action}waehere manatoko:${code}\n\n[${host}](https://${host})${action}waehere manatoko:${code}.\n\nMena kaore koe i tono mo [${host}](https://${host})${action}, kaua e wareware ki tenei karere.\n\nMena kaore koe i tono mo [${host}](https://${host})${action}, kaua e wareware ki tenei karere.\n"

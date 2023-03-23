@@ -1,0 +1,1 @@
+export default "[${host}]${action}codi de verificació:${code}\n\n[${host}](https://${host})${action}codi de verificació:${code}.\n\nSi no has sol·licitat [${host}](https://${host})${action}, ignoreu aquest missatge.\n\nSi no has sol·licitat [${host}](https://${host})${action}, ignoreu aquest missatge.\n"

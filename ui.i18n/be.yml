@@ -1,0 +1,47 @@
+accountExist: Уліковы запіс ужо існуе,
+accountInvalid: Увядзіце сапраўднае імя ўліковага запісу
+accountMailHostBan: Пошта гэтага дамена забароненая для рэгістрацыі
+accountTooLong: Уліковы запіс занадта доўгі
+agree: Згодны
+captchaImage: Відарыс Captcha
+checkSpam: Не забывайце правяраць паштовую скрыню са спамам
+clickSignIn: Націсніце тут, каб увайсці
+errCode: Праверачны код памылковы або пратэрмінаваны
+enterCode: Увядзіце код пацверджання, які вы атрымалі
+loading: Загрузка
+mail: Пошта
+needUserAgreement: Калі ласка, згадзіцеся
+notRecv: Не атрымаў ?
+or: або
+password: Пароль
+phone: Тэлефон
+refresh: Абнавіць
+resend: Націсніце тут, каб адправіць паўторна
+resetPassword: Скінуць пароль
+setPassword: Усталюйце пароль
+signIn: Увайсці
+signUp: Зарэгістравацца
+userAgreement: Карыстальніцкае пагадненне
+verificationCode: Код верыфікацыі
+wait: Калі ласка пачакай
+verificationMailResended: Ліст спраўджання адпраўлены паўторна
+createAccount: Стварыць новы ўліковы запіс
+name: Імя
+logout: Выйсці з сістэмы
+errAccountOrPassword: Няправільны ўліковы запіс або пароль
+setDone: Усталявана паспяхова
+confirm: Пацвердзіць
+config: Канфігурацыя
+switchUser: Змяніць карыстальніка
+addAccount: Дадаць уліковы запіс
+exited: Выйшлі з сістэмы
+remove: Выдаліць
+exitAll: Выйсці з усіх уліковых запісаў
+rmAll: Выдаліць усе ўліковыя запісы
+enter: Увайдзіце
+invalid: Несапраўдны
+oldMail: Арыгінальная пошта
+newMail: Новая пошта
+modifyMail: Змяніць пошту
+used: Ужо выкарыстоўваецца іншым уліковым запісам
+captchaClick: Націсніце <br 0> на малюнку ніжэй

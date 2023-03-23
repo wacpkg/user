@@ -1,0 +1,47 @@
+accountExist: खाता पहिले नै अवस्थित छ,
+accountInvalid: कृपया वैध खाता नाम प्रविष्ट गर्नुहोस्
+accountMailHostBan: यस डोमेनको मेल साइनअप गर्न प्रतिबन्धित
+accountTooLong: खाता धेरै लामो छ
+agree: सहमत
+captchaImage: क्याप्चा छवि
+checkSpam: स्प्याम मेलबक्स जाँच गर्न नबिर्सनुहोस्
+clickSignIn: साइन इन गर्न यहाँ क्लिक गर्नुहोस्
+errCode: प्रमाणीकरण कोड त्रुटि वा म्याद सकिएको छ
+enterCode: तपाईंले प्राप्त गर्नुभएको प्रमाणिकरण कोड प्रविष्ट गर्नुहोस्
+loading: लोड गर्दै
+mail: मेल
+needUserAgreement: कृपया सहमति जनाउनुहोस्
+notRecv: प्राप्त भएन ?
+or: वा
+password: पासवर्ड
+phone: फोन
+refresh: रिफ्रेस गर्नुहोस्
+resend: 'पुन: पठाउन यहाँ क्लिक गर्नुहोस्'
+resetPassword: पासवर्ड रिसेट
+setPassword: पासवर्ड सेट गर्नुहोस्
+signIn: साइन इन
+signUp: साइन अप
+userAgreement: प्रयोगकर्ता सम्झौता
+verificationCode: प्रमाणीकरण कोड
+wait: कृपया पर्खनुहोस्
+verificationMailResended: 'प्रमाणीकरण पत्र पुन: पठाइयो'
+createAccount: नयाँ खाता सिर्जना गर्नुहोस्
+name: नाम
+logout: बाहिर निस्कनु
+errAccountOrPassword: गलत खाता वा पासवर्ड
+setDone: सफलतापूर्वक सेट गर्नुहोस्
+confirm: पुष्टि गर्नुहोस्
+config: कन्फिगरेसन
+switchUser: प्रयोगकर्ता स्विच गर्नुहोस्
+addAccount: खाता थप्नुहोस्
+exited: लग आउट भयो
+remove: हटाउनुहोस्
+exitAll: सबै खाताहरू लगआउट गर्नुहोस्
+rmAll: सबै खाताहरू हटाउनुहोस्
+enter: प्रविष्ट गर्नुहोस्
+invalid: अवैध
+oldMail: मूल मेल
+newMail: नयाँ मेल
+modifyMail: मेल परिमार्जन गर्नुहोस्
+used: पहिले नै अर्को खाता द्वारा प्रयोग गरिएको छ
+captchaClick: क्लिक गर्नुहोस् <br 0> तलको छविमा

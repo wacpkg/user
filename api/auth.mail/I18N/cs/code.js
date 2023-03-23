@@ -1,0 +1,1 @@
+export default "[${host}]${action}ověřovací kód:${code}\n\n[${host}](https://${host})${action}ověřovací kód:${code}.\n\nPokud jste nepožádali o [${host}](https://${host})${action}, prosím ignorujte tuto zprávu.\n\nPokud jste nepožádali o [${host}](https://${host})${action}, prosím ignorujte tuto zprávu.\n"

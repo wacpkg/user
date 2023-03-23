@@ -1,0 +1,47 @@
+accountExist: Reikningurinn er þegar til,
+accountInvalid: Vinsamlegast sláðu inn gilt reikningsnafn
+accountMailHostBan: Póstur þessa léns bannaður við skráningu
+accountTooLong: Reikningur of langur
+agree: Sammála
+captchaImage: Captcha mynd
+checkSpam: Ekki gleyma að athuga ruslpósthólfið
+clickSignIn: Smelltu hér til að skrá þig inn
+errCode: Staðfestingarkóði er villa eða útrunninn
+enterCode: Sláðu inn staðfestingarkóðann sem þú fékkst
+loading: Hleðsla
+mail: Póstur
+needUserAgreement: Vinsamlegast samþykktu samning
+notRecv: Ekki móttekið ?
+or: eða
+password: Lykilorð
+phone: Sími
+refresh: Endurnýja
+resend: Smelltu hér til að senda aftur
+resetPassword: Endur stilla lykilorð
+setPassword: Stilltu lykilorð
+signIn: Skráðu þig inn
+signUp: Skráðu þig
+userAgreement: Notendasamningur
+verificationCode: Staðfestingarkóði
+wait: Vinsamlegast bíðið
+verificationMailResended: Staðfestingarpóstur endursendur
+createAccount: Búðu til nýjan reikning
+name: Nafn
+logout: Að skrá þig út
+errAccountOrPassword: Rangur reikningur eða lykilorð
+setDone: Stillt tókst
+confirm: Staðfesta
+config: Config
+switchUser: Skipta um notanda
+addAccount: Bæta við aðgangi
+exited: Útskráður
+remove: Fjarlægja
+exitAll: Útskráðu alla reikninga
+rmAll: Fjarlægðu alla reikninga
+enter: Koma inn
+invalid: Ógilt
+oldMail: Upprunalegur póstur
+newMail: Nýr póstur
+modifyMail: Breyta pósti
+used: Þegar notað af öðrum reikningi
+captchaClick: Smellur <br 0> á myndinni fyrir neðan

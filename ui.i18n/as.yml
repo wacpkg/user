@@ -1,0 +1,47 @@
+accountExist: একাউণ্টটো ইতিমধ্যে আছে,
+accountInvalid: অনুগ্ৰহ কৰি এটা বৈধ একাউণ্টৰ নাম দিয়ক
+accountMailHostBan: এই ডমেইনৰ মেইল ​​চাইনআপ কৰিবলৈ নিষিদ্ধ কৰা হৈছে
+accountTooLong: একাউণ্ট বহুত দীঘলীয়া
+agree: সহমত
+captchaImage: কেপচা ইমেজ
+checkSpam: স্পেম মেইলবক্সটো চেক কৰিবলৈ নাপাহৰিব
+clickSignIn: SignIn কৰিবলৈ ইয়াত ক্লিক কৰক
+errCode: সত্যাপন ক'ডটো ভুল বা মেয়াদ উকলি গৈছে
+enterCode: আপুনি লাভ কৰা সত্যাপন ক'ডটো সুমুৱাওক
+loading: লোড হৈ আছে
+mail: মেইল
+needUserAgreement: অনুগ্ৰহ কৰি চুক্তিত সন্মতি দিয়ক
+notRecv: লাভ কৰা নাই ?
+or: অথবা
+password: পাছৱৰ্ড
+phone: ফোন
+refresh: সতেজ কৰক
+resend: পুনৰ পঠিয়াবলৈ ইয়াত ক্লিক কৰক
+resetPassword: পাছৱৰ্ড পুনৰায় সেট কৰক
+setPassword: পাছৱৰ্ড ছেট কৰক
+signIn: SignIn
+signUp: চাইনআপ কৰক
+userAgreement: ব্যৱহাৰকাৰী চুক্তি
+verificationCode: ভেৰিফিকেচন ক'ড
+wait: অনুগ্ৰহ কৰি অপেক্ষা কৰক
+verificationMailResended: সত্যাপন মেইল ​​পুনৰ প্ৰেৰণ কৰা হৈছে
+createAccount: নতুন একাউণ্ট সৃষ্টি কৰক
+name: নাম
+logout: লগআউট কৰক
+errAccountOrPassword: ভুল একাউণ্ট বা পাছৱৰ্ড
+setDone: সফলতাৰে ছেট কৰক
+confirm: নিশ্চিত
+config: কনফিগ কৰক
+switchUser: ব্যৱহাৰকাৰী সলনি কৰক
+addAccount: একাউণ্ট যোগ কৰক
+exited: লগ আউট কৰিলে
+remove: আঁতৰোৱা
+exitAll: সকলো একাউণ্ট লগআউট কৰক
+rmAll: সকলো একাউণ্ট আঁতৰাই পেলাওক
+enter: প্ৰৱেশ কৰা
+invalid: অমান্য
+oldMail: মূল মেইল
+newMail: নিউ মেইল
+modifyMail: মেইল পৰিবৰ্তন কৰক
+used: ইতিমধ্যে আন এটা একাউণ্টৰ দ্বাৰা ব্যৱহাৰ কৰা হৈছে
+captchaClick: ক্লিক কৰক <br 0> তলৰ ছবিখনত

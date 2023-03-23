@@ -1,0 +1,1 @@
+export default "[${host}]${action}ପ୍ରମାଣ ସଂକେତ:${code}\n\n[${host}] (https: //${host})${action}ପ୍ରମାଣ ସଂକେତ:${code}।\n\nଯଦି ଆପଣ ଆବେଦନ କରିନାହାଁନ୍ତି [${host}] (https: //${host})${action}, ଦୟାକରି ଏହି ସନ୍ଦେଶକୁ ଅଣଦେଖା କରନ୍ତୁ |\n\nଯଦି ଆପଣ ଆବେଦନ କରିନାହାଁନ୍ତି [${host}] (https: //${host})${action}, ଦୟାକରି ଏହି ସନ୍ଦେଶକୁ ଅଣଦେଖା କରନ୍ତୁ |\n"

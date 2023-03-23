@@ -1,0 +1,47 @@
+accountExist: Tá an cuntas ann cheana,
+accountInvalid: Cuir isteach ainm cuntais bailí
+accountMailHostBan: Cosc ar ríomhphost an fhearainn seo clárú
+accountTooLong: Cuntas ró-fhada
+agree: Aontaigh
+captchaImage: Íomhá Captcha
+checkSpam: Ná déan dearmad seiceáil an bosca poist turscair
+clickSignIn: Cliceáil anseo chun SignIn
+errCode: Tá earráid sa chód fíoraithe nó imithe in éag
+enterCode: Cuir isteach an cód fíorúcháin a fuair tú
+loading: Ag lódáil
+mail: Ríomhphost
+needUserAgreement: Aontaigh ar an gComhaontú le do thoil
+notRecv: Ní bhfuarthas ?
+or: nó
+password: Pasfhocal
+phone: Fón
+refresh: Athnuaigh
+resend: Cliceáil anseo chun athsheoladh
+resetPassword: Athshocraigh Pasfhocal
+setPassword: Socraigh Pasfhocal
+signIn: Sínigh isteach
+signUp: Clarú
+userAgreement: Comhaontú Úsáideora
+verificationCode: Cód fíorúcháin
+wait: Fán le do thoil
+verificationMailResended: Ríomhphost Fíorúcháin Athchurtha
+createAccount: Cruthaigh cuntas nua
+name: Ainm
+logout: Logáil Amach
+errAccountOrPassword: Cuntas nó Pasfhocal Mícheart
+setDone: Socraigh go rathúil
+confirm: Deimhnigh
+config: Cumraíocht
+switchUser: Athraigh Úsáideoir
+addAccount: Cuir Cuntas leis
+exited: Logáilte amach
+remove: Bain
+exitAll: Logáil amach Gach Cuntas
+rmAll: Bain Gach Cuntas
+enter: Cuir isteach
+invalid: Neamhbhailí
+oldMail: Bunphost
+newMail: Ríomhphost Nua
+modifyMail: Athraigh Ríomhphost
+used: Arna Úsáid Cheana Ag Cuntas Eile
+captchaClick: Cliceáil <br 0> san íomhá thíos

@@ -1,0 +1,47 @@
+accountExist: Akunna parantos aya,
+accountInvalid: Punten lebetkeun nami akun anu sah
+accountMailHostBan: Surat domain ieu dilarang pikeun ngadaptar
+accountTooLong: Akun panjang teuing
+agree: satuju
+captchaImage: Gambar Captcha
+checkSpam: Tong hilap pariksa kotak surat spam
+clickSignIn: Klik di dieu pikeun SignIn
+errCode: Kodeu verifikasi nyaéta kasalahan atanapi kadaluwarsa
+enterCode: Lebetkeun kodeu verifikasi anjeun nampi
+loading: Ngamuat
+mail: Surat
+needUserAgreement: Mangga Satuju Perjangjian
+notRecv: Teu nampi?
+or: atawa
+password: Sandi
+phone: Telepon
+refresh: Nyegerkeun
+resend: Klik di dieu pikeun ngirim deui
+resetPassword: Reset Sandi
+setPassword: Setel Sandi
+signIn: Daptar
+signUp: Daptar
+userAgreement: pasatujuan pamaké
+verificationCode: Kodeu vérifikasi
+wait: Punten antosan
+verificationMailResended: Surat Verifikasi Dikirimkeun deui
+createAccount: Jieun akun anyar
+name: Ngaran
+logout: Kaluar
+errAccountOrPassword: Akun atanapi Sandi Lepat
+setDone: Setrés suksés
+confirm: Konpirmasi
+config: Konfigurasi
+switchUser: Pindah Pamaké
+addAccount: Tambahkeun Akun
+exited: Kaluar
+remove: Cabut
+exitAll: Logout Sadaya Akun
+rmAll: Hapus Sadayana Akun
+enter: Lebetkeun
+invalid: Teu sah
+oldMail: Surat Asli
+newMail: Surat Anyar
+modifyMail: Ngarobah Surat
+used: Geus Dipake Ku Rekening Lain
+captchaClick: Pencét <br 0> dina gambar di handap ieu

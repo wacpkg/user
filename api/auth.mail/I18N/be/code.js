@@ -1,0 +1,1 @@
+export default "[${host}]${action}код верыфікацыі:${code}\n\n[${host}](https://${host})${action}код верыфікацыі:${code}.\n\nКалі вы не падалі заяўку на [${host}](https://${host})${action}, ігнаруйце гэта паведамленне.\n\nКалі вы не падалі заяўку на [${host}](https://${host})${action}, ігнаруйце гэта паведамленне.\n"

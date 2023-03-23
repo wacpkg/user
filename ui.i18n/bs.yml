@@ -1,0 +1,47 @@
+accountExist: Račun je već postojao,
+accountInvalid: Unesite važeći naziv računa
+accountMailHostBan: Pošta ove domene je zabranjena za registraciju
+accountTooLong: Račun je predugačak
+agree: Slažem se
+captchaImage: Captcha slika
+checkSpam: Ne zaboravite provjeriti spam sanduče
+clickSignIn: Kliknite ovdje da se prijavite
+errCode: Verifikacioni kod je greška ili je istekao
+enterCode: Unesite verifikacioni kod koji ste primili
+loading: Učitavanje
+mail: Mail
+needUserAgreement: Molimo da se složite sa sporazumom
+notRecv: Nije dobila ?
+or: ili
+password: Lozinka
+phone: Telefon
+refresh: Osvježiti
+resend: Kliknite ovdje za ponovno slanje
+resetPassword: Reset lozinke
+setPassword: Postavite lozinku
+signIn: SignIn
+signUp: Prijaviti se
+userAgreement: Korisnički ugovor
+verificationCode: Verifikacijski kod
+wait: Molim sačekajte
+verificationMailResended: Poruka za potvrdu ponovo poslana
+createAccount: Kreirajte novi nalog
+name: Ime
+logout: Odjaviti se
+errAccountOrPassword: Netačan nalog ili lozinka
+setDone: Postavite uspješno
+confirm: Potvrdi
+config: Config
+switchUser: Promijeniti korisnika
+addAccount: Dodaj račun
+exited: Odjavljen
+remove: Ukloni
+exitAll: Odjavite se sa svih naloga
+rmAll: Uklonite sve račune
+enter: Enter
+invalid: Nevažeći
+oldMail: Original Mail
+newMail: Nova pošta
+modifyMail: Modify Mail
+used: Već koristi drugi račun
+captchaClick: Kliknite <br 0> na slici ispod

@@ -1,0 +1,47 @@
+accountExist: Kontoen eksisterer allerede,
+accountInvalid: Indtast venligst et gyldigt kontonavn
+accountMailHostBan: Dette domænes mail er udelukket til tilmelding
+accountTooLong: Kontoen er for lang
+agree: Enig
+captchaImage: Captcha billede
+checkSpam: Glem ikke at tjekke spampostkassen
+clickSignIn: Klik her for at logge ind
+errCode: Bekræftelseskoden er fejl eller udløbet
+enterCode: Indtast den bekræftelseskode, du har modtaget
+loading: Indlæser
+mail: Post
+needUserAgreement: Godkend venligst aftale
+notRecv: Ikke modtaget ?
+or: eller
+password: Adgangskode
+phone: telefon
+refresh: Opdater
+resend: Klik her for at sende igen
+resetPassword: Nulstille kodeord
+setPassword: Indstil adgangskode
+signIn: Log ind
+signUp: Tilmelde
+userAgreement: Brugeraftale
+verificationCode: Verifikationskode
+wait: Vent venligst
+verificationMailResended: Bekræftelsesmail er sendt igen
+createAccount: Opret ny konto
+name: Navn
+logout: Log ud
+errAccountOrPassword: Forkert konto eller adgangskode
+setDone: Indstil med succes
+confirm: Bekræfte
+config: Konfig
+switchUser: Skift bruger
+addAccount: Tilføj konto
+exited: Logget ud
+remove: Fjerne
+exitAll: Log af alle konti
+rmAll: Fjern alle konti
+enter: Gå ind
+invalid: Ugyldig
+oldMail: Original mail
+newMail: Ny mail
+modifyMail: Rediger Mail
+used: Allerede brugt af en anden konto
+captchaClick: Klik <br 0> på billedet nedenfor

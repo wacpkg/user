@@ -1,0 +1,47 @@
+accountExist: Kua noho kē te kaute,
+accountInvalid: Whakaurua koa he ingoa pūkete whaimana
+accountMailHostBan: Kua rāhuitia te mēra o tēnei rohe ki te haina
+accountTooLong: He roa rawa te kaute
+agree: Whakaae
+captchaImage: Whakaahua Captcha
+checkSpam: Kaua e wareware tirohia te pouaka mēra pāme
+clickSignIn: Paatohia a konei ki te Waitohu
+errCode: Ko te waehere manatoko he hapa, kua pau ranei
+enterCode: Whakauruhia te waehere whakaū i whiwhi koe
+loading: Uta ana
+mail: Mail
+needUserAgreement: Whakaae Whakaaetanga
+notRecv: Kaore i riro mai?
+or: ranei
+password: Kupuhipa
+phone: Waea
+refresh: Tāmata
+resend: Pāwhiri ki konei ki te tuku anō
+resetPassword: Tautuhi Kupuhipa
+setPassword: Tautuhi Kupuhipa
+signIn: Waitohu
+signUp: WaitohuUp
+userAgreement: Whakaaetanga Kaiwhakamahi
+verificationCode: Waehere Manatoko
+wait: Taihoa koa
+verificationMailResended: Mēra Manatoko i Tukua Anō
+createAccount: Waihanga pūkete hōu
+name: Ingoa
+logout: Takiputa
+errAccountOrPassword: Pūkete Hē, Kupuhipa rānei
+setDone: I Angitū te Tautuhi
+confirm: Whakaū
+config: Whirihora
+switchUser: Whakawhiti Kaiwhakamahi
+addAccount: Tāpiri Pūkete
+exited: Kua takiuru ki waho
+remove: Tango
+exitAll: Takiputa i nga Kaute Katoa
+rmAll: Tangohia nga Kaute Katoa
+enter: Tomo
+invalid: He muhu
+oldMail: Mēra Taketake
+newMail: Mēra Hou
+modifyMail: Whakarerekē Mēra
+used: Kua Whakamahia e tetahi atu Kaute
+captchaClick: Pāwhiri <br 0> i te ahua o raro

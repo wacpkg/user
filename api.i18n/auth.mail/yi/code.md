@@ -1,0 +1,7 @@
+[<br host>]<br action>וועראַפאַקיישאַן קאָד:<br code>
+
+[<br host>](https://<br host>)<br action>וועראַפאַקיישאַן קאָד:<br code>.
+
+אויב איר האָט נישט אַפּלייינג פֿאַר [<br host>](https://<br host>)<br action>, ביטע איגנאָרירן דעם אָנזאָג.
+
+אויב איר האָט נישט אַפּלייינג פֿאַר [<br host>](https://<br host>)<br action>, ביטע איגנאָרירן דעם אָנזאָג.

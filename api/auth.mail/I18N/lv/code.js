@@ -1,0 +1,1 @@
+export default "[${host}]${action}verifikācijas kods:${code}\n\n[${host}](https://${host})${action}verifikācijas kods:${code}.\n\nJa neesat pieteicies [${host}](https://${host})${action}, lūdzu, ignorējiet šo ziņojumu.\n\nJa neesat pieteicies [${host}](https://${host})${action}, lūdzu, ignorējiet šo ziņojumu.\n"

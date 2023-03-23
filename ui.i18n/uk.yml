@@ -1,0 +1,47 @@
+accountExist: Обліковий запис уже існує,
+accountInvalid: Введіть дійсне ім'я облікового запису
+accountMailHostBan: Пошта цього домену заборонена для реєстрації
+accountTooLong: Рахунок задовгий
+agree: Погодьтеся
+captchaImage: Зображення Captcha
+checkSpam: Не забудьте перевірити поштову скриньку зі спамом
+clickSignIn: Натисніть тут, щоб увійти
+errCode: Код перевірки помилковий або термін дії минув
+enterCode: Введіть код підтвердження, який ви отримали
+loading: Завантаження
+mail: Пошта
+needUserAgreement: Будь ласка, погодьтеся
+notRecv: Не отримав ?
+or: або
+password: Пароль
+phone: Телефон
+refresh: Оновити
+resend: Натисніть тут, щоб повторно надіслати
+resetPassword: Скинути пароль
+setPassword: Встановити пароль
+signIn: Увійти
+signUp: Реєстрація
+userAgreement: Угода користувача
+verificationCode: Код підтвердження
+wait: Будь ласка, зачекайте
+verificationMailResended: Лист підтвердження надіслано повторно
+createAccount: Створити новий обліковий запис
+name: Ім'я
+logout: Вийти
+errAccountOrPassword: Неправильний обліковий запис або пароль
+setDone: Встановлено успішно
+confirm: Підтвердити
+config: Конфігурація
+switchUser: Змінити користувача
+addAccount: Додати обліковий запис
+exited: Вийшов з системи
+remove: видалити
+exitAll: Вийти з усіх облікових записів
+rmAll: Видалити всі облікові записи
+enter: Введіть
+invalid: Недійсний
+oldMail: Оригінальна пошта
+newMail: Нова пошта
+modifyMail: Змінити пошту
+used: Вже використовується іншим обліковим записом
+captchaClick: Натисніть <br 0> на зображенні нижче

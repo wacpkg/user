@@ -1,0 +1,47 @@
+accountExist: အကောင့်က ရှိပြီးသား၊
+accountInvalid: ကျေးဇူးပြု၍ တရားဝင်အကောင့်အမည်ကို ထည့်ပါ။
+accountMailHostBan: စာရင်းသွင်းရန် ဤဒိုမိန်း၏မေးလ်ကို ပိတ်ပင်ထားသည်။
+accountTooLong: အကောင့်ရှည်လွန်းသည်။
+agree: သဘောတူသည်။
+captchaImage: Captcha ပုံ
+checkSpam: spam mailbox ကိုစစ်ဆေးရန်မမေ့ပါနှင့်
+clickSignIn: ဝင်ရောက်ရန် ဤနေရာကိုနှိပ်ပါ။
+errCode: အတည်ပြုကုဒ်သည် အမှားအယွင်း သို့မဟုတ် သက်တမ်းကုန်သွားပါသည်။
+enterCode: သင်လက်ခံရရှိသော အတည်ပြုကုဒ်ကို ထည့်သွင်းပါ။
+loading: ဒိန်း
+mail: မေးလ်
+needUserAgreement: ကျေးဇူးပြု၍ သဘောတူညီချက်ကို သဘောတူပါ။
+notRecv: မရဘူးလား?
+or: သို့မဟုတ်
+password: စကားဝှက်
+phone: ဖုန်း
+refresh: ပြန်လည်စတင်ပါ။
+resend: ပြန်လည်ပေးပို့ရန် ဤနေရာကိုနှိပ်ပါ။
+resetPassword: လျှို့ဝှတ်နံပါတ်အားမူလအတိုင်းပြန်လုပ်သည်
+setPassword: စကားဝှက်သတ်မှတ်ပါ။
+signIn: ဆိုင်းအင်လုပ်ခြင်း
+signUp: ဆိုင်းအပ်
+userAgreement: အသုံးပြုသူသဘောတူညီချက်
+verificationCode: အတည်ပြုရန်ကုတ်
+wait: ကျေးဇူးပြုပြီးခဏစောင့်ပါ
+verificationMailResended: အတည်ပြုမေးလ်ကို ပြန်လည်ပေးပို့ခဲ့သည်။
+createAccount: အကောင့်အသစ်ဖန်တီးပါ။
+name: နာမည်
+logout: ထွက်လိုက်ပါ။
+errAccountOrPassword: အကောင့် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ။
+setDone: အောင်မြင်စွာ သတ်မှတ်ပါ။
+confirm: အတည်ပြုပါ။
+config: ပြင်ဆင်မှု
+switchUser: အသုံးပြုသူကိုပြောင်းပါ။
+addAccount: အကောင့်ထည့်ပါ။
+exited: ထွက်သွားပြီ
+remove: ဖယ်ရှားပါ။
+exitAll: အကောင့်အားလုံးကို ထွက်လိုက်ပါ။
+rmAll: အကောင့်အားလုံးကို ဖယ်ရှားပါ။
+enter: ဝင်ပါ။
+invalid: မမှန်ပါ။
+oldMail: မူရင်းမေးလ်
+newMail: မေးလ်အသစ်
+modifyMail: Mail ကို ပြင်ဆင်ပါ။
+used: အခြားအကောင့်တစ်ခုမှ အသုံးပြုပြီးဖြစ်သည်။
+captchaClick: နှိပ်ပါ။ <br 0> အောက်ပါပုံတွင်

@@ -1,0 +1,47 @@
+accountExist: The account is already existed,
+accountInvalid: Please enter a valid account name
+accountMailHostBan: This domain's mail banned to signup
+accountTooLong: Account too long
+agree: Agree
+captchaImage: Captcha Image
+checkSpam: Don't forget check the spam mailbox
+clickSignIn: Click here to SignIn
+errCode: The verification code is error or expired
+enterCode: Enter the verification code you received
+loading: Loading
+mail: Mail
+needUserAgreement: Please Agree Agreement
+notRecv: Not received ?
+or: or
+password: Password
+phone: Phone
+refresh: Refresh
+resend: Click here to resend
+resetPassword: Reset Password
+setPassword: Set Password
+signIn: SignIn
+signUp: SignUp
+userAgreement: User Agreement
+verificationCode: Verification Code
+wait: Please Wait
+verificationMailResended: Verification Mail Resended
+createAccount: Create new account
+name: Name
+logout: Logout
+errAccountOrPassword: Incorrect Account or Password
+setDone: Set Successfully
+confirm: Confirm
+config: Config
+switchUser: Switch User
+addAccount: Add Account
+exited: Logged out
+remove: Remove
+exitAll: Logout All Accounts
+rmAll: Remove All Accounts
+enter: Enter
+invalid: Invalid
+oldMail: Original Mail
+newMail: New Mail
+modifyMail: Modify Mail
+used: Already Used By Another Account
+captchaClick: Click <br 0> in below image

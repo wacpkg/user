@@ -1,0 +1,1 @@
+export default "[${host}]${action}vahvistuskoodi:${code}\n\n[${host}](https://${host})${action}vahvistuskoodi:${code}.\n\nJos et ole hakenut [${host}](https://${host})${action}, jätä tämä viesti huomioimatta.\n\nJos et ole hakenut [${host}](https://${host})${action}, jätä tämä viesti huomioimatta.\n"

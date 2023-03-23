@@ -1,0 +1,1 @@
+export default "[${host}]${action}gqina ikhowudi:${code}\n\n[${host}](https://${host})${action}gqina ikhowudi:${code}.\n\nUkuba awusenzanga isicelo [${host}](https://${host})${action}, ndicela ungawuhoyi lo myalezo.\n\nUkuba awusenzanga isicelo [${host}](https://${host})${action}, ndicela ungawuhoyi lo myalezo.\n"

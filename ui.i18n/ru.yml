@@ -1,0 +1,47 @@
+accountExist: Аккаунт уже существует,
+accountInvalid: Пожалуйста, введите действительное имя учетной записи
+accountMailHostBan: Почта этого домена запрещена для регистрации
+accountTooLong: Аккаунт слишком длинный
+agree: Соглашаться
+captchaImage: Изображение с картинки
+checkSpam: Не забудьте проверить почтовый ящик спам
+clickSignIn: Нажмите здесь, чтобы войти
+errCode: Код подтверждения ошибочен или срок его действия истек
+enterCode: Введите полученный код подтверждения
+loading: Загрузка
+mail: Почта
+needUserAgreement: Пожалуйста, примите соглашение
+notRecv: Не получено ?
+or: или
+password: Пароль
+phone: Телефон
+refresh: Обновить
+resend: Нажмите здесь, чтобы повторно отправить
+resetPassword: Сброс пароля
+setPassword: Установка пароля
+signIn: Войти
+signUp: Зарегистрироваться
+userAgreement: Пользовательское Соглашение
+verificationCode: Проверочный код
+wait: Пожалуйста, подождите
+verificationMailResended: Письмо с подтверждением отправлено повторно
+createAccount: Создать новый аккаунт
+name: Имя
+logout: Выйти
+errAccountOrPassword: Неверный аккаунт или пароль
+setDone: Установить успешно
+confirm: Подтверждать
+config: Конфигурация
+switchUser: Поменять пользователя
+addAccount: Добавить аккаунт
+exited: Вышли из
+remove: Удалять
+exitAll: Выйти из всех учетных записей
+rmAll: Удалить все учетные записи
+enter: Входить
+invalid: Неверный
+oldMail: Оригинальная почта
+newMail: Новая почта
+modifyMail: Изменить почту
+used: Уже используется другой учетной записью
+captchaClick: Нажмите <br 0> на изображении ниже

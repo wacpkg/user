@@ -1,0 +1,47 @@
+accountExist: Аккаунт мурунтан эле бар,
+accountInvalid: Жарактуу аккаунттун атын киргизиңиз
+accountMailHostBan: Бул домендин почтасына катталууга тыюу салынган
+accountTooLong: Эсеп өтө узун
+agree: макул
+captchaImage: Captcha Image
+checkSpam: Спам почта кутусун текшерүүнү унутпаңыз
+clickSignIn: Кирүү үчүн бул жерди басыңыз
+errCode: Текшерүү коду ката же мөөнөтү өтүп кеткен
+enterCode: Сиз алган текшерүү кодун киргизиңиз
+loading: Жүктөө
+mail: Почта
+needUserAgreement: Сураныч, Макулдашыңыз
+notRecv: алынган жок?
+or: же
+password: Купуя сөз
+phone: Телефон
+refresh: Жаңылоо
+resend: Кайра жөнөтүү үчүн бул жерди басыңыз
+resetPassword: Сырсөздү кайра коюу
+setPassword: Сырсөз коюу
+signIn: Кирүү
+signUp: Кирүү
+userAgreement: Колдонуучу келишими
+verificationCode: Текшерүү коду
+wait: Күтө туруңуз
+verificationMailResended: Текшерүү каты кайра жөнөтүлдү
+createAccount: Жаңы каттоо эсебин түзүү
+name: аты
+logout: Чыгуу
+errAccountOrPassword: Каттоо эсеби же сырсөз туура эмес
+setDone: Ийгиликтүү орнотулду
+confirm: ырастоо
+config: Конфигурация
+switchUser: Колдонуучуну которуштуруу
+addAccount: Каттоо эсебин кошуу
+exited: Чыгылды
+remove: Алып салуу
+exitAll: Бардык каттоо эсептеринен чыгуу
+rmAll: Бардык эсептерди алып салуу
+enter: Кириңиз
+invalid: Жараксыз
+oldMail: Түпнуска почта
+newMail: Жаңы почта
+modifyMail: Почтаны өзгөртүү
+used: Буга чейин башка каттоо эсеби тарабынан колдонулган
+captchaClick: Click <br 0> төмөнкү сүрөттө

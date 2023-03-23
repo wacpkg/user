@@ -1,0 +1,1 @@
+export default "[${host}]${action}проверочный код:${code}\n\n[${host}](https://${host})${action}проверочный код:${code}.\n\nЕсли вы не подали заявку на [${host}](https://${host})${action}, проигнорируйте это сообщение.\n\nЕсли вы не подали заявку на [${host}](https://${host})${action}, проигнорируйте это сообщение.\n"

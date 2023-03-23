@@ -1,0 +1,1 @@
+export default "[${host}]${action}Staðfestingarkóði:${code}\n\n[${host}](https://${host})${action}Staðfestingarkóði:${code}.\n\nEf þú hefur ekki sótt um [${host}](https://${host})${action}, vinsamlegast hunsa þessi skilaboð.\n\nEf þú hefur ekki sótt um [${host}](https://${host})${action}, vinsamlegast hunsa þessi skilaboð.\n"

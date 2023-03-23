@@ -1,0 +1,1 @@
+export default "[${host}]${action}kode verifikasi:${code}\n\n[${host}](https://${host})${action}kode verifikasi:${code}.\n\nYen sampeyan durung nglamar [${host}](https://${host})${action}, please nglirwakake pesen iki.\n\nYen sampeyan durung nglamar [${host}](https://${host})${action}, please nglirwakake pesen iki.\n"

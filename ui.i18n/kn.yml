@@ -1,0 +1,47 @@
+accountExist: ಖಾತೆಯು ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ,
+accountInvalid: ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಖಾತೆಯ ಹೆಸರನ್ನು ನಮೂದಿಸಿ
+accountMailHostBan: ಈ ಡೊಮೇನ್‌ನ ಮೇಲ್ ಸೈನ್‌ಅಪ್ ಮಾಡಲು ನಿಷೇಧಿಸಲಾಗಿದೆ
+accountTooLong: ಖಾತೆ ತುಂಬಾ ಉದ್ದವಾಗಿದೆ
+agree: ಒಪ್ಪುತ್ತೇನೆ
+captchaImage: ಕ್ಯಾಪ್ಚಾ ಚಿತ್ರ
+checkSpam: ಸ್ಪ್ಯಾಮ್ ಮೇಲ್ಬಾಕ್ಸ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಲು ಮರೆಯಬೇಡಿ
+clickSignIn: ಸೈನ್ ಇನ್ ಮಾಡಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ
+errCode: ಪರಿಶೀಲನೆ ಕೋಡ್ ದೋಷವಾಗಿದೆ ಅಥವಾ ಅವಧಿ ಮೀರಿದೆ
+enterCode: ನೀವು ಸ್ವೀಕರಿಸಿದ ಪರಿಶೀಲನಾ ಕೋಡ್ ಅನ್ನು ನಮೂದಿಸಿ
+loading: ಲೋಡ್ ಆಗುತ್ತಿದೆ
+mail: ಮೇಲ್
+needUserAgreement: ದಯವಿಟ್ಟು ಒಪ್ಪಂದವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಿ
+notRecv: ಇನ್ನೂ ಬಂದಿಲ್ಲ ?
+or: ಅಥವಾ
+password: ಗುಪ್ತಪದ
+phone: ದೂರವಾಣಿ
+refresh: ರಿಫ್ರೆಶ್ ಮಾಡಿ
+resend: ಮರುಕಳುಹಿಸಲು ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ
+resetPassword: ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ
+setPassword: ಪಾಸ್ವರ್ಡ್ ಹೊಂದಿಸಿ
+signIn: ಸೈನ್ ಇನ್
+signUp: ಸೈನ್ ಅಪ್
+userAgreement: ಬಳಕೆದಾರ ಒಪ್ಪಂದ
+verificationCode: ಪರಿಶೀಲನೆ ಕೋಡ್
+wait: ದಯಮಾಡಿ ನಿರೀಕ್ಷಿಸಿ
+verificationMailResended: ಪರಿಶೀಲನೆ ಮೇಲ್ ಅನ್ನು ಮರುಕಳುಹಿಸಲಾಗಿದೆ
+createAccount: ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಿ
+name: ಹೆಸರು
+logout: ಲಾಗ್ ಔಟ್
+errAccountOrPassword: ತಪ್ಪಾದ ಖಾತೆ ಅಥವಾ ಪಾಸ್ವರ್ಡ್
+setDone: ಯಶಸ್ವಿಯಾಗಿ ಹೊಂದಿಸಿ
+confirm: ದೃಢೀಕರಿಸಿ
+config: ಸಂರಚನೆ
+switchUser: ಬಳಕೆದಾರರನ್ನು ಬದಲಿಸಿ
+addAccount: ಖಾತೆಯನ್ನು ಸೇರಿಸು
+exited: ಲಾಗ್ ಔಟ್
+remove: ತೆಗೆದುಹಾಕಿ
+exitAll: ಎಲ್ಲಾ ಖಾತೆಗಳನ್ನು ಲಾಗ್ಔಟ್ ಮಾಡಿ
+rmAll: ಎಲ್ಲಾ ಖಾತೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ
+enter: ನಮೂದಿಸಿ
+invalid: ಅಮಾನ್ಯವಾಗಿದೆ
+oldMail: ಮೂಲ ಮೇಲ್
+newMail: ಹೊಸ ಮೇಲ್
+modifyMail: ಮೇಲ್ ಅನ್ನು ಮಾರ್ಪಡಿಸಿ
+used: ಈಗಾಗಲೇ ಮತ್ತೊಂದು ಖಾತೆಯಿಂದ ಬಳಸಲಾಗಿದೆ
+captchaClick: ಕ್ಲಿಕ್ <br 0> ಕೆಳಗಿನ ಚಿತ್ರದಲ್ಲಿ

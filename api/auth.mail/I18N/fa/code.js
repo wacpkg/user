@@ -1,0 +1,1 @@
+export default "[${host}]${action}کد تایید:${code}\n\n[${host}](https://${host})${action}کد تایید:${code}.\n\nاگر برای [${host}](https://${host})${action}لطفا این پیام را نادیده بگیرید.\n\nاگر برای [${host}](https://${host})${action}لطفا این پیام را نادیده بگیرید.\n"

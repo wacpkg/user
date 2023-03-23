@@ -1,0 +1,1 @@
+export default "[${host}]${action}kodu afimo:${code}\n\n[${host}](https://${host})${action}kodu afimo:${code}.\n\nTi o ko ba ti beere fun [${host}](https://${host})${action}, jọwọ foju yi ifiranṣẹ.\n\nTi o ko ba ti beere fun [${host}](https://${host})${action}, jọwọ foju yi ifiranṣẹ.\n"

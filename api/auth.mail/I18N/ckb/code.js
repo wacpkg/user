@@ -1,0 +1,1 @@
+export default "[${host}]${action}كۆدى دڵنيابوون:${code}\n\n[${host}](https:// .${host})${action}كۆدى دڵنيابوون:${code}.\n\nئەگەر داواکاریت بۆ [${host}](https:// .${host})${action}، تکایە ئەم پەیامە پشتگوێ بخەن.\n\nئەگەر داواکاریت بۆ [${host}](https:// .${host})${action}، تکایە ئەم پەیامە پشتگوێ بخەن.\n"

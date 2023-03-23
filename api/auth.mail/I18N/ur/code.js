@@ -1,0 +1,1 @@
+export default "[${host}]${action}تصدیقی کوڈ:${code}\n\n[${host}](https://${host})${action}تصدیقی کوڈ:${code}.\n\nاگر آپ نے درخواست نہیں دی ہے [${host}](https://${host})${action}، براہ کرم اس پیغام کو نظر انداز کریں۔\n\nاگر آپ نے درخواست نہیں دی ہے [${host}](https://${host})${action}، براہ کرم اس پیغام کو نظر انداز کریں۔\n"

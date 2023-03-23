@@ -1,0 +1,47 @@
+accountExist: حساب از قبل وجود داشته است،
+accountInvalid: لطفاً یک نام حساب معتبر وارد کنید
+accountMailHostBan: ایمیل این دامنه برای ثبت نام ممنوع شد
+accountTooLong: حساب خیلی طولانی است
+agree: موافق
+captchaImage: تصویر کپچا
+checkSpam: فراموش نکنید که صندوق پستی هرزنامه را بررسی کنید
+clickSignIn: برای ورود اینجا کلیک کنید
+errCode: کد تأیید خطا یا منقضی شده است
+enterCode: کد تأیید دریافتی را وارد کنید
+loading: بارگذاری
+mail: ایمیل
+needUserAgreement: لطفا موافقت کنید موافقت کنید
+notRecv: دریافت نشد ؟
+or: یا
+password: کلمه عبور
+phone: تلفن
+refresh: تازه کردن
+resend: برای ارسال مجدد اینجا را کلیک کنید
+resetPassword: بازنشانی رمز عبور
+setPassword: قراردادن رمز عبور
+signIn: ورود
+signUp: ثبت نام
+userAgreement: توافق کاربر
+verificationCode: کد تایید
+wait: لطفا صبر کنید
+verificationMailResended: نامه تأیید مجدد ارسال شد
+createAccount: ایجاد حساب کاربری جدید
+name: نام
+logout: خروج
+errAccountOrPassword: حساب یا رمز عبور نادرست
+setDone: تنظیم با موفقیت
+confirm: تایید
+config: پیکربندی
+switchUser: تغییر کاربر
+addAccount: اضافه کردن حساب
+exited: از سیستم خارج شد
+remove: برداشتن
+exitAll: خروج از همه حساب ها
+rmAll: حذف همه حساب ها
+enter: وارد
+invalid: بی اعتبار
+oldMail: نامه اصلی
+newMail: ایمیل جدید
+modifyMail: ایمیل را اصلاح کنید
+used: قبلاً توسط حساب دیگری استفاده شده است
+captchaClick: کلیک <br 0> در تصویر زیر

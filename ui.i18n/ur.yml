@@ -1,0 +1,47 @@
+accountExist: اکاؤنٹ پہلے سے موجود ہے،
+accountInvalid: براہ کرم ایک درست اکاؤنٹ کا نام درج کریں۔
+accountMailHostBan: اس ڈومین کے میل پر سائن اپ کرنے پر پابندی ہے۔
+accountTooLong: اکاؤنٹ بہت لمبا ہے۔
+agree: متفق
+captchaImage: کیپچا امیج
+checkSpam: اسپام میل باکس کو چیک کرنا نہ بھولیں۔
+clickSignIn: سائن ان کرنے کے لیے یہاں کلک کریں۔
+errCode: توثیقی کوڈ میں خرابی ہے یا اس کی میعاد ختم ہو گئی ہے۔
+enterCode: آپ کو موصول ہونے والا تصدیقی کوڈ درج کریں۔
+loading: لوڈ ہو رہا ہے۔
+mail: میل
+needUserAgreement: براہ کرم معاہدہ سے اتفاق کریں۔
+notRecv: موصول نہیں ؟
+or: یا
+password: پاس ورڈ
+phone: فون
+refresh: ریفریش کریں۔
+resend: دوبارہ بھیجنے کے لیے یہاں کلک کریں۔
+resetPassword: پاس ورڈ ری سیٹ
+setPassword: پاس ورڈ رکھیں
+signIn: سائن ان
+signUp: سائن اپ
+userAgreement: صارف کا معاہدہ
+verificationCode: تصدیقی کوڈ
+wait: برائے مہربانی انتظار کریں
+verificationMailResended: تصدیقی میل دوبارہ بھیج دیا گیا۔
+createAccount: نیا اکاؤنٹ بنانے
+name: نام
+logout: لاگ آوٹ
+errAccountOrPassword: غلط اکاؤنٹ یا پاس ورڈ
+setDone: کامیابی سے سیٹ کریں۔
+confirm: تصدیق کریں۔
+config: ترتیب
+switchUser: استعمال کنندہ کو تبدیل کریں
+addAccount: اکاؤنٹ کا اضافہ
+exited: لاگ آؤٹ
+remove: دور
+exitAll: تمام اکاؤنٹس کو لاگ آؤٹ کریں۔
+rmAll: تمام اکاؤنٹس کو ہٹا دیں۔
+enter: داخل کریں۔
+invalid: غلط
+oldMail: اصل میل
+newMail: نیا میل
+modifyMail: میل میں ترمیم کریں۔
+used: پہلے ہی کسی دوسرے اکاؤنٹ کے ذریعہ استعمال کیا گیا ہے۔
+captchaClick: کلک کریں۔ <br 0> نیچے کی تصویر میں

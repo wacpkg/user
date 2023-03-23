@@ -1,0 +1,47 @@
+accountExist: Compte yango esi ezala, .
+accountInvalid: Svp kotia kombo ya compte ya malamu
+accountMailHostBan: Mail ya domaine oyo epekisami ko signer
+accountTooLong: Compte molai mingi
+agree: Kondima
+captchaImage: Elilingi ya Captcha
+checkSpam: Kobosana te ko vérifier boîte postale ya spam
+clickSignIn: Finá awa mpo na Kokɔta
+errCode: Code ya vérification ezali erreur to expiré
+enterCode: Tyá code ya vérification oyo ozwaki
+loading: Ezali ko charger
+mail: Kotindela biso mikanda
+needUserAgreement: Svp Boyoka Boyokani
+notRecv: Ezwami te ?
+or: to
+password: Mot de passe
+phone: Tyombo
+refresh: Bozongisa sika
+resend: Finá awa mpo na kotinda lisusu
+resetPassword: Réinitialiser Mot de passe
+setPassword: Set Mot ya nzela
+signIn: Kokɔta na site
+signUp: Bokomisa nkombo
+userAgreement: Boyokani ya Mosaleli
+verificationCode: Code ya vérification
+wait: Svp Bozela
+verificationMailResended: Mail ya Vérification Etindami lisusu
+createAccount: Bosala compte ya sika
+name: Nkombo
+logout: Kobima na mosala
+errAccountOrPassword: Compte to Mot de passe ya mabe
+setDone: Set Na elonga
+confirm: Kondimisa
+config: Config
+switchUser: Bobongola Mosaleli
+addAccount: Bakisa Compte
+exited: Abimaki na lopango
+remove: Kolongola
+exitAll: Logout Ba Comptes Nionso
+rmAll: Longola Ba Comptes Nionso
+enter: Kokota
+invalid: Ya mabe
+oldMail: Mail ya ebandeli
+newMail: Mail ya sika
+modifyMail: Bobongola Mail
+used: Déjà Esalemi Na Compte Mosusu
+captchaClick: Finá na esika bakomi <br 0> na elilingi oyo ezali awa na nse

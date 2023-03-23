@@ -1,0 +1,47 @@
+accountExist: खाता पहिने सँ मौजूद अछि,
+accountInvalid: कृपया एकटा वैध खाता नाम दर्ज करू
+accountMailHostBan: एहि डोमेन के मेल साइनअप करय पर रोक लगा देल गेल
+accountTooLong: खाता बहुत लंबा
+agree: सहमत
+captchaImage: कैप्चा छवि
+checkSpam: स्पैम मेलबॉक्स चेक करब नहि बिसरब
+clickSignIn: साइनइन करबाक लेल एतय क्लिक करू
+errCode: सत्यापन कोड त्रुटि या समाप्त भ गेल अछि
+enterCode: अहाँकेँ भेटल सत्यापन कोड दर्ज करू
+loading: लोड हो रहल अछि
+mail: मेल
+needUserAgreement: कृपया सहमत सहमति
+notRecv: नहि भेटल ?
+or: वा
+password: पासवर्ड
+phone: फोन
+refresh: ताज़ा करू
+resend: पुनः भेजबाक लेल एतय क्लिक करू
+resetPassword: पासवर्ड रीसेट करू
+setPassword: पासवर्ड सेट करू
+signIn: साइनइन करू
+signUp: साइनअप करू
+userAgreement: उपयोगकर्ता समझौता
+verificationCode: सत्यापन संहिता
+wait: कृपया प्रतीक्षा करू
+verificationMailResended: सत्यापन मेल पुनः भेजल गेल
+createAccount: नया खाता बनाये
+name: नाम
+logout: लॉगआउट
+errAccountOrPassword: गलत खाता या पासवर्ड
+setDone: सफलतापूर्वक सेट
+confirm: पुष्टि करु
+config: कॉन्फ़िगरेशन
+switchUser: उपयोगकर्ता स्विच करू
+addAccount: खाता जोड़ू
+exited: लॉग आउट भ गेल
+remove: हटाउ
+exitAll: लॉगआउट सब खाता
+rmAll: सब खाता हटाउ
+enter: प्रवेश
+invalid: अमान्य
+oldMail: मूल मेल
+newMail: नया मेल
+modifyMail: मेल संशोधित करू
+used: पहिने सँ कोनो दोसर खाता द्वारा प्रयोग कयल गेल अछि
+captchaClick: क्लिक करू <br 0> नीचे छवि में

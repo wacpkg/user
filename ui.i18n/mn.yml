@@ -1,0 +1,47 @@
+accountExist: Бүртгэл аль хэдийн байгаа,
+accountInvalid: Хүчинтэй дансны нэр оруулна уу
+accountMailHostBan: Энэ домэйны имэйлийг бүртгүүлэхийг хориглосон
+accountTooLong: Бүртгэл хэт урт байна
+agree: Зөвшөөрч байна
+captchaImage: Captcha зураг
+checkSpam: Спам шуудангийн хайрцгийг шалгахаа бүү мартаарай
+clickSignIn: Нэвтрэх бол энд дарна уу
+errCode: Баталгаажуулах код алдаатай эсвэл хугацаа нь дууссан
+enterCode: Хүлээн авсан баталгаажуулах кодыг оруулна уу
+loading: Ачааж байна
+mail: Мэйл
+needUserAgreement: Зөвшөөрч байна уу
+notRecv: Хүлээн аваагүй ?
+or: эсвэл
+password: Нууц үг
+phone: Утас
+refresh: Сэргээх
+resend: Дахин илгээхийн тулд энд дарна уу
+resetPassword: Нууц үгээ анхны байдалд нь оруулж
+setPassword: Нууц үг тохируулах
+signIn: Нэвтрэх
+signUp: Бүртгүүлэх
+userAgreement: Хэрэглэгчийн гэрээ
+verificationCode: Баталгаажуулах код
+wait: Хүлээгээрэй
+verificationMailResended: Баталгаажуулах имэйлийг дахин илгээсэн
+createAccount: Шинэ данс үүсгэх
+name: Нэр
+logout: Гарах
+errAccountOrPassword: Буруу данс эсвэл нууц үг
+setDone: Амжилттай тохирууллаа
+confirm: Баталгаажуулах
+config: Тохиргоо
+switchUser: Хэрэглэгч солих
+addAccount: Данс нэмэх
+exited: Гарсан
+remove: Устгах
+exitAll: Бүх бүртгэлээс гарах
+rmAll: Бүх бүртгэлийг устгах
+enter: Оруулна уу
+invalid: Хүчингүй
+oldMail: Жинхэнэ шуудан
+newMail: Шинэ шуудан
+modifyMail: Мэйл өөрчлөх
+used: Өөр дансанд аль хэдийн ашиглагдсан
+captchaClick: дарна уу <br 0> доорх зурган дээр

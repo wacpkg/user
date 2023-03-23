@@ -1,0 +1,47 @@
+accountExist: Hesap zaten var,
+accountInvalid: Lütfen geçerli bir hesap adı girin
+accountMailHostBan: Bu alanın postasının kaydolması yasaklandı
+accountTooLong: Hesap çok uzun
+agree: Kabul etmek
+captchaImage: CAPTCHA görseli
+checkSpam: Spam posta kutusunu kontrol etmeyi unutmayın
+clickSignIn: Oturum açmak için burayı tıklayın
+errCode: Doğrulama kodu hatalı veya süresi dolmuş
+enterCode: Aldığınız doğrulama kodunu girin
+loading: Yükleniyor
+mail: Posta
+needUserAgreement: Lütfen Anlaşmayı Kabul Edin
+notRecv: Alınamadı ?
+or: veya
+password: Şifre
+phone: Telefon
+refresh: Yenile
+resend: Tekrar göndermek için buraya tıklayın
+resetPassword: Şifreyi yenile
+setPassword: Şifreyi belirle
+signIn: Kayıt olmak
+signUp: Üye olmak
+userAgreement: Kullanıcı Sözleşmesi
+verificationCode: Doğrulama kodu
+wait: Lütfen bekleyin
+verificationMailResended: Doğrulama Postası Yeniden Gönderildi
+createAccount: Yeni hesap oluştur
+name: İsim
+logout: Çıkış Yap
+errAccountOrPassword: Yanlış Hesap veya Şifre
+setDone: Başarıyla Ayarla
+confirm: Onaylamak
+config: Yapılandırma
+switchUser: Kullanıcı değiştir
+addAccount: Hesap eklemek
+exited: Çıkış yapıldı
+remove: Kaldırmak
+exitAll: Tüm Hesapları Kapat
+rmAll: Tüm Hesapları Kaldır
+enter: Girmek
+invalid: Geçersiz
+oldMail: Orijinal Posta
+newMail: Yeni Posta
+modifyMail: Postayı Değiştir
+used: Zaten Başka Bir Hesap Tarafından Kullanılıyor
+captchaClick: Tıklamak <br 0> aşağıdaki resimde

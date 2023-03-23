@@ -1,0 +1,1 @@
+export default "[${host}]${action}nambari ya uthibitishaji:${code}\n\n[${host}](https://${host})${action}nambari ya uthibitishaji:${code}.\n\nIkiwa hujatuma ombi la [${host}](https://${host})${action}, tafadhali puuza ujumbe huu.\n\nIkiwa hujatuma ombi la [${host}](https://${host})${action}, tafadhali puuza ujumbe huu.\n"

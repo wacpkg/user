@@ -1,0 +1,1 @@
+export default "[${host}]${action}အတည်ပြုရန်ကုတ်:${code}\n\n[${host}](https://${host})${action}အတည်ပြုရန်ကုတ်:${code}.\n\nလျှောက်ထားခြင်းမပြုပါက [${host}](https://${host})${action}ကျေးဇူးပြု၍ ဤစာကို လျစ်လျူရှုပါ။\n\nလျှောက်ထားခြင်းမပြုပါက [${host}](https://${host})${action}ကျေးဇူးပြု၍ ဤစာကို လျစ်လျူရှုပါ။\n"

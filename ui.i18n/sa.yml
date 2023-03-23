@@ -1,0 +1,47 @@
+accountExist: लेखः पूर्वमेव अस्ति, .
+accountInvalid: कृपया वैधं खातानाम प्रविष्टं कुर्वन्तु
+accountMailHostBan: अस्य डोमेनस्य मेलः पञ्जीकरणं प्रतिषिद्धः
+accountTooLong: खाता अतीव दीर्घम्
+agree: अङ्गीकरोतु
+captchaImage: कप्चा इमेज
+checkSpam: स्पैम मेलबॉक्सं पश्यन्तु इति मा विस्मरन्तु
+clickSignIn: SignIn कर्तुं अत्र क्लिक् कुर्वन्तु
+errCode: सत्यापनसङ्केतः त्रुटिः अथवा अवधिः समाप्तः अस्ति
+enterCode: भवता प्राप्तं सत्यापनसङ्केतं प्रविशतु
+loading: लोडिंग
+mail: मेल
+needUserAgreement: कृपया सम्झौता सहमत हो
+notRecv: न प्राप्तम् ?
+or: वा
+password: समाभाष्
+phone: फोनं
+refresh: ताजगी
+resend: पुनः प्रेषयितुं अत्र क्लिक् कुर्वन्तु
+resetPassword: गुप्तशब्दं पुनः सेट् कुर्वन्तु
+setPassword: गुप्तशब्दं सेट् कुर्वन्तु
+signIn: SignIn
+signUp: SignUp
+userAgreement: उपयोक्तृसम्झौता
+verificationCode: सत्यापन संहिता
+wait: कृपया प्रतीक्षा करें
+verificationMailResended: सत्यापन मेल पुनः प्रेषित
+createAccount: नूतनं खातं रचयन्तु
+name: नामः
+logout: लॉगआउट्
+errAccountOrPassword: अशुद्ध खाता अथवा गुप्तशब्द
+setDone: सफलतया सेट् कुर्वन्तु
+confirm: दृढी करोतु
+config: Config
+switchUser: उपयोक्तारं परिवर्तयतु
+addAccount: खाता योजयतु
+exited: लॉग आउट् कृतवान्
+remove: अपाकरोति
+exitAll: सर्वाणि खातानि लॉगआउट् कुर्वन्तु
+rmAll: सर्वाणि खातानि निष्कासयन्तु
+enter: प्रवेश
+invalid: अप्रतिषेध
+oldMail: मूल मेल
+newMail: नवीन मेल
+modifyMail: मेल परिवर्तयतु
+used: पूर्वमेव अन्येन खातेन उपयुज्यते
+captchaClick: क्लिक् कुर्वन्तु <br 0> in below image इति

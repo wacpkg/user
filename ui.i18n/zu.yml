@@ -1,0 +1,47 @@
+accountExist: I-akhawunti isivele ikhona,
+accountInvalid: Sicela ufake igama le-akhawunti elivumelekile
+accountMailHostBan: Imeyili yalesi sizinda ivinjelwe ukubhalisa
+accountTooLong: I-akhawunti yinde kakhulu
+agree: Vuma
+captchaImage: Isithombe se-Captcha
+checkSpam: Ungakhohlwa hlola ibhokisi lemeyili likagaxekile
+clickSignIn: Chofoza lapha ukuze Ungene Ngemvume
+errCode: Ikhodi yokuqinisekisa inephutha noma iphelelwe yisikhathi
+enterCode: Faka ikhodi yokuqinisekisa oyitholile
+loading: Iyalayisha
+mail: Imeyili
+needUserAgreement: Sicela Uvume Isivumelwano
+notRecv: Ayitholwanga ?
+or: noma
+password: Iphasiwedi
+phone: Ucingo
+refresh: Vuselela
+resend: Chofoza lapha ukuze uthumele kabusha
+resetPassword: Setha kabusha Iphasiwedi
+setPassword: Setha Iphasiwedi
+signIn: Ngena ngemvume
+signUp: Bhalisela
+userAgreement: Isivumelwano somsebenzisi
+verificationCode: Ikhodi yokuqinisekisa
+wait: Ngicela ulinde
+verificationMailResended: Imeyili Yokuqinisekisa Ithunyelwe Kabusha
+createAccount: Dala i-akhawunti entsha
+name: Igama
+logout: Phuma
+errAccountOrPassword: I-akhawunti engalungile noma iphasiwedi
+setDone: Setha Ngempumelelo
+confirm: Qinisekisa
+config: Lungiselela
+switchUser: Shintsha Umsebenzisi
+addAccount: Engeza i-akhawunti
+exited: Uphumile
+remove: Susa
+exitAll: Phuma Kuwo Wonke Ama-Akhawunti
+rmAll: Susa Wonke Ama-akhawunti
+enter: Ngena
+invalid: Akuvumelekile
+oldMail: Imeyili Yoqobo
+newMail: Imeyili Entsha
+modifyMail: Lungisa Imeyili
+used: Isivele Isetshenziswa Enye I-akhawunti
+captchaClick: Chofoza <br 0> esithombeni esingezansi

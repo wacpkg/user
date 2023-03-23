@@ -1,0 +1,47 @@
+accountExist: Tus account twb muaj lawm,
+accountInvalid: Thov sau lub npe siv tau
+accountMailHostBan: Tus sau ntawv no txwv tsis pub sau npe
+accountTooLong: Account ntev dhau lawm
+agree: Pom zoo
+captchaImage: Duab Captcha
+checkSpam: Tsis txhob hnov ​​​​qab xyuas lub spam mailbox
+clickSignIn: Nyem qhov no mus SignIn
+errCode: Cov lej pov thawj yog qhov yuam kev lossis tag sijhawm
+enterCode: Sau tus lej pov thawj uas koj tau txais
+loading: Chaw thau khoom
+mail: Xa ntawv
+needUserAgreement: Thov Pom Zoo Daim Ntawv Pom Zoo
+notRecv: Tsis tau txais?
+or: los yog
+password: Tus password
+phone: Xov tooj
+refresh: Hloov tshiab
+resend: Nyem qhov no kom rov xa dua
+resetPassword: Reset Password
+setPassword: Teeb Password
+signIn: Kos npe
+signUp: Sau npe
+userAgreement: Daim ntawv cog lus siv
+verificationCode: Pov thawj Code
+wait: Thov tos
+verificationMailResended: Ntawv pov thawj xa rov qab
+createAccount: Tsim tus account tshiab
+name: Lub npe
+logout: Logout
+errAccountOrPassword: Account lossis Password tsis raug
+setDone: Teem kom tiav
+confirm: Paub meej
+config: Config
+switchUser: Hloov neeg siv
+addAccount: Ntxiv Account
+exited: ID nkag mus
+remove: Tshem tawm
+exitAll: Logout Txhua Tus Account
+rmAll: Tshem Tawm Txhua Tus Account
+enter: Nkag mus
+invalid: Tsis raug
+oldMail: Original Mail
+newMail: Xa ntawv tshiab
+modifyMail: Hloov Xa Ntawv
+used: Twb Tau Siv Los Ntawm Lwm Tus Account
+captchaClick: Nyem <br 0> hauv daim duab hauv qab no

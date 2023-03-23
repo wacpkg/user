@@ -1,0 +1,47 @@
+accountExist: खाते आधीच अस्तित्वात आहे,
+accountInvalid: कृपया वैध खाते नाव प्रविष्ट करा
+accountMailHostBan: या डोमेनच्या मेलवर साइनअप करण्यास बंदी घातली आहे
+accountTooLong: खाते खूप मोठे आहे
+agree: सहमत
+captchaImage: कॅप्चा प्रतिमा
+checkSpam: स्पॅम मेलबॉक्स तपासण्यास विसरू नका
+clickSignIn: साइन इन करण्यासाठी येथे क्लिक करा
+errCode: सत्यापन कोड त्रुटी आहे किंवा कालबाह्य झाला आहे
+enterCode: तुम्हाला मिळालेला पडताळणी कोड एंटर करा
+loading: लोड करत आहे
+mail: मेल
+needUserAgreement: कृपया सहमती दर्शवा
+notRecv: मिळाले नाही ?
+or: किंवा
+password: पासवर्ड
+phone: फोन
+refresh: रिफ्रेश करा
+resend: पुन्हा पाठवण्यासाठी येथे क्लिक करा
+resetPassword: पासवर्ड रीसेट करा
+setPassword: पासवर्ड सेट करा
+signIn: साइन इन करा
+signUp: साइनअप करा
+userAgreement: वापरकर्ता करार
+verificationCode: सत्यापन कोड
+wait: कृपया थांबा
+verificationMailResended: पडताळणी मेल पुन्हा पाठवला
+createAccount: नवीन खाते तयार करा
+name: नाव
+logout: बाहेर पडणे
+errAccountOrPassword: चुकीचे खाते किंवा पासवर्ड
+setDone: यशस्वीरित्या सेट
+confirm: पुष्टी
+config: कॉन्फिग
+switchUser: वापरकर्ता स्विच करा
+addAccount: खाते जोडा
+exited: लॉग आउट केले
+remove: काढा
+exitAll: सर्व खाती लॉगआउट करा
+rmAll: सर्व खाती काढा
+enter: प्रविष्ट करा
+invalid: अवैध
+oldMail: मूळ मेल
+newMail: नवीन मेल
+modifyMail: मेल सुधारित करा
+used: दुसर्‍या खात्याद्वारे आधीच वापरलेले आहे
+captchaClick: क्लिक करा <br 0> खालील चित्रात

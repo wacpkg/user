@@ -1,0 +1,47 @@
+accountExist: ਖਾਤਾ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ,
+accountInvalid: ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਖਾਤਾ ਨਾਮ ਦਰਜ ਕਰੋ
+accountMailHostBan: ਇਸ ਡੋਮੇਨ ਦੇ ਮੇਲ ਨੂੰ ਸਾਈਨ ਅੱਪ ਕਰਨ 'ਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਗਈ ਹੈ
+accountTooLong: ਖਾਤਾ ਬਹੁਤ ਲੰਮਾ ਹੈ
+agree: ਸਹਿਮਤ ਹੋ
+captchaImage: ਕੈਪਚਾ ਚਿੱਤਰ
+checkSpam: ਸਪੈਮ ਮੇਲਬਾਕਸ ਦੀ ਜਾਂਚ ਕਰਨਾ ਨਾ ਭੁੱਲੋ
+clickSignIn: ਸਾਈਨ ਇਨ ਕਰਨ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ
+errCode: ਪੁਸ਼ਟੀਕਰਨ ਕੋਡ ਗਲਤੀ ਹੈ ਜਾਂ ਮਿਆਦ ਪੁੱਗ ਗਈ ਹੈ
+enterCode: ਤੁਹਾਨੂੰ ਪ੍ਰਾਪਤ ਹੋਇਆ ਪੁਸ਼ਟੀਕਰਨ ਕੋਡ ਦਾਖਲ ਕਰੋ
+loading: ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ
+mail: ਮੇਲ
+needUserAgreement: ਕਿਰਪਾ ਕਰਕੇ ਸਹਿਮਤੀ ਸਮਝੋ
+notRecv: ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋਇਆ?
+or: ਜਾਂ
+password: ਪਾਸਵਰਡ
+phone: ਫ਼ੋਨ
+refresh: ਤਾਜ਼ਾ ਕਰੋ
+resend: ਦੁਬਾਰਾ ਭੇਜਣ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ
+resetPassword: ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰੋ
+setPassword: ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ
+signIn: ਸਾਈਨ - ਇਨ
+signUp: ਸਾਇਨ ਅਪ
+userAgreement: ਉਪਭੋਗਤਾ ਇਕਰਾਰਨਾਮਾ
+verificationCode: ਪੜਤਾਲ ਕੋਡ
+wait: ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ
+verificationMailResended: ਪੁਸ਼ਟੀਕਰਨ ਮੇਲ ਦੁਬਾਰਾ ਭੇਜੀ ਗਈ
+createAccount: ਨਵਾਂ ਖਾਤਾ ਬਣਾਓ
+name: ਨਾਮ
+logout: ਲਾੱਗ ਆਊਟ, ਬਾਹਰ ਆਉਣਾ
+errAccountOrPassword: ਗਲਤ ਖਾਤਾ ਜਾਂ ਪਾਸਵਰਡ
+setDone: ਸਫਲਤਾਪੂਰਵਕ ਸੈੱਟ ਕਰੋ
+confirm: ਪੁਸ਼ਟੀ ਕਰੋ
+config: ਸੰਰਚਨਾ
+switchUser: ਯੂਜ਼ਰ ਬਦਲੋ
+addAccount: ਖਾਤਾ ਸ਼ਾਮਲ ਕਰੋ
+exited: ਲੌਗ ਆਊਟ ਕੀਤਾ
+remove: ਹਟਾਓ
+exitAll: ਸਾਰੇ ਖਾਤੇ ਲੌਗਆਉਟ ਕਰੋ
+rmAll: ਸਾਰੇ ਖਾਤੇ ਹਟਾਓ
+enter: ਦਰਜ ਕਰੋ
+invalid: ਅਵੈਧ
+oldMail: ਮੂਲ ਮੇਲ
+newMail: ਨਵੀਂ ਮੇਲ
+modifyMail: ਮੇਲ ਸੋਧੋ
+used: ਪਹਿਲਾਂ ਹੀ ਕਿਸੇ ਹੋਰ ਖਾਤੇ ਦੁਆਰਾ ਵਰਤਿਆ ਗਿਆ ਹੈ
+captchaClick: ਕਲਿੱਕ ਕਰੋ <br 0> ਹੇਠ ਚਿੱਤਰ ਵਿੱਚ

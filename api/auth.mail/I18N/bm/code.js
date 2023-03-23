@@ -1,0 +1,1 @@
+export default "[${host}] .${action}sɛgɛsɛgɛli kode:${code}\n\n[${host}](https://www.${host}) .${action}sɛgɛsɛgɛli kode:${code}.\n\nNi aw ma ɲinini kɛ [${host}](https://www.${host}) .${action}, aw ka aw janto nin cikan in na.\n\nNi aw ma ɲinini kɛ [${host}](https://www.${host}) .${action}, aw ka aw janto nin cikan in na.\n"

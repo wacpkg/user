@@ -1,0 +1,1 @@
+export default "[${host}]${action}যাচাইকরণ কোড:${code}\n\n[${host}](https://${host})${action}যাচাইকরণ কোড:${code}.\n\nআপনি যদি আবেদন না করে থাকেন তাহলে [${host}](https://${host})${action}, এই বার্তা উপেক্ষা করুন.\n\nআপনি যদি আবেদন না করে থাকেন তাহলে [${host}](https://${host})${action}, এই বার্তা উপেক্ষা করুন.\n"

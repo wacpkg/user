@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@w5/captcha-img": "^0.0.3"
+  },
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  }
+}

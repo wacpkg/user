@@ -1,0 +1,47 @@
+accountExist: Akaun itu sudah wujud,
+accountInvalid: Sila masukkan nama akaun yang sah
+accountMailHostBan: Mel domain ini dilarang untuk mendaftar
+accountTooLong: Akaun terlalu panjang
+agree: Setuju
+captchaImage: Imej Captcha
+checkSpam: Jangan lupa semak peti mel spam
+clickSignIn: Klik di sini untuk Log Masuk
+errCode: Kod pengesahan adalah ralat atau tamat tempoh
+enterCode: Masukkan kod pengesahan yang anda terima
+loading: Memuatkan
+mail: Mel
+needUserAgreement: Sila Setuju Perjanjian
+notRecv: Tidak diterima ?
+or: atau
+password: Kata laluan
+phone: telefon
+refresh: Segarkan semula
+resend: Klik di sini untuk menghantar semula
+resetPassword: Menetapkan semula kata laluan
+setPassword: Tetapkan kata laluan
+signIn: Log Masuk
+signUp: Daftar
+userAgreement: Perjanjian Pengguna
+verificationCode: Kod pengesahan
+wait: Sila tunggu
+verificationMailResended: Mel Pengesahan Dihantar Semula
+createAccount: Buat akaun baru
+name: Nama
+logout: Log keluar
+errAccountOrPassword: Akaun atau Kata Laluan Salah
+setDone: Tetapkan Berjaya
+confirm: sahkan
+config: Konfigurasi
+switchUser: Ubah Pengguna
+addAccount: Tambah akaun
+exited: Log keluar
+remove: Alih keluar
+exitAll: Log Keluar Semua Akaun
+rmAll: Alih Keluar Semua Akaun
+enter: Masuk
+invalid: Tidak sah
+oldMail: Mel Asal
+newMail: Mel Baharu
+modifyMail: Ubah suai Mel
+used: Sudah Digunakan Oleh Akaun Lain
+captchaClick: klik <br 0> dalam gambar di bawah

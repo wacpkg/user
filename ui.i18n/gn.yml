@@ -1,0 +1,47 @@
+accountExist: Pe cuenta oĩma, .
+accountInvalid: Emoinge peteĩ cuenta réra añetegua
+accountMailHostBan: Ko dominio kuatiarogue oñembotove oñemboguapy hag̃ua
+accountTooLong: Cuenta ipukueterei
+agree: Ñemoneĩ
+captchaImage: Captcha Ta'anga
+checkSpam: Ani nderesarái ehecha pe kuatiañe’ẽ spam
+clickSignIn: Emboguejy ko’ápe Eike hag̃ua
+errCode: Pe código verificación rehegua ojejavy térã oñemohu’ã
+enterCode: Emoinge pe código verificación rehegua rehupytyva’ekue
+loading: Ojekarga hína
+mail: Correo rehegua
+needUserAgreement: Por favor, Añemoĩ peteĩ ñe’ẽme Acuerdo
+notRecv: Ndojehupytýi ?
+or: térã
+password: Taiñomi
+phone: Pumbyry
+refresh: Embopyahu
+resend: Emboguejy ko’ápe remondo jey hag̃ua
+resetPassword: Reset Ñe’ẽñemi
+setPassword: Emohenda Ñe’ẽñemi
+signIn: Eike
+signUp: Ejeregistra
+userAgreement: Ñe’ẽme’ẽ Pojoapy rehegua
+verificationCode: Código de Verificación rehegua
+wait: Por favor, Eha'arõ
+verificationMailResended: Correo Verificación rehegua Oñemondóva jey
+createAccount: Ojapo cuenta pyahu
+name: Téra
+logout: Osẽvo
+errAccountOrPassword: Cuenta térã Contraseña hendape’ỹva
+setDone: Oñemohenda porã
+confirm: Moneĩ
+config: Config
+switchUser: Ombohasa Pojoapy
+addAccount: Ombojoapy Cuenta
+exited: Osẽ osẽvo
+remove: Pe'a
+exitAll: Osẽ Opaite Cuenta-gui
+rmAll: Ojepe’a Opaite Kuatiahaipyre
+enter: Jeike
+invalid: Moneĩ'ỹ
+oldMail: Correo Original rehegua
+newMail: Correo Pyahu
+modifyMail: Omoambue Correo
+used: Oipurúmava Ambue Cuenta rupive
+captchaClick: Emboguejy <br 0> ta’anga iguýpe oĩvape

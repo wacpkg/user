@@ -1,0 +1,1 @@
+export default "[${host}]${action}nambala yotsimikizira:${code}\n\n[${host}](https://${host})${action}nambala yotsimikizira:${code}.\n\nNgati simunalembetse [${host}](https://${host})${action}, chonde nyalanyazani uthengawu.\n\nNgati simunalembetse [${host}](https://${host})${action}, chonde nyalanyazani uthengawu.\n"

@@ -1,0 +1,47 @@
+accountExist: অ্যাকাউন্টটি ইতিমধ্যেই বিদ্যমান,
+accountInvalid: একটি বৈধ অ্যাকাউন্ট নাম লিখুন
+accountMailHostBan: এই ডোমেনের মেল সাইন আপ নিষিদ্ধ
+accountTooLong: অ্যাকাউন্ট খুব দীর্ঘ
+agree: একমত
+captchaImage: ক্যাপচা ইমেজ
+checkSpam: স্প্যাম মেলবক্স চেক করতে ভুলবেন না
+clickSignIn: সাইন ইন করতে এখানে ক্লিক করুন
+errCode: যাচাইকরণ কোডটি ত্রুটি বা মেয়াদ শেষ
+enterCode: আপনি প্রাপ্ত যাচাইকরণ কোড লিখুন
+loading: লোড হচ্ছে
+mail: মেইল
+needUserAgreement: অনুগ্রহ করে চুক্তিতে সম্মত হন
+notRecv: প্রাপ্ত না ?
+or: বা
+password: পাসওয়ার্ড
+phone: ফোন
+refresh: রিফ্রেশ
+resend: পুনরায় পাঠাতে এখানে ক্লিক করুন
+resetPassword: পাসওয়ার্ড রিসেট করুন
+setPassword: পাসওয়ার্ড সেট করুন
+signIn: সাইন ইন করুন
+signUp: নিবন্ধন করুন
+userAgreement: ব্যবহারকারী চুক্তি
+verificationCode: যাচাইকরণ কোড
+wait: অনুগ্রহপূর্বক অপেক্ষা করুন
+verificationMailResended: যাচাইকরণ মেল পুনরায় পাঠানো হয়েছে
+createAccount: নতুন অ্যাকাউন্ট তৈরি
+name: নাম
+logout: প্রস্থান
+errAccountOrPassword: ভুল অ্যাকাউন্ট বা পাসওয়ার্ড
+setDone: সফলভাবে সেট করুন
+confirm: নিশ্চিত করুন
+config: কনফিগার
+switchUser: ব্যবহারকারী বদল করুন
+addAccount: হিসাব যোগ করা
+exited: প্রস্থান
+remove: অপসারণ
+exitAll: সমস্ত অ্যাকাউন্ট লগআউট করুন
+rmAll: সমস্ত অ্যাকাউন্ট সরান
+enter: প্রবেশ করুন
+invalid: অবৈধ
+oldMail: আসল মেইল
+newMail: নতুন মেইল
+modifyMail: মেল পরিবর্তন করুন
+used: ইতিমধ্যে অন্য অ্যাকাউন্ট দ্বারা ব্যবহৃত
+captchaClick: ক্লিক <br 0> নীচের ছবিতে

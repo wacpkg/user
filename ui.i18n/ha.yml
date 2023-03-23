@@ -1,0 +1,47 @@
+accountExist: An riga an sami asusun,
+accountInvalid: Da fatan za a shigar da ingantaccen sunan asusun
+accountMailHostBan: An dakatar da saƙon wannan yanki don yin rajista
+accountTooLong: Asusu yayi tsayi sosai
+agree: Yarda
+captchaImage: Hoton Captcha
+checkSpam: Kar a manta duba akwatin wasikun banza
+clickSignIn: Danna nan don Shiga
+errCode: Lambar tabbatarwa kuskure ne ko ƙarewa
+enterCode: Shigar da lambar tabbatarwa da kuka karɓa
+loading: Ana lodawa
+mail: Wasika
+needUserAgreement: Da fatan za a Amince da Yarjejeniyar
+notRecv: Ba a karba ba?
+or: ko
+password: Kalmar wucewa
+phone: Waya
+refresh: Sake sabuntawa
+resend: Danna nan don sake aikawa
+resetPassword: Sake saita kalmar wucewa
+setPassword: Saita Kalmar wucewa
+signIn: Shiga
+signUp: Shiga
+userAgreement: Yarjejeniyar mai amfani
+verificationCode: Lambar tabbaci
+wait: Don Allah jira
+verificationMailResended: An sake aika saƙon Tabbatarwa
+createAccount: Ƙirƙiri sabon asusu
+name: Suna
+logout: Fita
+errAccountOrPassword: Ba daidai ba Account ko Password
+setDone: Saita Cikin Nasara
+confirm: Tabbatar
+config: Saita
+switchUser: Canja Mai Amfani
+addAccount: Ƙara Account
+exited: An fita
+remove: Cire
+exitAll: Fita Duk Asusu
+rmAll: Cire Duk Asusu
+enter: Shiga
+invalid: Ba daidai ba
+oldMail: Asalin saƙo
+newMail: Sabon Wasiku
+modifyMail: Gyara Wasiku
+used: Riga Anyi Amfani Da Wani Asusu
+captchaClick: Danna <br 0> a hoton da ke ƙasa

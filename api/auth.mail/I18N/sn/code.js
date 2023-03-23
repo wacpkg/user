@@ -1,0 +1,1 @@
+export default "[${host}]${action}verification code:${code}\n\n[${host}](https://${host})${action}verification code:${code}.\n\nKana usina kunyorera [${host}](https://${host})${action}, ndapota usateerere iyi meseji.\n\nKana usina kunyorera [${host}](https://${host})${action}, ndapota usateerere iyi meseji.\n"

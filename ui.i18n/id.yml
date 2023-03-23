@@ -1,0 +1,47 @@
+accountExist: Akun sudah ada,
+accountInvalid: Masukkan nama akun yang valid
+accountMailHostBan: Email domain ini dilarang untuk mendaftar
+accountTooLong: Akun terlalu lama
+agree: Setuju
+captchaImage: Gambar Captcha
+checkSpam: Jangan lupa periksa kotak surat spam
+clickSignIn: Klik di sini untuk Masuk
+errCode: Kode verifikasi salah atau kedaluwarsa
+enterCode: Masukkan kode verifikasi yang Anda terima
+loading: Memuat
+mail: Surat
+needUserAgreement: Harap Setuju Perjanjian
+notRecv: Tidak diterima ?
+or: atau
+password: Kata sandi
+phone: Telepon
+refresh: Menyegarkan
+resend: Klik di sini untuk mengirim ulang
+resetPassword: Atur Ulang Kata Sandi
+setPassword: Tetapkan Kata Sandi
+signIn: Masuk
+signUp: Mendaftar
+userAgreement: Perjanjian Pengguna
+verificationCode: Kode verifikasi
+wait: Harap tunggu
+verificationMailResended: Surat Verifikasi Dikirim Ulang
+createAccount: Buat akun baru
+name: Nama
+logout: Keluar
+errAccountOrPassword: Akun atau Kata Sandi salah
+setDone: Tetapkan Berhasil
+confirm: Mengonfirmasi
+config: Konfigurasi
+switchUser: Beralih Pengguna
+addAccount: Menambahkan akun
+exited: Keluar
+remove: Menghapus
+exitAll: Logout Semua Akun
+rmAll: Hapus Semua Akun
+enter: Memasuki
+invalid: Tidak sah
+oldMail: Surat Asli
+newMail: Surat Baru
+modifyMail: Ubah Surat
+used: Sudah Dipakai Oleh Akun Lain
+captchaClick: Klik <br 0> di bawah gambar

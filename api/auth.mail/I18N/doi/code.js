@@ -1,0 +1,1 @@
+export default "[${host}]${action}सत्यापन कोड:${code}\n\n[${host}](https://${host})${action}सत्यापन कोड:${code}.\n\nजेकर तुसें [${host}](https://${host})${action}, कृपया इस संदेश गी नजरअंदाज करो।\n\nजेकर तुसें [${host}](https://${host})${action}, कृपया इस संदेश गी नजरअंदाज करो।\n"

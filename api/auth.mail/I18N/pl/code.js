@@ -1,0 +1,1 @@
+export default "[${host}]${action}kod weryfikacyjny:${code}\n\n[${host}](https://${host})${action}kod weryfikacyjny:${code}.\n\nJeśli nie złożyłeś wniosku o [${host}](https://${host})${action}, proszę zignorować tę wiadomość.\n\nJeśli nie złożyłeś wniosku o [${host}](https://${host})${action}, proszę zignorować tę wiadomość.\n"

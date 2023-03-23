@@ -1,0 +1,1 @@
+export default "[${host}]${action}Sëcherheetscode:${code}\n\n[${host}](https://${host})${action}Sëcherheetscode:${code}.\n\nWann Dir net fir [${host}](https://${host})${action}, weg ignoréieren dëse Message.\n\nWann Dir net fir [${host}](https://${host})${action}, weg ignoréieren dëse Message.\n"

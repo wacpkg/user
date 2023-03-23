@@ -1,0 +1,47 @@
+accountExist: Tha an cunntas mu thràth,
+accountInvalid: Cuir a-steach ainm cunntais dligheach
+accountMailHostBan: Chuir post na h-àrainn seo casg air clàradh
+accountTooLong: Cunntas ro fhada
+agree: Aontaich
+captchaImage: Dealbh Captcha
+checkSpam: Na dìochuimhnich thoir sùil air a’ bhogsa puist spama
+clickSignIn: Cliog an seo gus Log a-steach
+errCode: Tha an còd dearbhaidh mearachd no air tighinn gu crìch
+enterCode: Cuir a-steach an còd dearbhaidh a fhuair thu
+loading: A' luchdachadh
+mail: Post
+needUserAgreement: Feuch an aontaich sibh ris an Aonta
+notRecv: Cha d’ fhuaireadh?
+or: neo
+password: Facal-faire
+phone: Fòn
+refresh: Ùraich
+resend: Cliog an seo gus ath-sheòladh
+resetPassword: Ath-shuidhich am facal-faire
+setPassword: Suidhich Facal-faire
+signIn: Soidhnig a-steach
+signUp: Cuir d’ainm ris
+userAgreement: Cùmhnant cleachdaiche
+verificationCode: Còd dearbhaidh
+wait: Fuirich mionaid
+verificationMailResended: Post dearbhaidh air ath-chur
+createAccount: Cruthaich cunntas ùr
+name: Ainm
+logout: Log a-mach
+errAccountOrPassword: Cunntas neo facal-faire mì-cheart
+setDone: Suidhich gu soirbheachail
+confirm: Dearbhaich
+config: Config
+switchUser: Atharraich cleachdaiche
+addAccount: Cuir Cunntas ris
+exited: Log a-mach
+remove: Thoir air falbh
+exitAll: Log a-mach a h-uile cunntas
+rmAll: Thoir air falbh a h-uile cunntas
+enter: Cuir a-steach
+invalid: Neo-dhligheach
+oldMail: Post tùsail
+newMail: Post Ùr
+modifyMail: Atharraich Post
+used: Air a chleachdadh mu thràth le cunntas eile
+captchaClick: Cliog <br 0> san dealbh gu h-ìosal

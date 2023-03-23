@@ -1,0 +1,47 @@
+accountExist: حساب لا دمخه شتون لري،
+accountInvalid: مهرباني وکړئ یو معتبر حساب نوم ولیکئ
+accountMailHostBan: د دې ډومین بریښنالیک د لاسلیک کولو لپاره منع شوی
+accountTooLong: حساب ډیر اوږد دی
+agree: موافقه وکړه
+captchaImage: کیپچا انځور
+checkSpam: د سپیم میل باکس چیک کول مه هیروئ
+clickSignIn: د ننوتلو لپاره دلته کلیک وکړئ
+errCode: د تایید کوډ تېروتنه یا ختمه شوې ده
+enterCode: د تایید کوډ دننه کړئ چې تاسو ترلاسه کړی
+loading: بار کول
+mail: میل
+needUserAgreement: مهرباني وکړئ موافقه وکړئ
+notRecv: نه دي رارسیدلي ؟
+or: یا
+password: رمز
+phone: تلیفون
+refresh: تازه کړئ
+resend: د بیا لیږلو لپاره دلته کلیک وکړئ
+resetPassword: پټنوم بیا تنظیم کړئ
+setPassword: پاسورډ تنظیم کړئ
+signIn: ننوزئ
+signUp: ګډون کول
+userAgreement: د کارن تړون
+verificationCode: د تایید کوډ
+wait: هیله کوم لږ صبر وکړه
+verificationMailResended: د تایید میل بیا لیږل شوی
+createAccount: نوی حساب جوړ کړه
+name: نوم
+logout: وتل
+errAccountOrPassword: غلط حساب یا پټنوم
+setDone: په بریالیتوب سره تنظیم کړئ
+confirm: تایید کړه
+config: ترتیب
+switchUser: د کارونکي بدلول
+addAccount: حساب اضافه کړئ
+exited: ننوتل
+remove: لرې کړئ
+exitAll: ټول حسابونه ننوتل
+rmAll: ټول حسابونه لرې کړئ
+enter: ننوتل
+invalid: باطل
+oldMail: اصلي میل
+newMail: نوی میل
+modifyMail: میل بدل کړئ
+used: دمخه د بل حساب لخوا کارول شوی
+captchaClick: کلیک وکړئ <br 0> په لاندې انځور کې

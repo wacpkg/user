@@ -1,0 +1,1 @@
+export default "[${host}]${action}cod dilysu:${code}\n\n[${host}]( https://${host})${action}cod dilysu:${code}.\n\nOs nad ydych wedi gwneud cais am [${host}]( https://${host})${action}, anwybyddwch y neges hon.\n\nOs nad ydych wedi gwneud cais am [${host}]( https://${host})${action}, anwybyddwch y neges hon.\n"

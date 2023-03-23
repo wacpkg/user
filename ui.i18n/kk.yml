@@ -1,0 +1,47 @@
+accountExist: Тіркелгі бұрыннан бар,
+accountInvalid: Жарамды тіркелгі атауын енгізіңіз
+accountMailHostBan: Бұл доменнің поштасына тіркелуге тыйым салынған
+accountTooLong: Есептік жазба тым ұзақ
+agree: Келісемін
+captchaImage: Captcha кескіні
+checkSpam: Спам пошта жәшігін тексеруді ұмытпаңыз
+clickSignIn: Кіру үшін осы жерді басыңыз
+errCode: Растау коды қате немесе мерзімі өтіп кеткен
+enterCode: Сіз алған растау кодын енгізіңіз
+loading: Жүктелуде
+mail: Пошта
+needUserAgreement: Келісіңіз
+notRecv: алынған жоқ па?
+or: немесе
+password: Құпия сөз
+phone: Телефон
+refresh: Жаңарту
+resend: Қайта жіберу үшін осы жерді басыңыз
+resetPassword: Құпия сөзді қалпына келтіру
+setPassword: Құпия сөзді орнату
+signIn: Кіру
+signUp: Тіркелу
+userAgreement: Пайдаланушы келісімі
+verificationCode: Тексеру коды
+wait: Өтінемін күте тұрыңыз
+verificationMailResended: Тексеру хаты қайта жіберілді
+createAccount: Жаңа тіркелгі жасау
+name: Аты
+logout: Шығу
+errAccountOrPassword: Қате тіркелгі немесе құпия сөз
+setDone: Сәтті орнатылды
+confirm: Растау
+config: Конфигурация
+switchUser: Қолданушыны ауыстыру
+addAccount: Аккаунт қосу
+exited: Жүйеден шықтыңыз
+remove: Жою
+exitAll: Барлық тіркелгілерден шығу
+rmAll: Барлық тіркелгілерді жою
+enter: Енгізіңіз
+invalid: Жарамсыз
+oldMail: Түпнұсқа пошта
+newMail: Жаңа пошта
+modifyMail: Поштаны өзгерту
+used: Басқа тіркелгімен бұрыннан пайдаланылған
+captchaClick: басыңыз <br 0> төмендегі суретте

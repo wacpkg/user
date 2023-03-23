@@ -1,0 +1,1 @@
+export default "[${host}]${action}kaody fanamarinana:${code}\n\n[${host}](https://${host})${action}kaody fanamarinana:${code}.\n\nRaha tsy nanao fangatahana [${host}](https://${host})${action}, azafady tsidiho ity hafatra ity.\n\nRaha tsy nanao fangatahana [${host}](https://${host})${action}, azafady tsidiho ity hafatra ity.\n"

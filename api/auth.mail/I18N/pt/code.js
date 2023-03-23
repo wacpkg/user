@@ -1,0 +1,1 @@
+export default "[${host}]${action}Código de verificação:${code}\n\n[${host}](https://${host})${action}Código de verificação:${code}.\n\nSe você não se inscreveu para [${host}](https://${host})${action}, ignore esta mensagem.\n\nSe você não se inscreveu para [${host}](https://${host})${action}, ignore esta mensagem.\n"

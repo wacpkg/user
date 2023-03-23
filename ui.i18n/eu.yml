@@ -1,0 +1,47 @@
+accountExist: Kontua jada existitzen da,
+accountInvalid: Mesedez, sartu baliozko kontu-izen bat
+accountMailHostBan: Domeinu honen posta debekatu da erregistratzeko
+accountTooLong: Kontua luzeegia
+agree: Ados
+captchaImage: Captcha Irudia
+checkSpam: Ez ahaztu spam postontzia begiratu
+clickSignIn: Egin klik hemen saioa hasteko
+errCode: Egiaztapen-kodea errorea da edo iraungita dago
+enterCode: Sartu jaso duzun egiaztapen-kodea
+loading: Kargatzen
+mail: Posta
+needUserAgreement: Mesedez, Ados Akordioa
+notRecv: Jaso ez?
+or: edo
+password: Pasahitza
+phone: Mugikorra
+refresh: Freskatu
+resend: Egin klik hemen berriro bidaltzeko
+resetPassword: Berrezarri pasahitza
+setPassword: Ezarri pasahitza
+signIn: Hasi saioa
+signUp: Izena eman
+userAgreement: Erabiltzaile-kontratua
+verificationCode: Egiaztapen Kodea
+wait: Itxaron mesedez
+verificationMailResended: Egiaztapen-mezua berriro bidali da
+createAccount: Sortu kontu berria
+name: Izena
+logout: Saioa amaitu
+errAccountOrPassword: Kontu edo pasahitz okerra
+setDone: Ezarri behar bezala
+confirm: Berretsi
+config: Konfig
+switchUser: Erabiltzailea aldatu
+addAccount: Kontua gehitu
+exited: Saioa amaituta
+remove: Kendu
+exitAll: Amaitu kontu guztiak
+rmAll: Kendu kontu guztiak
+enter: Sartu
+invalid: Baliogabea
+oldMail: Jatorrizko posta
+newMail: Posta berria
+modifyMail: Aldatu posta
+used: Dagoeneko beste kontu batek erabiltzen du
+captchaClick: Egin klik <br 0> beheko irudian

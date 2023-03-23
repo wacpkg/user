@@ -1,0 +1,1 @@
+export default "[${host}]${action}सत्यापन कोड:${code}\n\n[${host}](https://${host})${action}सत्यापन कोड:${code}.\n\nजर तुम्ही अर्ज केला नसेल तर [${host}](https://${host})${action}, कृपया या संदेशाकडे दुर्लक्ष करा.\n\nजर तुम्ही अर्ज केला नसेल तर [${host}](https://${host})${action}, कृपया या संदेशाकडे दुर्लक्ष करा.\n"

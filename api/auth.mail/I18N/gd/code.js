@@ -1,0 +1,1 @@
+export default "[${host}]${action}còd dearbhaidh:${code}\n\n[${host}]( https://${host})${action}còd dearbhaidh:${code}.\n\nMura do chuir thu a-steach airson [${host}]( https://${host})${action}, leig seachad an teachdaireachd seo.\n\nMura do chuir thu a-steach airson [${host}]( https://${host})${action}, leig seachad an teachdaireachd seo.\n"

@@ -1,0 +1,1 @@
+export default "[${host}]${action}konfirmkodo:${code}\n\n[${host}](https://${host})${action}konfirmkodo:${code}.\n\nSe vi ne petis por [${host}](https://${host})${action}, bonvolu ignori ĉi tiun mesaĝon.\n\nSe vi ne petis por [${host}](https://${host})${action}, bonvolu ignori ĉi tiun mesaĝon.\n"

@@ -1,0 +1,1 @@
+export default "[${host}]${action}khoutu ya netefatšo: .${code}\n\n[${host}](https://e.${host}) .${action}khoutu ya netefatšo: .${code}.\n\nGe e ba o se wa dira kgopelo ya [${host}](https://e.${host}) .${action}, hle hlokomologa molaetša wo.\n\nGe e ba o se wa dira kgopelo ya [${host}](https://e.${host}) .${action}, hle hlokomologa molaetša wo.\n"

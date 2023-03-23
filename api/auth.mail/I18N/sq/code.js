@@ -1,0 +1,1 @@
+export default "[${host}]${action}Kodi i Verifikimit:${code}\n\n[${host}](https://${host})${action}Kodi i Verifikimit:${code}.\n\nNëse nuk keni aplikuar për [${host}](https://${host})${action}, ju lutemi injoroni këtë mesazh.\n\nNëse nuk keni aplikuar për [${host}](https://${host})${action}, ju lutemi injoroni këtë mesazh.\n"

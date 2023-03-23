@@ -1,0 +1,47 @@
+accountExist: Konti yamaze kubaho,
+accountInvalid: Nyamuneka andika izina rya konti yemewe
+accountMailHostBan: Ibaruwa ya domeni yabujijwe kwiyandikisha
+accountTooLong: Konti ndende cyane
+agree: Emera
+captchaImage: Captcha
+checkSpam: Ntiwibagirwe kugenzura agasanduku k'iposita
+clickSignIn: Kanda hano kugirango winjire
+errCode: Kode yo kugenzura ni amakosa cyangwa yararangiye
+enterCode: Injira kode yo kugenzura wakiriye
+loading: Kuremera
+mail: Ibaruwa
+needUserAgreement: Nyamuneka Emera Amasezerano
+notRecv: Ntabwo yakiriwe?
+or: cyangwa
+password: Ijambobanga
+phone: Terefone
+refresh: Ongera
+resend: Kanda hano kugirango wohereze
+resetPassword: Ongera usubize ijambo ryibanga
+setPassword: Shiraho ijambo ryibanga
+signIn: Injira
+signUp: Umukono
+userAgreement: Amasezerano y'abakoresha
+verificationCode: Kode yo kugenzura
+wait: Nyamuneka Tegereza
+verificationMailResended: Ibaruwa yo kugenzura yagaruwe
+createAccount: Kora konti nshya
+name: Izina
+logout: Gusohoka
+errAccountOrPassword: Konti itariyo cyangwa ijambo ryibanga
+setDone: Shiraho neza
+confirm: Emeza
+config: Hindura
+switchUser: Hindura Umukoresha
+addAccount: Ongera Konti
+exited: Yinjiye hanze
+remove: Kuraho
+exitAll: Logout Konti zose
+rmAll: Kuraho Konti zose
+enter: Injira
+invalid: Ntibyemewe
+oldMail: Ibaruwa y'umwimerere
+newMail: Ibaruwa nshya
+modifyMail: Hindura Ibaruwa
+used: Byakoreshejwe Nindi Konti
+captchaClick: Kanda <br 0> munsi yishusho

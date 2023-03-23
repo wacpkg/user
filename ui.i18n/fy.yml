@@ -1,0 +1,47 @@
+accountExist: It akkount bestiet al,
+accountInvalid: Fier in jildige akkountnamme yn
+accountMailHostBan: De e-post fan dit domein is ferbean om oan te melden
+accountTooLong: Account te lang
+agree: Oerienkomme
+captchaImage: Captcha ôfbylding
+checkSpam: Ferjit net kontrolearje de spam-postfak
+clickSignIn: Klik hjir om oan te melden
+errCode: De ferifikaasjekoade is flater of ferrûn
+enterCode: Fier de ferifikaasjekoade yn dy't jo ûntfongen hawwe
+loading: Loading
+mail: Post
+needUserAgreement: Please akkoard oerienkomst
+notRecv: Net krigen ?
+or: of
+password: Wachtwurd
+phone: Tillefoan
+refresh: Opfrisse
+resend: Klik hjir om opnij te ferstjoeren
+resetPassword: Wachtwurd feroarje
+setPassword: Wachtwurd ynstelle
+signIn: Ynlogge
+signUp: Ynskriuwe
+userAgreement: Brûkersoerienkomst
+verificationCode: Ferifikaasje Code
+wait: Wachtsje even asjebleaft
+verificationMailResended: Ferifikaasjepost opnij ferstjoerd
+createAccount: Nij akkount oanmeitsje
+name: Namme
+logout: Útlogge
+errAccountOrPassword: Ferkearde akkount of wachtwurd
+setDone: Set súksesfol
+confirm: Befêstigje
+config: Config
+switchUser: Wikselje Brûker
+addAccount: Account tafoegje
+exited: Útlogd
+remove: Weinimme
+exitAll: Alle akkounts ôfmelde
+rmAll: Alle akkounts fuortsmite
+enter: Yngean
+invalid: Unjildich
+oldMail: Original Mail
+newMail: Nije Mail
+modifyMail: Mail feroarje
+used: Al brûkt troch in oar akkount
+captchaClick: Klikje <br 0> yn ûndersteande ôfbylding

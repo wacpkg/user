@@ -1,0 +1,1 @@
+export default "[${host}]${action}tasdiq kodi:${code}\n\n[${host}](https://${host})${action}tasdiq kodi:${code}.\n\nAgar siz [ uchun ariza bermagan bo'lsangiz${host}](https://${host})${action}, iltimos, ushbu xabarga e'tibor bermang.\n\nAgar siz [ uchun ariza bermagan bo'lsangiz${host}](https://${host})${action}, iltimos, ushbu xabarga e'tibor bermang.\n"

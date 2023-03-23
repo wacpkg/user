@@ -1,0 +1,47 @@
+accountExist: Hesab jixwe heye,
+accountInvalid: Ji kerema xwe navek hesabek derbasdar binivîse
+accountMailHostBan: Nameya vê domainê ji bo qeydkirinê qedexe ye
+accountTooLong: Hesab pir dirêj e
+agree: Qebûlkirin
+captchaImage: Wêne Captcha
+checkSpam: Ji bîr nekin qutiya posta spam kontrol bikin
+clickSignIn: Ji bo Têkeve li vir bikirtînin
+errCode: Koda verastkirinê xelet e an qediya ye
+enterCode: Koda verastkirinê ya ku we standiye binivîse
+loading: Barkirin
+mail: Poste
+needUserAgreement: Ji kerema xwe Peymana Bipejirînin
+notRecv: Ne wergirtin?
+or: an
+password: Şîfre
+phone: Telefon
+refresh: Hênikkirin
+resend: Li vir bikirtînin ku ji nû ve bişînin
+resetPassword: Şîfreyê Vegerîne
+setPassword: Şîfreyê Set
+signIn: Têketin
+signUp: Tomar kirin
+userAgreement: Peymana Bikarhêner
+verificationCode: Koda verastkirinê
+wait: Ji kerema xwe Bisekine
+verificationMailResended: Nameya verastkirinê ji nû ve hat şandin
+createAccount: Hesabê nû çêbikin
+name: Nav
+logout: Derkeve
+errAccountOrPassword: Hesab an şîfreya çewt
+setDone: Set Serkeftin
+confirm: Tesdîqkirin
+config: Config
+switchUser: Bikarhêner Biguherîne
+addAccount: Hesab lê zêde bike
+exited: Têkeve derve
+remove: Dûrxistin
+exitAll: Ji Hemî Hesaban derkevin
+rmAll: Hemî Hesaban Rakin
+enter: Derbasbûn
+invalid: Seqet
+oldMail: Mail Orjînal
+newMail: Nameya Nû
+modifyMail: Mail biguherînin
+used: Jixwe Ji hêla Hesabek Din ve hatî bikar anîn
+captchaClick: Bikirtînin <br 0> di wêneya jêrîn de

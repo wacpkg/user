@@ -1,0 +1,1 @@
+export default "[${host}]${action}pov thawj code:${code}\n\n[${host}](https://${host})${action}pov thawj code:${code}.\n\nYog tias koj tsis tau thov rau [${host}](https://${host})${action}, thov tsis quav ntsej cov lus no.\n\nYog tias koj tsis tau thov rau [${host}](https://${host})${action}, thov tsis quav ntsej cov lus no.\n"

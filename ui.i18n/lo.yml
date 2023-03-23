@@ -1,0 +1,47 @@
+accountExist: ບັນ​ຊີ​ແມ່ນ​ມີ​ຢູ່​ແລ້ວ​,
+accountInvalid: ກະລຸນາໃສ່ຊື່ບັນຊີທີ່ຖືກຕ້ອງ
+accountMailHostBan: ອີເມວຂອງໂດເມນນີ້ຖືກຫ້າມບໍ່ໃຫ້ລົງທະບຽນ
+accountTooLong: ບັນຊີຍາວເກີນໄປ
+agree: ເຫັນດີ
+captchaImage: ຮູບພາບ Captcha
+checkSpam: ຢ່າລືມກວດເບິ່ງກ່ອງອີເມວຂີ້ເຫຍື້ອ
+clickSignIn: ຄລິກທີ່ນີ້ເພື່ອເຂົ້າສູ່ລະບົບ
+errCode: ລະຫັດຢືນຢັນແມ່ນຜິດພາດ ຫຼືໝົດອາຍຸ
+enterCode: ໃສ່ລະຫັດຢືນຢັນທີ່ທ່ານໄດ້ຮັບ
+loading: ກຳລັງໂຫຼດ
+mail: ຈົດໝາຍ
+needUserAgreement: ກະລຸນາຕົກລົງເຫັນດີ
+notRecv: ບໍ່​ໄດ້​ຮັບ​?
+or: ຫຼື
+password: ລະຫັດຜ່ານ
+phone: ໂທລະສັບ
+refresh: ໂຫຼດຂໍ້ມູນຄືນໃໝ່
+resend: ຄລິກທີ່ນີ້ເພື່ອສົ່ງຄືນ
+resetPassword: ຣີເຊັດລະຫັດຜ່ານ
+setPassword: ຕັ້ງລະຫັດຜ່ານ
+signIn: ເຂົ້າ​ສູ່​ລະ​ບົບ
+signUp: ລົງ​ທະ​ບຽນ
+userAgreement: ຂໍ້ຕົກລົງຜູ້ໃຊ້
+verificationCode: ລະຫັດຢືນຢັນ
+wait: ກະ​ລຸ​ນາ​ລໍ​ຖ້າ
+verificationMailResended: ສົ່ງອີເມວຢືນຢັນຄືນແລ້ວ
+createAccount: ສ້າງບັນຊີໃຫມ່
+name: ຊື່
+logout: ອອກ​ຈາກ​ລະ​ບົບ
+errAccountOrPassword: ບັນຊີ ຫຼືລະຫັດຜ່ານບໍ່ຖືກຕ້ອງ
+setDone: ຕັ້ງສຳເລັດແລ້ວ
+confirm: ຢືນຢັນ
+config: ກຳນົດຄ່າ
+switchUser: ສະຫຼັບຜູ້ໃຊ້
+addAccount: ເພີ່ມ​ບັນ​ຊີ
+exited: ອອກຈາກລະບົບແລ້ວ
+remove: ເອົາອອກ
+exitAll: ອອກຈາກບັນຊີທັງຫມົດ
+rmAll: ລຶບບັນຊີທັງໝົດອອກ
+enter: ເຂົ້າ
+invalid: ບໍ່ຖືກຕ້ອງ
+oldMail: ຈົດໝາຍຕົ້ນສະບັບ
+newMail: ຈົດໝາຍໃໝ່
+modifyMail: ແກ້ໄຂຈົດໝາຍ
+used: ໃຊ້ແລ້ວໂດຍບັນຊີອື່ນ
+captchaClick: ກົດ<br 0> ໃນຮູບຂ້າງລຸ່ມນີ້

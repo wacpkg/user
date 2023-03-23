@@ -1,0 +1,47 @@
+accountExist: ఖాతా ఇప్పటికే ఉంది,
+accountInvalid: దయచేసి చెల్లుబాటు అయ్యే ఖాతా పేరును నమోదు చేయండి
+accountMailHostBan: ఈ డొమైన్ యొక్క మెయిల్ సైన్అప్ చేయడానికి నిషేధించబడింది
+accountTooLong: ఖాతా చాలా పొడవుగా ఉంది
+agree: అంగీకరిస్తున్నారు
+captchaImage: Captcha చిత్రం
+checkSpam: స్పామ్ మెయిల్‌బాక్స్‌ని తనిఖీ చేయడం మర్చిపోవద్దు
+clickSignIn: సైన్ ఇన్ చేయడానికి ఇక్కడ క్లిక్ చేయండి
+errCode: ధృవీకరణ కోడ్ లోపం లేదా గడువు ముగిసింది
+enterCode: మీరు అందుకున్న ధృవీకరణ కోడ్‌ను నమోదు చేయండి
+loading: లోడ్
+mail: మెయిల్
+needUserAgreement: దయచేసి ఒప్పందాన్ని అంగీకరించండి
+notRecv: అందుకోలేదా?
+or: లేదా
+password: పాస్వర్డ్
+phone: ఫోన్
+refresh: రిఫ్రెష్ చేయండి
+resend: మళ్లీ పంపడానికి ఇక్కడ క్లిక్ చేయండి
+resetPassword: రహస్యపదాన్ని మార్చుకోండి
+setPassword: పాస్‌వర్డ్‌ని సెట్ చేయండి
+signIn: సైన్ ఇన్ చేయండి
+signUp: చేరడం
+userAgreement: వాడుకరి ఒప్పందం
+verificationCode: ధృవీకరణ కోడ్
+wait: దయచేసి వేచి ఉండండి
+verificationMailResended: ధృవీకరణ మెయిల్ మళ్లీ పంపబడింది
+createAccount: క్రొత్త ఖాతా తెరువుము
+name: పేరు
+logout: లాగ్అవుట్
+errAccountOrPassword: తప్పు ఖాతా లేదా పాస్‌వర్డ్
+setDone: విజయవంతంగా సెట్ చేయబడింది
+confirm: నిర్ధారించండి
+config: కాన్ఫిగర్
+switchUser: వినియోగదారుని మార్చు
+addAccount: ఖాతా జోడించండి
+exited: లాగ్ అవుట్ చేయబడింది
+remove: తొలగించు
+exitAll: అన్ని ఖాతాలను లాగ్ అవుట్ చేయండి
+rmAll: అన్ని ఖాతాలను తీసివేయండి
+enter: నమోదు చేయండి
+invalid: చెల్లదు
+oldMail: అసలు మెయిల్
+newMail: కొత్త మెయిల్
+modifyMail: మెయిల్‌ని సవరించండి
+used: ఇప్పటికే మరొక ఖాతా ద్వారా ఉపయోగించబడింది
+captchaClick: క్లిక్ చేయండి <br 0> దిగువ చిత్రంలో

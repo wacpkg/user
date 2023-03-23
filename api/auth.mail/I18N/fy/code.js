@@ -1,0 +1,1 @@
+export default "[${host}]${action}ferifikaasjekoade:${code}\n\n[${host}](https://${host})${action}ferifikaasjekoade:${code}.\n\nAs jo ​​​​net oanfrege hawwe foar [${host}](https://${host})${action}, negearje dit berjocht asjebleaft.\n\nAs jo ​​​​net oanfrege hawwe foar [${host}](https://${host})${action}, negearje dit berjocht asjebleaft.\n"

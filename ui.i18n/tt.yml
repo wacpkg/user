@@ -1,0 +1,47 @@
+accountExist: Хисап инде бар,
+accountInvalid: Зинһар, дөрес исем кертегез
+accountMailHostBan: Бу домен почтасына язылу рөхсәт ителмәгән
+accountTooLong: Хисап бик озын
+agree: Килешегез
+captchaImage: Captcha Image
+checkSpam: Спам почта тартмасын тикшерүне онытмагыз
+clickSignIn: Керү өчен монда басыгыз
+errCode: Тикшерү коды хата яки срогы чыккан
+enterCode: Сез алган тикшерү кодын кертегез
+loading: Йөкләү
+mail: Почта
+needUserAgreement: Зинһар, Килешү белән килешегез
+notRecv: Алмадыгызмы?
+or: яки
+password: Серсүз
+phone: Телефон
+refresh: Яңарту
+resend: Тапшыру өчен монда басыгыз
+resetPassword: Серсүзне яңадан урнаштыру
+setPassword: Серсүз куегыз
+signIn: Керегез
+signUp: Теркәлергә
+userAgreement: Кулланучы килешүе
+verificationCode: Тикшерү коды
+wait: Зинһар, көтегез
+verificationMailResended: Тикшерү почтасы җибәрелде
+createAccount: Яңа хисап язмасы төзегез
+name: Исем
+logout: Чыгарга
+errAccountOrPassword: Хисап яки серсүз дөрес түгел
+setDone: Уңышлы куегыз
+confirm: Ышандыр
+config: Конфигурация
+switchUser: Кулланучыны күчү
+addAccount: Хисап өстәү
+exited: Чыгып киттеләр
+remove: Чыгар
+exitAll: Барлык счетлар
+rmAll: Барлык счетларны бетерегез
+enter: Керегез
+invalid: Яраксыз
+oldMail: Оригиналь почта
+newMail: Яңа почта
+modifyMail: Почта үзгәртү
+used: Инде бүтән хисап белән кулланылган
+captchaClick: Басыгыз <br 0> астагы рәсемдә

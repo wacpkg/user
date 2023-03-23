@@ -1,0 +1,47 @@
+accountExist: Акаунтът вече съществува,
+accountInvalid: Моля, въведете валидно име на акаунта
+accountMailHostBan: Пощата на този домейн е забранена за регистрация
+accountTooLong: Акаунтът е твърде дълъг
+agree: Съгласен
+captchaImage: Captcha изображение
+checkSpam: Не забравяйте да проверите пощенската кутия за спам
+clickSignIn: Щракнете тук, за да влезете
+errCode: Кодът за потвърждение е грешка или е изтекъл
+enterCode: Въведете кода за потвърждение, който сте получили
+loading: Зареждане
+mail: поща
+needUserAgreement: Моля, приемете споразумението
+notRecv: Не е получено?
+or: или
+password: Парола
+phone: Телефон
+refresh: Опресняване
+resend: Щракнете тук, за да изпратите отново
+resetPassword: Нулиране на парола
+setPassword: Задайте парола
+signIn: Впиши се
+signUp: Регистрирай се
+userAgreement: споразумение с потребителя
+verificationCode: Код за потвърждение
+wait: Моля Изчакай
+verificationMailResended: Потвърждението е изпратено повторно
+createAccount: Създаване на нов акаунт
+name: Име
+logout: Излез от профила си
+errAccountOrPassword: Неправилен акаунт или парола
+setDone: Зададено успешно
+confirm: Потвърдете
+config: Конфиг
+switchUser: Превключване на потребител
+addAccount: Добавяне на профил
+exited: Излязъл
+remove: Премахване
+exitAll: Изход от всички акаунти
+rmAll: Премахване на всички акаунти
+enter: Въведете
+invalid: Невалиден
+oldMail: Оригинална поща
+newMail: Нова поща
+modifyMail: Промяна на пощата
+used: Вече се използва от друг акаунт
+captchaClick: Кликнете <br 0> в изображението по-долу

@@ -1,0 +1,1 @@
+export default "[${host}]${action}Kode verifikasi:${code}\n\n[${host}](https://${host})${action}Kode verifikasi:${code}.\n\nJika Anda belum melamar [${host}](https://${host})${action}, harap abaikan pesan ini.\n\nJika Anda belum melamar [${host}](https://${host})${action}, harap abaikan pesan ini.\n"

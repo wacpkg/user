@@ -1,0 +1,1 @@
+export default "[${host}]${action}ވެރިފިކޭޝަން ކޯޑް:${code}\n\n[${host}](https://${host}) .${action}ވެރިފިކޭޝަން ކޯޑް:${code}.\n\nއަށް އެދި ހުށަހަޅާފައި ނުވާނަމަ [${host}](https://${host}) .${action}، މި މެސެޖަށް އަޅާނުލާ.\n\nއަށް އެދި ހުށަހަޅާފައި ނުވާނަމަ [${host}](https://${host}) .${action}، މި މެސެޖަށް އަޅާނުލާ.\n"

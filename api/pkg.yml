@@ -1,0 +1,13 @@
+.:
+  db:
+    schema: u
+  dir: u auth
+  dep:
+    _: .
+
+mail:
+  db:
+    schema: auth_mail
+  dir: captcha auth.mail
+  dep:
+    _: . mail

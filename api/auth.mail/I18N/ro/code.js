@@ -1,0 +1,1 @@
+export default "[${host}]${action}Cod de verificare:${code}\n\n[${host}](https://${host})${action}Cod de verificare:${code}.\n\nDacă nu ați aplicat pentru [${host}](https://${host})${action}, vă rugăm să ignorați acest mesaj.\n\nDacă nu ați aplicat pentru [${host}](https://${host})${action}, vă rugăm să ignorați acest mesaj.\n"

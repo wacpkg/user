@@ -1,0 +1,1 @@
+export default "[${host}]${action}код підтвердження:${code}\n\n[${host}](https://${host})${action}код підтвердження:${code}.\n\nЯкщо ви не подали заявку на [${host}](https://${host})${action}, проігноруйте це повідомлення.\n\nЯкщо ви не подали заявку на [${host}](https://${host})${action}, проігноруйте це повідомлення.\n"

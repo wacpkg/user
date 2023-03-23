@@ -1,0 +1,47 @@
+accountExist: Сметката веќе постои,
+accountInvalid: Внесете важечко име на сметка
+accountMailHostBan: Поштата на овој домен е забранета за регистрација
+accountTooLong: Сметката е предолга
+agree: Се согласувам
+captchaImage: Captcha слика
+checkSpam: Не заборавајте да го проверите поштенското сандаче за спам
+clickSignIn: Кликнете овде за да се најавите
+errCode: Кодот за потврда е грешка или е истечен
+enterCode: Внесете го кодот за потврда што го добивте
+loading: Се вчитува
+mail: Пошта
+needUserAgreement: Ве молиме согласете се Договорот
+notRecv: Не сте добиле ?
+or: или
+password: Лозинка
+phone: Телефон
+refresh: Освежи
+resend: Кликнете овде за повторно да испратите
+resetPassword: Ресетирање на Лозинка
+setPassword: Ставете лозинка
+signIn: Најави се
+signUp: Пријавете се
+userAgreement: Кориснички договор
+verificationCode: Код за верификација
+wait: Ве молам почекајте
+verificationMailResended: Поштата за верификација повторно е испратена
+createAccount: Креирај нова сметка
+name: Име
+logout: Одјавување
+errAccountOrPassword: Неточна сметка или лозинка
+setDone: Поставете Успешно
+confirm: Потврди
+config: Конфигурација
+switchUser: Смени корисник
+addAccount: Додадете сметка
+exited: Одјавени
+remove: Отстрани
+exitAll: Одјавете се од сите сметки
+rmAll: Отстрани ги сите сметки
+enter: Внесете
+invalid: Неважечки
+oldMail: Оригинална пошта
+newMail: Нова пошта
+modifyMail: Изменете ја поштата
+used: Веќе се користи од друга сметка
+captchaClick: Кликнете <br 0> на сликата подолу

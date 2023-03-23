@@ -1,0 +1,47 @@
+accountExist: ଖାତା ପୂର୍ବରୁ ବିଦ୍ୟମାନ ଅଛି,
+accountInvalid: ଦୟାକରି ଏକ ବ valid ଧ ଖାତା ନାମ ପ୍ରବେଶ କରନ୍ତୁ |
+accountMailHostBan: ଏହି ଡୋମେନ୍ ର ମେଲ୍ ସାଇନ୍ ଅପ୍ ପାଇଁ ନିଷେଧ |
+accountTooLong: ଖାତା ବହୁତ ଲମ୍ବା |
+agree: ସହମତ |
+captchaImage: କ୍ୟାପଚା ପ୍ରତିଛବି |
+checkSpam: ସ୍ପାମ୍ ମେଲବାକ୍ସ ଯାଞ୍ଚ କରିବାକୁ ଭୁଲନ୍ତୁ ନାହିଁ |
+clickSignIn: ସାଇନ୍ ଇନ୍ କରିବାକୁ ଏଠାରେ କ୍ଲିକ୍ କରନ୍ତୁ |
+errCode: ଯାଞ୍ଚ କୋଡ୍ ତ୍ରୁଟି କିମ୍ବା ମିଆଦ ପୂର୍ଣ୍ଣ ହୋଇଛି |
+enterCode: ଆପଣ ଗ୍ରହଣ କରିଥିବା ଯାଞ୍ଚ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ |
+loading: ଲୋଡିଂ
+mail: ମେଲ୍ |
+needUserAgreement: ଦୟାକରି ରାଜି ଚୁକ୍ତିନାମା |
+notRecv: ଗ୍ରହଣ କରାଯାଇ ନାହିଁ?
+or: କିମ୍ବା
+password: ପାସୱାର୍ଡ
+phone: ଫୋନ୍ |
+refresh: ସତେଜ କରନ୍ତୁ |
+resend: ପଠାଇବା ପାଇଁ ଏଠାରେ କ୍ଲିକ୍ କରନ୍ତୁ |
+resetPassword: ପାସୱାର୍ଡ ପୁନ Res ସେଟ୍ କରନ୍ତୁ |
+setPassword: ପାସୱାର୍ଡ ସେଟ୍ କରନ୍ତୁ |
+signIn: ଚୁକ୍ତି କରିବା
+signUp: ସାଇନ୍ ଅପ୍ କରନ୍ତୁ
+userAgreement: ବ୍ୟବହାରକାରୀ ଚୁକ୍ତି |
+verificationCode: ପ୍ରମାଣ ସଂକେତ
+wait: ଦୟାକରି ଅପେକ୍ଷା କର
+verificationMailResended: ଯାଞ୍ଚ ମେଲ୍ ପଠାଗଲା |
+createAccount: ନୂତନ ଖାତା ସୃଷ୍ଟି କରନ୍ତୁ |
+name: ନାମ
+logout: ପ୍ରସ୍ଥାନ କର
+errAccountOrPassword: ଭୁଲ ଖାତା କିମ୍ବା ପାସୱାର୍ଡ |
+setDone: ସଫଳତାର ସହିତ ସେଟ୍ କରନ୍ତୁ |
+confirm: ନିଶ୍ଚିତ କରନ୍ତୁ |
+config: ବିନ୍ୟାସ କରନ୍ତୁ
+switchUser: ୟୁଜର୍ ସୁଇଚ୍ କରନ୍ତୁ |
+addAccount: ଖାତା ଯୋଡନ୍ତୁ |
+exited: ଲଗ୍ ଆଉଟ୍ |
+remove: ଅପସାରଣ କରନ୍ତୁ |
+exitAll: ସମସ୍ତ ଆକାଉଣ୍ଟ୍ ଲଗଆଉଟ୍ କରନ୍ତୁ |
+rmAll: ସମସ୍ତ ଖାତା ଅପସାରଣ କରନ୍ତୁ |
+enter: ପ୍ରବେଶ କରନ୍ତୁ |
+invalid: ଅବ val ଧ |
+oldMail: ମୂଳ ମେଲ୍ |
+newMail: ନୂତନ ମେଲ୍ |
+modifyMail: ମେଲ୍ ପରିବର୍ତ୍ତନ କରନ୍ତୁ |
+used: ଅନ୍ୟ ଏକ ଆକାଉଣ୍ଟ୍ ଦ୍ୱାରା ପୂର୍ବରୁ ବ୍ୟବହୃତ |
+captchaClick: କ୍ଲିକ୍ କରନ୍ତୁ | <br 0> ନିମ୍ନରେ ପ୍ରତିଛବିରେ |

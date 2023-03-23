@@ -1,0 +1,47 @@
+accountExist: Paskyra jau egzistuoja,
+accountInvalid: Įveskite tinkamą paskyros pavadinimą
+accountMailHostBan: Šio domeno paštui uždrausta prisiregistruoti
+accountTooLong: Paskyra per ilga
+agree: Sutinku
+captchaImage: Captcha vaizdas
+checkSpam: Nepamirškite patikrinti šiukšlių pašto dėžutės
+clickSignIn: Spustelėkite čia norėdami prisijungti
+errCode: Patvirtinimo kodas yra klaida arba pasibaigęs
+enterCode: Įveskite gautą patvirtinimo kodą
+loading: Įkeliama
+mail: Paštas
+needUserAgreement: Prašome susitarti dėl sutarties
+notRecv: Negavo ?
+or: arba
+password: Slaptažodis
+phone: Telefonas
+refresh: Atnaujinti
+resend: Spustelėkite čia, kad išsiųstumėte dar kartą
+resetPassword: Atstatyti slaptažodį
+setPassword: Nustatyti slaptažodį
+signIn: Prisijungti
+signUp: Registruotis
+userAgreement: vartotojo sutikimas
+verificationCode: Patvirtinimo kodas
+wait: Prašau palauk
+verificationMailResended: Patvirtinimo laiškas išsiųstas dar kartą
+createAccount: Sukurti naują paskyrą
+name: vardas
+logout: Atsijungti
+errAccountOrPassword: Neteisinga paskyra arba slaptažodis
+setDone: Nustatyti sėkmingai
+confirm: Patvirtinti
+config: konfig
+switchUser: Pakeisti vartotoją
+addAccount: Pridėti paskyrą
+exited: Atsijungęs
+remove: Pašalinti
+exitAll: Atsijungti nuo visų paskyrų
+rmAll: Pašalinti visas paskyras
+enter: Įeikite
+invalid: Neteisinga
+oldMail: Originalus paštas
+newMail: Naujas paštas
+modifyMail: Modifikuoti paštą
+used: Jau naudojamas kitoje paskyroje
+captchaClick: Spustelėkite <br 0> žemiau esančiame paveikslėlyje

@@ -1,0 +1,47 @@
+accountExist: Akontaabu no wɔ hɔ dedaw, .
+accountInvalid: Yɛsrɛ wo kyerɛw akontaabu din a ɛfata
+accountMailHostBan: Saa domain yi mail a wɔabara sɛ wɔmfa wɔn din nhyɛ mu
+accountTooLong: Akontaabu no tenten dodo
+agree: Pene
+captchaImage: Captcha Mfonini no
+checkSpam: Mma wo werɛ mmfi sɛ hwɛ spam mailbox no
+clickSignIn: Klik ha na SignIn
+errCode: Verification code no yɛ mfomso anaasɛ ne bere atwam
+enterCode: Hyehyɛ verification code a wo nsa aka no
+loading: Wɔde nneɛma regu mu
+mail: Nkrataa a wɔde mena
+needUserAgreement: Yɛsrɛ sɛ Mpene Apam no so
+notRecv: Wɔnnyee ?
+or: anaasɛ
+password: Paswɛde
+phone: Fon
+refresh: Fa foforo hyɛ mu
+resend: Klik ha na san de mena
+resetPassword: Reset Password no bio
+setPassword: Set Password a Wɔde Di Dwuma
+signIn: SignIn Nhyɛ Mu
+signUp: Kyerɛw wo din
+userAgreement: Mpaemuka a Wɔde Di Dwuma
+verificationCode: Mmara a Wɔde Di Dwuma a Wɔde Di Dwuma
+wait: Mesrɛ Wo Twɛn
+verificationMailResended: Verification Mail a Wɔasan de akɔma
+createAccount: Yɛ akontaabu foforo
+name: Din
+logout: Fi wo ho fi mu
+errAccountOrPassword: Akontaabu anaa Password a ɛnteɛ
+setDone: Set no yiye
+confirm: Si pi
+config: Config
+switchUser: Sesa Ɔdefo
+addAccount: Fa Akontaabu Ka Ho
+exited: Logged out
+remove: Yi
+exitAll: Logout Akontaabu Nyinaa
+rmAll: Yi Akontaabu Nyinaa Fi hɔ
+enter: Wuram
+invalid: Ɛnni mu
+oldMail: Mfitiase Nkrataa
+newMail: Nkrataa Foforo
+modifyMail: Sesa Nkrataa
+used: Akontaabu Foforo De Adi Dwuma Dedaw
+captchaClick: Klik so <br 0> wɔ mfonini a ɛwɔ ase ha no mu

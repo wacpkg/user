@@ -1,0 +1,47 @@
+accountExist: Kontoen eksisterer allerede,
+accountInvalid: Vennligst skriv inn et gyldig kontonavn
+accountMailHostBan: Dette domenets e-post utestengt for registrering
+accountTooLong: Kontoen er for lang
+agree: Bli enige
+captchaImage: Captcha bilde
+checkSpam: Ikke glem å sjekke søppelpostboksen
+clickSignIn: Klikk her for å logge på
+errCode: Bekreftelseskoden er feil eller utløpt
+enterCode: Skriv inn bekreftelseskoden du mottok
+loading: Laster
+mail: Post
+needUserAgreement: Vennligst godta avtale
+notRecv: Ikke mottatt ?
+or: eller
+password: Passord
+phone: Telefon
+refresh: Forfriske
+resend: Klikk her for å sende på nytt
+resetPassword: Tilbakestille passord
+setPassword: Lag et passord
+signIn: Logg inn
+signUp: Melde deg på
+userAgreement: Brukeravtale
+verificationCode: Bekreftelseskode
+wait: Vennligst vent
+verificationMailResended: Bekreftelsespost sendt på nytt
+createAccount: Opprette ny konto
+name: Navn
+logout: Logg ut
+errAccountOrPassword: Feil konto eller passord
+setDone: Angi vellykket
+confirm: Bekrefte
+config: Konfig
+switchUser: Bytt bruker
+addAccount: Legg til konto
+exited: Logget ut
+remove: Fjerne
+exitAll: Logg ut alle kontoer
+rmAll: Fjern alle kontoer
+enter: Tast inn
+invalid: Ugyldig
+oldMail: Opprinnelig post
+newMail: Ny post
+modifyMail: Endre Mail
+used: Allerede brukt av en annen konto
+captchaClick: Klikk <br 0> i bildet under

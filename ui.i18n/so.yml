@@ -1,0 +1,47 @@
+accountExist: Koontadu waa hore u jirtay,
+accountInvalid: Fadlan geli magac akoon oo sax ah
+accountMailHostBan: Farta boggan waa mamnuuc in la is-diiwaangeliyo
+accountTooLong: Account aad u dheer
+agree: Ogow
+captchaImage: Sawirka Captcha
+checkSpam: Ha iloobin calaamadee sanduuqa boostada ee spamka
+clickSignIn: Riix halkan si aad u gasho
+errCode: Koodhka xaqiijintu waa khalad ama dhacay
+enterCode: Geli lambarka xaqiijinta ee aad heshay
+loading: Soodejinaya
+mail: Boostada
+needUserAgreement: Fadlan Ogow Heshiiska
+notRecv: Lama helin?
+or: ama
+password: Furaha
+phone: Taleefanka
+refresh: Dib u cusboonaysii
+resend: Riix halkan si aad dib ugu soo dirto
+resetPassword: Dib u deji erayga sirta ah
+setPassword: Deji erayga sirta ah
+signIn: Soo gal
+signUp: Isdiiwaangeli
+userAgreement: Heshiiska Isticmaalaha
+verificationCode: Koodhka Xaqiijinta
+wait: Fadlan sug
+verificationMailResended: Xaqiijinta Boostada ayaa dib loo soo diray
+createAccount: Abuur xisaab cusub
+name: Magaca
+logout: Ka bax
+errAccountOrPassword: Akoonka ama Password-ka aan saxda ahayn
+setDone: Si guul leh u deji
+confirm: Xaqiiji
+config: Isku xidh
+switchUser: Bedel Isticmaalaha
+addAccount: Kudar Account
+exited: Ka baxay
+remove: Ka saar
+exitAll: Ka bax Dhammaan Xisaabaadka
+rmAll: Ka saar Dhamaan Xisaabaadka
+enter: Geli
+invalid: Aan sax ahayn
+oldMail: Boostada Asalka ah
+newMail: Boostada Cusub
+modifyMail: Wax ka beddel boostada
+used: Horey u Isticmaalay Account Kale
+captchaClick: Guji <br 0> sawirka hoose

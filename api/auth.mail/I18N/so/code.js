@@ -1,0 +1,1 @@
+export default "[${host}]${action}koodka xaqiijinta:${code}\n\n[${host}] (https://${host})${action}koodka xaqiijinta:${code}.\n\nHaddii aadan codsan [${host}] (https://${host})${action}, fadlan iska dhaaf fariintan.\n\nHaddii aadan codsan [${host}] (https://${host})${action}, fadlan iska dhaaf fariintan.\n"

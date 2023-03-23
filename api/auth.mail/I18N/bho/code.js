@@ -1,0 +1,1 @@
+export default "[${host}] .${action}सत्यापन कोड: 1।${code}\n\n[${host}](https://www.${host}) के बा .${action}सत्यापन कोड: 1।${code}.\n\nअगर रउरा आवेदन नइखीं कइले त [${host}](https://www.${host}) के बा .${action}, कृपया एह संदेश के अनदेखी करीं।\n\nअगर रउरा आवेदन नइखीं कइले त [${host}](https://www.${host}) के बा .${action}, कृपया एह संदेश के अनदेखी करीं।\n"

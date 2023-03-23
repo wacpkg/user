@@ -1,0 +1,1 @@
+export default "[${host}]${action}رمز التحقق:${code}\n\n[${host}] (https: //${host})${action}رمز التحقق:${code}.\n\nإذا لم تكن قد تقدمت بطلب للحصول على [${host}] (https: //${host})${action}الرجاء تجاهل هذه الرسالة.\n\nإذا لم تكن قد تقدمت بطلب للحصول على [${host}] (https: //${host})${action}الرجاء تجاهل هذه الرسالة.\n"

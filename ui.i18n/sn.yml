@@ -1,0 +1,47 @@
+accountExist: Iyo account yatovepo,
+accountInvalid: Ndapota isa zita reakaundi rinoshanda
+accountMailHostBan: Tsamba iyi inorambidzwa kusaina
+accountTooLong: Account yakarebesa
+agree: Bvumiranai
+captchaImage: Mufananidzo weCaptcha
+checkSpam: Usakanganwa kutarisa spam mailbox
+clickSignIn: Dzvanya pano kuti SignIn
+errCode: Kodhi yekusimbisa yakanganisa kana kupera nguva
+enterCode: Isa kodhi yekusimbisa yawakagamuchira
+loading: Loading
+mail: Mail
+needUserAgreement: Ndokumbira Bvumiranai Chibvumirano
+notRecv: Hauna kugamuchirwa ?
+or: kana
+password: Pasiwedhi
+phone: Phone
+refresh: Refresh
+resend: Dzvanya pano kuti utumire zvakare
+resetPassword: Reset Password
+setPassword: Seta Password
+signIn: Nyorera mu
+signUp: Nyorera
+userAgreement: User Agreement
+verificationCode: Verification Code
+wait: Please Mira
+verificationMailResended: Verification Mail Yatumirwazve
+createAccount: Gadzira account itsva
+name: Zita
+logout: Kubuda
+errAccountOrPassword: Akaunti isiriyo kana password
+setDone: Seta Unobudirira
+confirm: Confirm
+config: Config
+switchUser: Chinja Mushandisi
+addAccount: Wedzera Account
+exited: Logged out
+remove: Bvisa
+exitAll: Bvisa Maakaundi Ese
+rmAll: Bvisa Maakaundi Ese
+enter: Enter
+invalid: Hazvina basa
+oldMail: Yekutanga Mail
+newMail: Tsamba Itsva
+modifyMail: Shandura Mail
+used: Yatoshandiswa Neimwe Akaundi
+captchaClick: Dzvanya <br 0> mumufananidzo uri pasi apa

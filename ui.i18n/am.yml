@@ -1,0 +1,47 @@
+accountExist: መለያው አስቀድሞ አለ ፣
+accountInvalid: እባክህ የሚሰራ መለያ ስም አስገባ
+accountMailHostBan: የዚህ ጎራ መልዕክት ለመመዝገብ ታግዷል
+accountTooLong: መለያ በጣም ረጅም ነው።
+agree: ተስማማ
+captchaImage: Captcha ምስል
+checkSpam: አይፈለጌ መልእክት ሳጥን ውስጥ ምልክት ማድረግን አይርሱ
+clickSignIn: ለመግባት እዚህ ጠቅ ያድርጉ
+errCode: የማረጋገጫ ኮድ ስህተት ወይም ጊዜው አልፎበታል።
+enterCode: የተቀበልከውን የማረጋገጫ ኮድ አስገባ
+loading: በመጫን ላይ
+mail: ደብዳቤ
+needUserAgreement: እባክዎ ስምምነትን ይስማሙ
+notRecv: አልተቀበለም?
+or: ወይም
+password: የይለፍ ቃል
+phone: ስልክ
+refresh: አድስ
+resend: እንደገና ለመላክ እዚህ ጠቅ ያድርጉ
+resetPassword: የይለፍ ቃል ዳግም አስጀምር
+setPassword: የይለፍ ቃል አዘጋጅ
+signIn: ስግን እን
+signUp: ተመዝገቢ
+userAgreement: የተጠቃሚ ስምምነት
+verificationCode: የማረጋገጫ የሚስጥር ቁጥር
+wait: ቆይ በናተህ
+verificationMailResended: የማረጋገጫ ደብዳቤ እንደገና ተልኳል።
+createAccount: አዲስ መለያ ይፍጠሩ
+name: ስም
+logout: ውጣ
+errAccountOrPassword: የተሳሳተ መለያ ወይም የይለፍ ቃል
+setDone: በተሳካ ሁኔታ ያዘጋጁ
+confirm: አረጋግጥ
+config: አዋቅር
+switchUser: ተጠቃሚ ቀይር
+addAccount: መለያ አክል
+exited: ወጥቷል
+remove: አስወግድ
+exitAll: ሁሉንም መለያዎች ውጣ
+rmAll: ሁሉንም መለያዎች ያስወግዱ
+enter: አስገባ
+invalid: ልክ ያልሆነ
+oldMail: ኦሪጅናል ደብዳቤ
+newMail: አዲስ ደብዳቤ
+modifyMail: ደብዳቤ ቀይር
+used: አስቀድሞ በሌላ መለያ ተጠቅሟል
+captchaClick: ጠቅ ያድርጉ <br 0> ከታች ባለው ምስል

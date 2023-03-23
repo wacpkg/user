@@ -1,0 +1,47 @@
+accountExist: 계정이 이미 존재합니다.
+accountInvalid: 유효한 계정 이름을 입력하세요.
+accountMailHostBan: 이 도메인 이름의 사서함은 등록이 금지되어 있습니다.
+accountTooLong: 너무 긴 계정
+agree: 동의하다
+captchaImage: 인증 코드 이미지
+checkSpam: 스팸함을 확인하는 것을 잊지 마세요
+clickSignIn: 로그인하려면 여기를 클릭하세요.
+errCode: 인증 코드가 잘못되었거나 만료되었습니다.
+enterCode: 받은 인증 코드를 입력하세요.
+loading: 로드 중
+mail: 우편
+needUserAgreement: 이용약관에 동의해주세요
+notRecv: 받지 못했다?
+or: 또는
+password: 비밀번호
+phone: 휴대전화
+refresh: 새로 고침
+resend: 다시 보내려면 여기를 클릭하십시오
+resetPassword: 암호를 재설정
+setPassword: 암호를 설정하세요
+signIn: 로그인
+signUp: 등록하다
+userAgreement: 사용자 계약
+verificationCode: 확인 코드
+wait: 기다리세요
+verificationMailResended: 확인 이메일 재전송
+createAccount: 새 계정을 만들
+name: 이름
+logout: 로그아웃
+errAccountOrPassword: 계정과 비밀번호가 일치하지 않습니다
+setDone: 성공적으로 설정
+confirm: 확인하다
+config: 설정
+switchUser: 사용자 전환
+addAccount: 계정을 추가
+exited: 로그아웃
+remove: 제거하다
+exitAll: 모두 로그아웃
+rmAll: 모든 계정 제거
+enter: 입력하다
+invalid: 유효하지 않은
+oldMail: 원본 이메일
+newMail: 새 우편함
+modifyMail: 이메일 수정
+used: 이미 다른 계정에서 사용 중
+captchaClick: 아래 이미지를 클릭하세요<br 0>

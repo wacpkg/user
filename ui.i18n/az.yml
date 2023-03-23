@@ -1,0 +1,47 @@
+accountExist: Hesab artıq mövcuddur,
+accountInvalid: Etibarlı hesab adı daxil edin
+accountMailHostBan: Bu domenin poçtuna qeydiyyatdan keçmək qadağandır
+accountTooLong: Hesab çox uzun
+agree: Razılaşmaq
+captchaImage: Captcha Şəkil
+checkSpam: Spam poçt qutusunu yoxlamağı unutmayın
+clickSignIn: Daxil olmaq üçün bura klikləyin
+errCode: Doğrulama kodu xətadır və ya vaxtı keçmişdir
+enterCode: Aldığınız doğrulama kodunu daxil edin
+loading: Yüklənir
+mail: Poçt
+needUserAgreement: Zəhmət olmasa Razılaşın
+notRecv: Almayıb ?
+or: və ya
+password: parol
+phone: Telefon
+refresh: təzələmək
+resend: Yenidən göndərmək üçün bura klikləyin
+resetPassword: Parolu sıfırlamak
+setPassword: Parol təyin edin
+signIn: Daxil olun
+signUp: Abunə olun
+userAgreement: İstifadəçi Müqaviləsi
+verificationCode: Yoxlama kodu
+wait: Zəhmət olmasa, gözləyin
+verificationMailResended: Doğrulama məktubu yenidən göndərildi
+createAccount: Yeni hesab yaratmaq
+name: ad
+logout: Çıxış
+errAccountOrPassword: Yanlış Hesab və ya Şifrə
+setDone: Uğurla qurun
+confirm: Təsdiq edin
+config: konfiqurasiya
+switchUser: İstifadəçini dəyiş
+addAccount: Hesab əlavə edin
+exited: Çıxdı
+remove: Sil
+exitAll: Bütün Hesablardan Çıxın
+rmAll: Bütün Hesabları Sil
+enter: Daxil edin
+invalid: Etibarsızdır
+oldMail: Orijinal Poçt
+newMail: Yeni Poçt
+modifyMail: Poçtu dəyişdirin
+used: Artıq Başqa Hesab tərəfindən İstifadə Edilib
+captchaClick: basın <br 0> aşağıdakı şəkildə

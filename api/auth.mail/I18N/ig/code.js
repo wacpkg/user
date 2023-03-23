@@ -1,0 +1,1 @@
+export default "[${host}]${action}koodu nyocha:${code}\n\n[${host}](https://${host})${action}koodu nyocha:${code}.\n\nỌ bụrụ na i tinyebeghị akwụkwọ maka [${host}](https://${host})${action}, biko leghara ozi a anya.\n\nỌ bụrụ na i tinyebeghị akwụkwọ maka [${host}](https://${host})${action}, biko leghara ozi a anya.\n"

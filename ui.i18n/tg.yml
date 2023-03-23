@@ -1,0 +1,47 @@
+accountExist: Ҳисоб аллакай мавҷуд аст,
+accountInvalid: Лутфан номи ҳисоби дурустро ворид кунед
+accountMailHostBan: Почтаи ин домен барои сабти ном манъ шудааст
+accountTooLong: Ҳисоб хеле дароз аст
+agree: розӣ
+captchaImage: Тасвир Captcha
+checkSpam: Санҷиши паёмдони спамро фаромӯш накунед
+clickSignIn: Барои ворид шудан ин ҷо клик кунед
+errCode: Рамзи тасдиқ хато аст ё мӯҳлати истифодааш гузаштааст
+enterCode: Рамзи тасдиқи гирифтаатонро ворид кунед
+loading: Бор карда мешавад
+mail: Почта
+needUserAgreement: Лутфан Созишномаро розӣ кунед
+notRecv: гирифта нашудааст?
+or: ё
+password: Рамз
+phone: Телефон
+refresh: Навсозӣ
+resend: Барои дубора ирсол кардан ин ҷо клик кунед
+resetPassword: Паролро аз нав танзим кунед
+setPassword: Парол таъин кунед
+signIn: Даромад
+signUp: Қайд кардан
+userAgreement: Шартномаи корбар
+verificationCode: Рамзи озмоиш
+wait: Илтимос истед
+verificationMailResended: Почтаи тасдиқи дубора фиристода шуд
+createAccount: Ҳисоби нав эҷод кунед
+name: Ном
+logout: Баромадан
+errAccountOrPassword: Ҳисоб ё пароли нодуруст
+setDone: Муваффақият насб кунед
+confirm: Тасдиқ кунед
+config: Конфигуратсия
+switchUser: Иваз кардани корбар
+addAccount: Иловаи ҳисоб
+exited: Баромадан
+remove: Хориҷ кунед
+exitAll: Ҳама ҳисобҳоро тарк кунед
+rmAll: Ҳама ҳисобҳоро нест кунед
+enter: Ворид кунед
+invalid: Беэътибор
+oldMail: Почтаи аслӣ
+newMail: Почтаи нав
+modifyMail: Почтаро тағир диҳед
+used: Аллакай аз ҷониби ҳисоби дигар истифода шудааст
+captchaClick: клик кунед <br 0> дар тасвири зер

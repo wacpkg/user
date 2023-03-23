@@ -1,0 +1,47 @@
+accountExist: ගිණුම දැනටමත් පවතී,
+accountInvalid: කරුණාකර වලංගු ගිණුම් නමක් ඇතුළත් කරන්න
+accountMailHostBan: මෙම වසමේ තැපෑල ලියාපදිංචි වීම තහනම් කර ඇත
+accountTooLong: ගිණුම දිග වැඩියි
+agree: එකඟයි
+captchaImage: කැප්චා රූපය
+checkSpam: අයාචිත තැපැල් පෙට්ටිය පරීක්ෂා කිරීමට අමතක නොකරන්න
+clickSignIn: පුරනය වීමට මෙතන ක්ලික් කරන්න
+errCode: සත්‍යාපන කේතය දෝෂයක් හෝ කල් ඉකුත් වී ඇත
+enterCode: ඔබට ලැබුණු සත්‍යාපන කේතය ඇතුලත් කරන්න
+loading: පැටවීම
+mail: තැපෑල
+needUserAgreement: කරුණාකර ගිවිසුමට එකඟ වන්න
+notRecv: හම්බුනේ නෑ ?
+or: හෝ
+password: මුරපදය
+phone: දුරකථන
+refresh: නැවුම් කරන්න
+resend: නැවත යැවීමට මෙතන ක්ලික් කරන්න
+resetPassword: මුරපදය නැවත සකසන්න
+setPassword: මුරපදය සකසන්න
+signIn: පුරන්න
+signUp: ලියාපදිංචි වන්න
+userAgreement: පරිශීලක ගිවිසුම
+verificationCode: සත්යාපන කේතය
+wait: කරුණාකර රැඳී සිටින්න
+verificationMailResended: සත්‍යාපන තැපෑල නැවත යවන ලදී
+createAccount: නව ගිණුමක් සාදන්න
+name: නම
+logout: පිටවීම
+errAccountOrPassword: වැරදි ගිණුමක් හෝ මුරපදයක්
+setDone: සාර්ථකව සකසන්න
+confirm: තහවුරු කරන්න
+config: වින්යාසය
+switchUser: පරිශීලක මාරු කරන්න
+addAccount: ගිණුම එකතු කරන්න
+exited: ලොග් අවුට් වුනා
+remove: ඉවත් කරන්න
+exitAll: සියලුම ගිණුම් ඉවත් කරන්න
+rmAll: සියලුම ගිණුම් ඉවත් කරන්න
+enter: ඇතුල් කරන්න
+invalid: වලංගු නැත
+oldMail: මුල් තැපෑල
+newMail: නව තැපෑල
+modifyMail: තැපැල් වෙනස් කරන්න
+used: දැනටමත් වෙනත් ගිණුමකින් භාවිතා කර ඇත
+captchaClick: ක්ලික් කරන්න <br 0> පහත රූපයේ

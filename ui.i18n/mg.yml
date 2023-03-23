@@ -1,0 +1,47 @@
+accountExist: Efa misy ny kaonty,
+accountInvalid: Ampidiro anarana kaonty manan-kery azafady
+accountMailHostBan: Voarara tsy hisoratra anarana ny mailaka an'ity sehatra ity
+accountTooLong: Kaonty lava loatra
+agree: manaiky
+captchaImage: Sary Captcha
+checkSpam: Aza adino ny mijery ny spam mailbox
+clickSignIn: Tsindrio eto raha hisoratra anarana
+errCode: Ny kaody fanamarinana dia diso na lany daty
+enterCode: Ampidiro ny kaody fanamarinana azonao
+loading: Loading
+mail: namany Sary
+needUserAgreement: Mifanaraka amin'ny fifanarahana
+notRecv: Tsy voaray ?
+or: na
+password: Password
+phone: Phone
+refresh: Havaozina
+resend: Tsindrio eto raha handefa indray
+resetPassword: Avereno ny tenimiafina
+setPassword: Set Password
+signIn: Hiditra
+signUp: Hiditra Mpikambana
+userAgreement: Fifanarahana mpampiasa
+verificationCode: Kaody fanamarinana
+wait: Andraso azafady
+verificationMailResended: Naverina nalefa ny mailaka fanamarinana
+createAccount: Mamorona kaonty vaovao
+name: Anarana
+logout: Miala
+errAccountOrPassword: Kaonty na tenimiafina diso
+setDone: Apetraka soa aman-tsara
+confirm: Manamarina
+config: Config
+switchUser: Switch User
+addAccount: Ampio kaonty
+exited: Nivoaka
+remove: esory
+exitAll: Hivoaka ny kaonty rehetra
+rmAll: Esory ny kaonty rehetra
+enter: Ampidiro
+invalid: Tsy mety
+oldMail: Mail Original
+newMail: Mail vaovao
+modifyMail: Ovao ny mailaka
+used: Efa nampiasain'ny kaonty hafa
+captchaClick: tsindrio <br 0> amin'ny sary etsy ambany

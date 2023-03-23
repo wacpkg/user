@@ -1,0 +1,1 @@
+export default "[${host}]${action}verifyeshɔn kɔd:${code}\n\n[${host}](http://www.${host}) .${action}verifyeshɔn kɔd:${code}.\n\nIf yu nɔ aplay fɔ [${host}](http://www.${host}) .${action}, duya nɔ pe atɛnshɔn to dis mɛsej.\n\nIf yu nɔ aplay fɔ [${host}](http://www.${host}) .${action}, duya nɔ pe atɛnshɔn to dis mɛsej.\n"

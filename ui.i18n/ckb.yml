@@ -1,0 +1,47 @@
+accountExist: ئەکاونتەکە پێشتر بوونی هەیە،
+accountInvalid: تکایە ناوی ئەکاونتێکی دروست دابنێ
+accountMailHostBan: ئیمەیڵی ئەم دۆمەینە قەدەغە کراوە بۆ ناو تۆمارکردن
+accountTooLong: ئەکاونت زۆر درێژە
+agree: ڕازی بوون
+captchaImage: وێنەی کاپچا
+checkSpam: لەبیرت نەچێت سندوقی پۆستی سپام بپشکنە
+clickSignIn: بۆ چوونە ژوورەوە کلیک لێرە بکە
+errCode: کۆدی پشتڕاستکردنەوەکە هەڵەیە یان بەسەرچووە
+enterCode: ئەو کۆدەی پشتڕاستکردنەوە کە وەرتگرتووە داخڵ بکە
+loading: بارکردن
+mail: پۆست
+needUserAgreement: تکایە ڕێککەوتنەکە ڕازی بن
+notRecv: وەرنەگیراوە ?
+or: یان
+password: نهێنوشە
+phone: تەلەفۆن
+refresh: نوێکردنەوە
+resend: بۆ دووبارە ناردن کلیک لێرە بکە
+resetPassword: وشەی نهێنی ڕێکبخەرەوە
+setPassword: تێپەڕەوشە دابنێ
+signIn: چوونە ژوورەوە
+signUp: خۆت تۆمار بکە
+userAgreement: ڕێککەوتنی بەکارهێنەر
+verificationCode: كۆدى دڵنيابوون
+wait: تكایه‌ چاوه‌ڕێبه‌
+verificationMailResended: پۆستی پشتڕاستکردنەوە دووبارە نێردراوەتەوە
+createAccount: دروستکردنی ئەکاونتی نوێ
+name: ناو
+logout: چوونە دەرەوە
+errAccountOrPassword: ئەکاونت یان وشەی نهێنی هەڵە
+setDone: بە سەرکەوتوویی دانان
+confirm: دڵنیاکردنەوە
+config: ڕێکخستن
+switchUser: بەكارهێنەر بگۆڕە
+addAccount: زیادکردنی ئەکاونت
+exited: دەرچووە
+remove: لابردن
+exitAll: دەرچوون هەموو ئەکاونتەکان
+rmAll: لابردنی هەموو ئەکاونتەکان
+enter: چوونە ناو
+invalid: نادروست
+oldMail: پۆستی ئەسڵی
+newMail: پۆستی نوێ
+modifyMail: دەستکاریکردنی پۆست
+used: پێشتر لەلایەن ئەکاونتێکی ترەوە بەکارهاتووە
+captchaClick: کلیک بکە <br 0> لە وێنەی خوارەوە

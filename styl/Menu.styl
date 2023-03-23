@@ -1,0 +1,40 @@
+@import 'styl/var/svg.styl'
+
+span
+  background svg-nabla no-repeat scroll 100% 63%
+  border-bottom 2px solid transparent
+  cursor pointer
+  padding-bottom 3px
+  padding-right 16px
+  position relative
+
+  &:hover
+    border-color #000
+    filter invert(42%) sepia(1) saturate(47)
+
+ul
+  background #fff
+  border 1px solid #ccc
+  border-top 0
+  display flex
+  flex-direction column
+  list-style none
+  margin 8px 0 0
+  padding 0
+  position absolute
+  right 0
+
+  &>li
+    border 1px solid transparent
+    border-top-color #ccc
+    cursor pointer
+    display block
+    font-weight normal
+    padding 8px 16px
+    text-align center
+    white-space nowrap
+
+    &:hover
+      background #f40
+      border-color #f40
+      color #fff

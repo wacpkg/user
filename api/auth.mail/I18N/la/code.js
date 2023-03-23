@@ -1,0 +1,1 @@
+export default "[${host}]${action}Codex autenticationis:${code}\n\n[${host}](https://${host})${action}Codex autenticationis:${code}.\n\nSi non applicari [${host}](https://${host})${action}quaeso hunc nuntium ignorare.\n\nSi non applicari [${host}](https://${host})${action}quaeso hunc nuntium ignorare.\n"

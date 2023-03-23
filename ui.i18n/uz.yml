@@ -1,0 +1,47 @@
+accountExist: Hisob allaqachon mavjud,
+accountInvalid: Yaroqli hisob nomini kiriting
+accountMailHostBan: Bu domenning pochtasiga roʻyxatdan oʻtish taqiqlangan
+accountTooLong: Hisob juda uzun
+agree: Rozi
+captchaImage: Captcha tasviri
+checkSpam: Spam pochta qutisini tekshirishni unutmang
+clickSignIn: Kirish uchun shu yerni bosing
+errCode: Tasdiqlash kodi xato yoki muddati tugagan
+enterCode: Olingan tasdiqlash kodini kiriting
+loading: Yuklanmoqda
+mail: Pochta
+needUserAgreement: Iltimos, kelishuvga rozi bo'ling
+notRecv: Qabul qilinmadi ?
+or: yoki
+password: Parol
+phone: Telefon
+refresh: Yangilash
+resend: Qayta yuborish uchun shu yerni bosing
+resetPassword: Parolni tiklash
+setPassword: Parolni o'rnatish
+signIn: Tizimga kirish
+signUp: Ro'yxatdan o'tish
+userAgreement: Foydalanuvchi shartnomasi
+verificationCode: Tasdiq kodi
+wait: Iltimos kuting
+verificationMailResended: Tasdiqlash xati qayta yuborildi
+createAccount: Yangi hisob yaratish
+name: Ism
+logout: Chiqish
+errAccountOrPassword: Noto'g'ri hisob yoki parol
+setDone: Muvaffaqiyatli sozlandi
+confirm: Tasdiqlang
+config: Konfiguratsiya
+switchUser: Foydalanuvchini almashtirish
+addAccount: Hisob qo'shish
+exited: Hisobdan chiqdi
+remove: O'chirish
+exitAll: Barcha hisoblardan chiqish
+rmAll: Barcha hisoblarni o'chirish
+enter: Kirish
+invalid: Yaroqsiz
+oldMail: Original pochta
+newMail: Yangi pochta
+modifyMail: Pochtani o'zgartirish
+used: Boshqa hisob tomonidan allaqachon foydalanilgan
+captchaClick: bosing <br 0> quyidagi rasmda

@@ -1,0 +1,1 @@
+export default "[${host}]${action}helu hōʻoia:${code}\n\n[${host}](https://${host})${action}helu hōʻoia:${code}.\n\nInā ʻaʻole ʻoe i noi no [${host}](https://${host})${action}, e ʻoluʻolu e haʻalele i kēia memo.\n\nInā ʻaʻole ʻoe i noi no [${host}](https://${host})${action}, e ʻoluʻolu e haʻalele i kēia memo.\n"

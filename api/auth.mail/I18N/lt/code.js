@@ -1,0 +1,1 @@
+export default "[${host}]${action}patvirtinimo kodas:${code}\n\n[${host}](https://${host})${action}patvirtinimo kodas:${code}.\n\nJei nesikreipėte į [${host}](https://${host})${action}, ignoruokite šį pranešimą.\n\nJei nesikreipėte į [${host}](https://${host})${action}, ignoruokite šį pranešimą.\n"

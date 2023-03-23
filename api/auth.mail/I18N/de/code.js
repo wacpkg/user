@@ -1,0 +1,1 @@
+export default "[${host}]${action}Bestätigungs-Code:${code}\n\n[${host}](https://${host})${action}Bestätigungs-Code:${code}.\n\nWenn Sie sich nicht für [${host}](https://${host})${action}, bitte ignorieren Sie diese Nachricht.\n\nWenn Sie sich nicht für [${host}](https://${host})${action}, bitte ignorieren Sie diese Nachricht.\n"

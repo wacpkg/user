@@ -1,0 +1,1 @@
+export default "[${host}]${action}koodii mirkaneessaa: 1.1.${code}\n\n[${host}](http://www.${host}) .${action}koodii mirkaneessaa: 1.1.${code}.\n\nYoo iyyata hin galchine ta’e [${host}](http://www.${host}) .${action}, mee ergaa kana bira darbaa.\n\nYoo iyyata hin galchine ta’e [${host}](http://www.${host}) .${action}, mee ergaa kana bira darbaa.\n"

@@ -1,0 +1,47 @@
+accountExist: Contul există deja,
+accountInvalid: Vă rugăm să introduceți un nume de cont valid
+accountMailHostBan: E-mailul acestui domeniu a fost interzis pentru înscriere
+accountTooLong: Cont prea lung
+agree: De acord
+captchaImage: Imagine Captcha
+checkSpam: Nu uitați să verificați căsuța de spam
+clickSignIn: Faceți clic aici pentru a vă conecta
+errCode: Codul de verificare este eroat sau a expirat
+enterCode: Introdu codul de verificare primit
+loading: Se încarcă
+mail: Poștă
+needUserAgreement: Vă rugăm să fiți de acord cu acordul
+notRecv: Nu a fost primit?
+or: sau
+password: Parola
+phone: Telefon
+refresh: Reîmprospăta
+resend: Faceți clic aici pentru a retrimite
+resetPassword: Reseteaza parola
+setPassword: Seteaza parola
+signIn: Conectare
+signUp: Inscrie-te
+userAgreement: Acordul Utilizatorului
+verificationCode: Cod de verificare
+wait: Va rugam asteptati
+verificationMailResended: E-mailul de verificare a fost retrimis
+createAccount: Creează un cont nou
+name: Nume
+logout: Deconectare
+errAccountOrPassword: Cont sau parolă incorectă
+setDone: Setați cu succes
+confirm: A confirma
+config: Config
+switchUser: Schimba utilizator
+addAccount: Adaugă cont
+exited: Delogat
+remove: Elimina
+exitAll: Deconectați toate conturile
+rmAll: Eliminați toate conturile
+enter: introduce
+invalid: Invalid
+oldMail: Poșta originală
+newMail: Mail nou
+modifyMail: Modificați e-mail
+used: Folosit deja de un alt cont
+captchaClick: Clic <br 0> în imaginea de mai jos

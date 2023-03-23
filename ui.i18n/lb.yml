@@ -1,0 +1,47 @@
+accountExist: De Kont gëtt et schonn,
+accountInvalid: Gitt w.e.g. e gültege Kontonumm un
+accountMailHostBan: D'Mail vun dësem Domain ass verbannt fir sech unzemellen
+accountTooLong: Kont ze laang
+agree: Averstanen
+captchaImage: Captcha Bild
+checkSpam: Vergiesst net d'Spam Mailbox ze kontrolléieren
+clickSignIn: Klickt hei fir Iech unzemellen
+errCode: De Verifizéierungscode ass Feeler oder ass ofgelaf
+enterCode: Gitt de Verifizéierungscode deen Dir kritt hutt
+loading: Lueden
+mail: Mail
+needUserAgreement: Weg averstanen Accord
+notRecv: Net kritt?
+or: oder
+password: Passwuert
+phone: Telefon
+refresh: Erfrëschen
+resend: Klickt hei fir nei ze schécken
+resetPassword: Reset Passwuert
+setPassword: Passwuert setzen
+signIn: Umellen
+signUp: Umellen
+userAgreement: Benotzer Accord
+verificationCode: Sëcherheetscode
+wait: W.e.g. Waart
+verificationMailResended: Verifizéierungs-Mail erëmgeschéckt
+createAccount: Schafen neie Kont
+name: Numm
+logout: Ausloggen
+errAccountOrPassword: Falsch Kont oder Passwuert
+setDone: Setzt Erfolleg
+confirm: Confirméieren
+config: Config
+switchUser: Wiessel Benotzer
+addAccount: Account dobäisetzen
+exited: Ausgeloggt
+remove: Ewechzehuelen
+exitAll: All Konten ausloggen
+rmAll: Ewechzehuelen All Konten
+enter: Gitt an
+invalid: Invalid
+oldMail: Original Mail
+newMail: Nei Mail
+modifyMail: E-Mail änneren
+used: Scho vun engem anere Kont benotzt
+captchaClick: Klickt <br 0> an ënnen Bild

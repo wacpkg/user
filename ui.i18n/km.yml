@@ -1,0 +1,47 @@
+accountExist: គណនីមានរួចហើយ
+accountInvalid: សូមបញ្ចូលឈ្មោះគណនីត្រឹមត្រូវ។
+accountMailHostBan: អ៊ីមែលរបស់ដែននេះត្រូវបានហាមឃាត់ក្នុងការចុះឈ្មោះ
+accountTooLong: គណនីវែងពេក
+agree: យល់ព្រម
+captchaImage: រូបភាព Captcha
+checkSpam: កុំភ្លេចពិនិត្យមើលប្រអប់សារឥតបានការ
+clickSignIn: ចុចទីនេះដើម្បីចូល
+errCode: លេខកូដផ្ទៀងផ្ទាត់មានកំហុស ឬផុតកំណត់
+enterCode: បញ្ចូលលេខកូដផ្ទៀងផ្ទាត់ដែលអ្នកបានទទួល
+loading: កំពុងផ្ទុក
+mail: សំបុត្រ
+needUserAgreement: សូមយល់ព្រមលើកិច្ចព្រមព្រៀង
+notRecv: មិនបាន​ទទួល ?
+or: ឬ
+password: ពាក្យសម្ងាត់
+phone: ទូរស័ព្ទ
+refresh: ធ្វើ​ឱ្យ​ស្រស់
+resend: ចុចទីនេះដើម្បីផ្ញើឡើងវិញ
+resetPassword: កំណត់ពាក្យសម្ងាត់ឡើងវិញ
+setPassword: កំណត់ពាក្យសម្ងាត់
+signIn: ចូល
+signUp: ចុះ​ឈ្មោះ
+userAgreement: កិច្ចព្រមព្រៀងអ្នកប្រើប្រាស់
+verificationCode: កូដ​ផ្ទៀង​ផ្ទាត់
+wait: សូមរង់ចាំ
+verificationMailResended: បានផ្ញើអ៊ីមែលផ្ទៀងផ្ទាត់ឡើងវិញ
+createAccount: បង្កើត​គណនី​ថ្មី
+name: ឈ្មោះ
+logout: ចាកចេញ
+errAccountOrPassword: គណនី ឬពាក្យសម្ងាត់មិនត្រឹមត្រូវ
+setDone: កំណត់ដោយជោគជ័យ
+confirm: បញ្ជាក់
+config: កំណត់រចនាសម្ព័ន្ធ
+switchUser: ផ្លាស់​ប្តូ​រ​អ្នកប្រើប្រាស់
+addAccount: បន្ថែមគណនី
+exited: ចាកចេញ
+remove: ដកចេញ
+exitAll: ចេញពីគណនីទាំងអស់។
+rmAll: លុបគណនីទាំងអស់។
+enter: បញ្ចូល
+invalid: មិនត្រឹមត្រូវ
+oldMail: សំបុត្រដើម
+newMail: សំបុត្រថ្មី។
+modifyMail: កែប្រែសំបុត្រ
+used: បានប្រើរួចហើយដោយគណនីមួយផ្សេងទៀត
+captchaClick: ចុច<br 0> នៅក្នុងរូបភាពខាងក្រោម

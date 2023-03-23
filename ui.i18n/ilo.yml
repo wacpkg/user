@@ -1,0 +1,47 @@
+accountExist: Ti account ket addan, .
+accountInvalid: Pangngaasiyo ta iserrekyo ti balido a nagan ti account
+accountMailHostBan: Naparit ti mail daytoy a domain nga agpirma
+accountTooLong: Atiddog ​​unay ti account
+agree: Umanamong
+captchaImage: Ladawan ti Captcha
+checkSpam: Dimo liplipatan a kitaen ti spam mailbox
+clickSignIn: I-click ditoy tapno Ag-signIn
+errCode: Ti kodigo ti panangpaneknek ket biddut wenno napalabasen
+enterCode: Isurat ti verification code a naawatmo
+loading: Agkarkarga
+mail: Koreo
+needUserAgreement: Pangngaasiyo ta Umanamongkayo iti Tulag
+notRecv: Saan a naawat ?
+or: wenno
+password: Password
+phone: Telepono
+refresh: Refresh ti
+resend: I-click ditoy tapno maipatulod manen
+resetPassword: I-reset ti Password
+setPassword: Itakderan ti Password
+signIn: SignIn ti
+signUp: Agpirma
+userAgreement: Tulag ti Agus-usar
+verificationCode: Kodigo ti Beripikasion
+wait: Pangngaasiyo ta Aguraykayo
+verificationMailResended: Naipatulod Manen ti Koreo ti Beripikasion
+createAccount: Mangaramid iti baro nga account
+name: Nagan
+logout: Ag-logout iti panag-logout
+errAccountOrPassword: Di umiso nga Account wenno Password
+setDone: Naballigi nga Iset
+confirm: Kumpirmaen
+config: Config
+switchUser: Agbalbaliw ti Agus-usar
+addAccount: Add Account
+exited: Nag-log out
+remove: Ikkaten
+exitAll: Logout Amin nga Account
+rmAll: Ikkaten ti Amin nga Account
+enter: Sumrek
+invalid: Saan a mabalin
+oldMail: Orihinal a Koreo
+newMail: Baro a Koreo
+modifyMail: Baliwan ti Koreo
+used: Nausardan Ti Sabali Nga Account
+captchaClick: I-click-mo <br 0> iti baba nga imahe

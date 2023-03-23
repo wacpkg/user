@@ -1,0 +1,47 @@
+accountExist: דער חשבון איז שוין עקסיסטירט,
+accountInvalid: ביטע אַרייַן אַ גילטיק חשבון נאָמען
+accountMailHostBan: די פּאָסט פון דעם פעלד איז באַנד צו סיגנופּ
+accountTooLong: חשבון צו לאַנג
+agree: שטימען
+captchaImage: קאַפּטטשאַ בילד
+checkSpam: דו זאלסט נישט פאַרגעסן טשעק די ספּאַם בריווקאַסטן
+clickSignIn: דריקט דאָ צו צייכן אין
+errCode: דער וועראַפאַקיישאַן קאָד איז טעות אָדער אויסגעגאנגען
+enterCode: אַרייַן די וועראַפאַקיישאַן קאָד איר באקומען
+loading: Loading
+mail: פּאָסט
+needUserAgreement: ביטע שטימען העסקעם
+notRecv: נישט באקומען ?
+or: אָדער
+password: שפּריכוואָרט
+phone: טעלעפאָן
+refresh: דערפרישן
+resend: דריקט דאָ צו שיקן ווידער
+resetPassword: באַשטעטיק פּאַראָל
+setPassword: שטעלן פּאַראָל
+signIn: סיין אריין
+signUp: סיגנופּ
+userAgreement: באַניצער העסקעם
+verificationCode: וועראַפאַקיישאַן קאָד
+wait: ביטע ווארט
+verificationMailResended: וועראַפאַקיישאַן פּאָסט רעסענדעד
+createAccount: שאַפֿן אַ נייַע חשבון
+name: נאָמען
+logout: Logout
+errAccountOrPassword: פאַלש אַקאַונט אָדער פּאַראָל
+setDone: באַשטעטיק הצלחה
+confirm: באַשטעטיקן
+config: קאָנפיג
+switchUser: טויש באנוצער
+addAccount: לייג אַקאַונט
+exited: לאָגד אויס
+remove: אַראָפּנעמען
+exitAll: לאָגאָ אויס אַלע אַקאַונץ
+rmAll: אַראָפּנעמען אַלע אַקאַונץ
+enter: אַרייַן
+invalid: אומגילטיק
+oldMail: אָריגינעל מעיל
+newMail: ניו מעיל
+modifyMail: מאָדיפיצירן מעיל
+used: שוין געוויינט דורך אן אנדער חשבון
+captchaClick: דריקט <br 0> אין אונטן בילד

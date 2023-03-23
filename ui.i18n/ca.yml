@@ -1,0 +1,47 @@
+accountExist: El compte ja existeix,
+accountInvalid: Introduïu un nom de compte vàlid
+accountMailHostBan: El correu d'aquest domini està prohibit per registrar-se
+accountTooLong: El compte és massa llarg
+agree: Acordar
+captchaImage: Imatge Captcha
+checkSpam: No us oblideu de comprovar la bústia de correu brossa
+clickSignIn: Feu clic aquí per iniciar la sessió
+errCode: El codi de verificació és un error o ha caducat
+enterCode: Introduïu el codi de verificació que heu rebut
+loading: Carregant
+mail: Correu
+needUserAgreement: Si us plau, accepteu l'acord
+notRecv: No rebut ?
+or: o
+password: Contrasenya
+phone: Telèfon
+refresh: Actualització
+resend: Feu clic aquí per tornar a enviar
+resetPassword: Restablir la contrasenya
+setPassword: Estableix la contrasenya
+signIn: Inicieu la sessió
+signUp: Registra't
+userAgreement: Acord d'usuari
+verificationCode: Codi de verificació
+wait: Si us plau, espereu
+verificationMailResended: S'ha tornat a enviar el correu de verificació
+createAccount: Crear un nou compte
+name: Nom
+logout: Tancar sessió
+errAccountOrPassword: Compte o contrasenya incorrectes
+setDone: Definit correctament
+confirm: Confirmeu
+config: Config
+switchUser: Canviar d'usuari
+addAccount: Afegir compte
+exited: Desconnectat
+remove: Eliminar
+exitAll: Tanca la sessió de tots els comptes
+rmAll: Elimina tots els comptes
+enter: Entra
+invalid: Invàlid
+oldMail: Correu original
+newMail: Correu nou
+modifyMail: Modificar correu
+used: Ja l'ha utilitzat un altre compte
+captchaClick: Feu clic <br 0> a la imatge de sota

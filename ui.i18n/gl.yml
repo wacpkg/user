@@ -1,0 +1,47 @@
+accountExist: A conta xa existe,
+accountInvalid: Introduza un nome de conta válido
+accountMailHostBan: O correo deste dominio está prohibido para rexistrarse
+accountTooLong: Conta demasiado longa
+agree: De acordo
+captchaImage: Imaxe Captcha
+checkSpam: Non esquezas comprobar a caixa de correo de spam
+clickSignIn: Fai clic aquí para iniciar sesión
+errCode: O código de verificación é erro ou caducou
+enterCode: Introduce o código de verificación que recibiches
+loading: Cargando
+mail: Correo
+needUserAgreement: Acorda o acordo
+notRecv: Non recibido?
+or: ou
+password: Contrasinal
+phone: Teléfono
+refresh: Actualizar
+resend: Fai clic aquí para reenviar
+resetPassword: Restablecer o contrasinal
+setPassword: Establecer o contrasinal
+signIn: Rexístrate
+signUp: Incribirse
+userAgreement: Acordo de usuario
+verificationCode: Código de verificación
+wait: Agarde por favor
+verificationMailResended: Correo de verificación reenviado
+createAccount: Crear unha nova conta
+name: Nome
+logout: Pechar sesión
+errAccountOrPassword: Conta ou contrasinal incorrectos
+setDone: Definido correctamente
+confirm: Confirmar
+config: Config
+switchUser: Cambiar de usuario
+addAccount: Engadir conta
+exited: Pechou sesión
+remove: Quitar
+exitAll: Saír de todas as contas
+rmAll: Eliminar todas as contas
+enter: Entra
+invalid: Non válido
+oldMail: Correo orixinal
+newMail: Correo novo
+modifyMail: Modificar correo
+used: Xa usado por outra conta
+captchaClick: Fai clic <br 0> na imaxe de abaixo

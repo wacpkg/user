@@ -1,0 +1,47 @@
+accountExist: Kont lan deja egziste,
+accountInvalid: Tanpri antre yon non kont valab
+accountMailHostBan: Lapòs domèn sa a entèdi pou enskri
+accountTooLong: Kont twò lontan
+agree: Dakò
+captchaImage: Captcha Imaj
+checkSpam: Pa bliye tcheke bwat spam la
+clickSignIn: Klike la a pou w konekte
+errCode: Kòd verifikasyon an se erè oswa ekspire
+enterCode: Antre kòd verifikasyon ou te resevwa a
+loading: Chaje
+mail: Mail
+needUserAgreement: Tanpri dakò akò
+notRecv: Pa resevwa?
+or: oswa
+password: Modpas
+phone: Telefòn
+refresh: Rafrechi
+resend: Klike la a pou revoye
+resetPassword: Reyajiste modpas
+setPassword: Mete Modpas
+signIn: Konekte
+signUp: Enskri
+userAgreement: Akò itilizatè
+verificationCode: Kòd Verifikasyon
+wait: Souple tann
+verificationMailResended: Lapòs Verifikasyon Revoke
+createAccount: Kreye nouvo kont
+name: Non
+logout: Dekonekte
+errAccountOrPassword: Kont oswa modpas ki pa kòrèk
+setDone: Mete avèk siksè
+confirm: Konfime
+config: Konfigirasyon
+switchUser: Chanje itilizatè
+addAccount: Ajoute kont
+exited: Dekonekte
+remove: Retire
+exitAll: Dekonekte Tout Kont
+rmAll: Retire tout kont yo
+enter: Antre
+invalid: Envalid
+oldMail: Original Mail
+newMail: Nouvo Mail
+modifyMail: Modifye Mail
+used: Yon lòt kont deja itilize
+captchaClick: Klike sou <br 0> nan imaj ki anba a
