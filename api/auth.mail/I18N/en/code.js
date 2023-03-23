@@ -1,1 +1,1 @@
-export default "[${host}]${action} verification code: ${code}\n\n[${host}](https://${host}) ${action} verification code: ${code}.\n\nThis verification code will expire in one hour.\n\nIf you have not applied for [${host}](https://${host}) ${action}, please ignore this message.\n"
+export default "[${host}] ${action} verification code : ${code}\n\n[${host}](${protocol}//${host}) ${action} verification code : ${code}.\n\nThis verification code will expire in one hour.\n\nIf you have not applied for [${host}](${protocol}//${host}) ${action}, please ignore this message.\n"

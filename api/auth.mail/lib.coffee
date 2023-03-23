@@ -29,7 +29,7 @@
 
 
 < sendMail = (action, account, password)->
-  {origin,lang} = @
+  {protocol,origin,lang} = @
 
   for lang from [lang, 'en']
     try
@@ -50,6 +50,7 @@
 
   dict = {
     host:origin
+    protocol
     code
     action:I18N[lang][action]
   }

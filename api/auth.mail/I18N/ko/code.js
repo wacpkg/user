@@ -1,1 +1,1 @@
-export default "[${host}]${action}확인 코드:${code}\n\n[${host}](https://${host})${action}확인 코드:${code}.\n\n이 확인 코드는 1시간 후에 만료됩니다.\n\n신청하지 않은 경우 [${host}](https://${host})${action}, 이 메시지를 무시하십시오.\n"
+export default "[${host}]${action}확인 코드:${code}\n\n[${host}](${protocol}//${host})${action}확인 코드:${code}.\n\n이 확인 코드는 1시간 후에 만료됩니다.\n\n신청하지 않은 경우 [${host}](${protocol}//${host})${action}, 이 메시지를 무시하십시오.\n"

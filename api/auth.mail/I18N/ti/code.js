@@ -1,1 +1,1 @@
-export default "[${host}] .${action}ናይ ምርግጋጽ ኮድ፤${code}\n\n[${host}](http://www.${host}) .${action}ናይ ምርግጋጽ ኮድ፤${code}.\n\nን[${host}](http://www.${host}) .${action}፣ በጃኹም ነዚ መልእኽቲ ሸለል በሉ።\n\nን[${host}](http://www.${host}) .${action}፣ በጃኹም ነዚ መልእኽቲ ሸለል በሉ።\n"
+export default "[${host}] .${action}ናይ ምርግጋጽ ኮድ :${code}\n\n[${host}](${protocol}//${host}) .${action}ናይ ምርግጋጽ ኮድ :${code}.\n\nን[${host}](http://www.${host}) .${action}፣ በጃኹም ነዚ መልእኽቲ ሸለል በሉ።\n\nን[${host}](${protocol}//${host}) .${action}፣ በጃኹም ነዚ መልእኽቲ ሸለል በሉ።\n"
