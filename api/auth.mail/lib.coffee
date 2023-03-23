@@ -58,6 +58,10 @@
   dict.code = '<b style="background:#ff0;border:1px dashed #f90;font-weight:bold;padding:8px;font-family:Consolas,Monaco,monospace">'+code+'</b>'
   html = marked.parse(mail).replaceAll(
     '<p>','<p style="font-size:16px">'
+  ).replaceAll(
+    '%7B','{'
+  ).replaceAll(
+    '%7D','}'
   ).render dict
   smtp(
     origin
