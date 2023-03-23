@@ -1,7 +1,9 @@
-[1] .<br host>] .<br action>chiqapchaypa qillqan : 1 .<br code>
+[1] .<br host>] .<br action>chiqapchaypa chiku:<br code>
 
-[1] .<br host>](<br protocol>// .<br host>) .<br action>chiqapchaypa qillqan : 1 .<br code>.
+<br url><br action>chiqapchaypa chiku:
 
-Mana mañakurqankichu chayqa [ .<br host>](https://qu.<br host>) .<br action>, ama hina kaspa kay willakuyta mana uyariychu.
+<br code>
 
 Mana mañakurqankichu chayqa [ .<br host>](<br protocol>// .<br host>) .<br action>, ama hina kaspa kay willakuyta mana uyariychu.
+
+mana mañakurqankichu chayqa<br url><br action>, ama hina kaspa kay willakuyta mana uyariychu.

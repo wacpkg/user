@@ -1,1 +1,1 @@
-export default "[${host}]${action}рамзи озмоиш :${code}\n\n[${host}](${protocol}//${host})${action}рамзи озмоиш :${code}.\n\nАгар шумо барои [${host}](https://${host})${action}, лутфан ин паёмро нодида гиред.\n\nАгар шумо барои [${host}](${protocol}//${host})${action}, лутфан ин паёмро нодида гиред.\n"
+export default "[${host}]${action}рамзи озмоиш:${code}\n\n${url}${action}рамзи озмоиш:\n\n${code}\n\nАгар шумо барои [${host}](${protocol}//${host})${action}, лутфан ин паёмро нодида гиред.\n\nагар шумо муроҷиат накарда бошед${url}${action}, лутфан ин паёмро нодида гиред.\n"

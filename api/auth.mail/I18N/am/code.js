@@ -1,1 +1,1 @@
-export default "[${host}]${action}የማረጋገጫ የሚስጥር ቁጥር :${code}\n\n[${host}](${protocol}//${host})${action}የማረጋገጫ የሚስጥር ቁጥር :${code}.\n\nያላመለከቱ ከሆነ [${host}](https://${host})${action}እባኮትን ይህን መልእክት ችላ ይበሉ።\n\nያላመለከቱ ከሆነ [${host}](${protocol}//${host})${action}እባኮትን ይህን መልእክት ችላ ይበሉ።\n"
+export default "[${host}]${action}የማረጋገጫ የሚስጥር ቁጥር:${code}\n\n${url}${action}የማረጋገጫ የሚስጥር ቁጥር:\n\n${code}\n\nይህ የማረጋገጫ ኮድ በአንድ ሰዓት ውስጥ ጊዜው ያልፍበታል።\n\nያላመለከቱ ከሆነ${url}${action}እባኮትን ይህን መልእክት ችላ ይበሉ።\n"

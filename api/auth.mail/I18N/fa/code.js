@@ -1,1 +1,1 @@
-export default "[${host}]${action}کد تایید :${code}\n\n[${host}](${protocol}//${host})${action}کد تایید :${code}.\n\nاگر برای [${host}](https://${host})${action}لطفا این پیام را نادیده بگیرید.\n\nاگر برای [${host}](${protocol}//${host})${action}لطفا این پیام را نادیده بگیرید.\n"
+export default "[${host}]${action}کد تایید:${code}\n\n${url}${action}کد تایید:\n\n${code}\n\nاگر برای [${host}](${protocol}//${host})${action}لطفا این پیام را نادیده بگیرید.\n\nاگر درخواست نداده اید${url}${action}لطفا این پیام را نادیده بگیرید.\n"

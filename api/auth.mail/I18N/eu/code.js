@@ -1,1 +1,1 @@
-export default "[${host}]${action}egiaztapen-kodea:${code}\n\n[${host}](${protocol}//${host})${action}egiaztapen-kodea:${code}.\n\nEz baduzu eskatu [${host}](https://${host})${action}, mesedez, ez ikusi mezu honi.\n\nEz baduzu eskatu [${host}](${protocol}//${host})${action}, mesedez, ez ikusi mezu honi.\n"
+export default "[${host}]${action}egiaztapen-kodea:${code}\n\n${url}${action}egiaztapen-kodea:\n\n${code}\n\nEz baduzu eskatu [${host}](${protocol}//${host})${action}, mesedez, ez ikusi mezu honi.\n\neskaera egin ez baduzu${url}${action}, mesedez, ez ikusi mezu honi.\n"

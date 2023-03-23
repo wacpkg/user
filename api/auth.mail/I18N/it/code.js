@@ -1,1 +1,1 @@
-export default "[${host}]${action}codice di verifica :${code}\n\n[${host}](${protocol}//${host})${action}codice di verifica :${code}.\n\nSe non hai fatto domanda per [${host}](https://${host})${action}, ignora questo messaggio.\n\nSe non hai fatto domanda per [${host}](${protocol}//${host})${action}, ignora questo messaggio.\n"
+export default "[${host}]${action}codice di verifica:${code}\n\n${url}${action}codice di verifica:\n\n${code}\n\nQuesto codice di verifica scadrà tra un'ora.\n\nse non hai fatto domanda${url}${action}, ignora questo messaggio.\n"

@@ -1,7 +1,9 @@
-[<br host>]<br action>kaody fanamarinana :<br code>
+[<br host>]<br action>kaody fanamarinana:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>kaody fanamarinana :<br code>.
+<br url><br action>kaody fanamarinana:
 
-Raha tsy nanao fangatahana [<br host>](https://<br host>)<br action>, azafady tsidiho ity hafatra ity.
+<br code>
 
 Raha tsy nanao fangatahana [<br host>](<br protocol>//<br host>)<br action>, azafady tsidiho ity hafatra ity.
+
+raha tsy nanao fangatahana ianao<br url><br action>, azafady tsidiho ity hafatra ity.

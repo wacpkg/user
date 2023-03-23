@@ -1,7 +1,9 @@
-[<br host>]<br action>Kodi i Verifikimit :<br code>
+[<br host>]<br action>Kodi i Verifikimit:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>Kodi i Verifikimit :<br code>.
+<br url><br action>Kodi i Verifikimit:
 
-Nëse nuk keni aplikuar për [<br host>](https://<br host>)<br action>, ju lutemi injoroni këtë mesazh.
+<br code>
 
-Nëse nuk keni aplikuar për [<br host>](<br protocol>//<br host>)<br action>, ju lutemi injoroni këtë mesazh.
+Ky kod verifikimi do të skadojë brenda një ore.
+
+nëse nuk keni aplikuar<br url><br action>, ju lutemi injoroni këtë mesazh.

@@ -1,7 +1,9 @@
-[1] .<br host>]<br action>código verificación rehegua : .<br code>
+[1] .<br host>]<br action>código verificación rehegua:<br code>
 
-[1] .<br host>](<br protocol>//<br host>) .<br action>código verificación rehegua : .<br code>.
+<br url><br action>código verificación rehegua:
 
-Nderejeruréiramo [ 1 ].<br host>](http://www.<br host>) .<br action>, emboyke ko marandu.
+<br code>
 
 Nderejeruréiramo [ 1 ].<br host>](<br protocol>//<br host>) .<br action>, emboyke ko marandu.
+
+nderejapóiramo solicitud<br url><br action>, emboyke ko marandu.

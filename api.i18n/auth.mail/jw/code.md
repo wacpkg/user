@@ -1,7 +1,9 @@
 [<br host>]<br action>kode verifikasi:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>kode verifikasi:<br code>.
+<br url><br action>kode verifikasi:
 
-Yen sampeyan durung nglamar [<br host>](https://<br host>)<br action>, please nglirwakake pesen iki.
+<br code>
 
 Yen sampeyan durung nglamar [<br host>](<br protocol>//<br host>)<br action>, please nglirwakake pesen iki.
+
+yen sampeyan durung nglamar<br url><br action>, please nglirwakake pesen iki.

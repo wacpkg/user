@@ -1,1 +1,1 @@
-export default "[${host}]${action}kontrolni kod:${code}\n\n[${host}](${protocol}//${host})${action}kontrolni kod:${code}.\n\nAko se niste prijavili za [${host}](https://${host})${action}, zanemarite ovu poruku.\n\nAko se niste prijavili za [${host}](${protocol}//${host})${action}, zanemarite ovu poruku.\n"
+export default "[${host}]${action}kontrolni kod:${code}\n\n${url}${action}kontrolni kod:\n\n${code}\n\nAko se niste prijavili za [${host}](${protocol}//${host})${action}, zanemarite ovu poruku.\n\nako se niste prijavili${url}${action}, zanemarite ovu poruku.\n"

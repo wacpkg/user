@@ -1,7 +1,9 @@
-[<br host>]<br action>kpeɖodzinana ƒe kɔda : .<br code>
+[<br host>]<br action>kpeɖodzinana ƒe kɔda:<br code>
 
-[<br host>](<br protocol>//<br host>) .<br action>kpeɖodzinana ƒe kɔda : .<br code>.
+<br url><br action>kpeɖodzinana ƒe kɔda:
 
-Ne mèbia be yeaxɔ [<br host>](https://www.<br host>) .<br action>, taflatse ŋe aɖaba ƒu gbedasi sia dzi.
+<br code>
 
-Ne mèbia be yeaxɔ [<br host>](<br protocol>//<br host>) .<br action>, taflatse ŋe aɖaba ƒu gbedasi sia dzi.
+Ne mèbia be yeaxɔ [<br host>]<br url><br action>, taflatse ŋe aɖaba ƒu gbedasi sia dzi.
+
+ne mèbiae o<br url><br action>, taflatse ŋe aɖaba ƒu gbedasi sia dzi.

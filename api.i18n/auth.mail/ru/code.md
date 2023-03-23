@@ -1,7 +1,9 @@
-[<br host>]<br action>проверочный код :<br code>
+[<br host>]<br action>проверочный код:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>проверочный код :<br code>.
+<br url><br action>проверочный код:
 
-Если вы не подали заявку на [<br host>](https://<br host>)<br action>, проигнорируйте это сообщение.
+<br code>
 
-Если вы не подали заявку на [<br host>](<br protocol>//<br host>)<br action>, проигнорируйте это сообщение.
+Срок действия этого кода подтверждения истекает через час.
+
+если вы не подали заявку<br url><br action>, проигнорируйте это сообщение.

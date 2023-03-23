@@ -1,7 +1,9 @@
-[<br host>]<br action>kinnituskood :<br code>
+[<br host>]<br action>kinnituskood:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>kinnituskood :<br code>.
+<br url><br action>kinnituskood:
 
-Kui te ei ole taotlenud [<br host>](https://<br host>)<br action>, palun ignoreeri seda sõnumit.
+<br code>
 
-Kui te ei ole taotlenud [<br host>](<br protocol>//<br host>)<br action>, palun ignoreeri seda sõnumit.
+Kui te ei ole taotlenud [<br host>]<br url><br action>, palun ignoreeri seda sõnumit.
+
+kui te pole kandideerinud<br url><br action>, palun ignoreeri seda sõnumit.

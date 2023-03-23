@@ -1,1 +1,1 @@
-export default "[${host}]${action}رمز التحقق :${code}\n\n[${host}] (${protocol}//${host})${action}رمز التحقق :${code}.\n\nإذا لم تكن قد تقدمت بطلب للحصول على [${host}] (https: //${host})${action}الرجاء تجاهل هذه الرسالة.\n\nإذا لم تكن قد تقدمت بطلب للحصول على [${host}] (${protocol}//${host})${action}الرجاء تجاهل هذه الرسالة.\n"
+export default "[${host}]${action}رمز التحقق:${code}\n\n${url}${action}رمز التحقق:\n\n${code}\n\nستنتهي صلاحية رمز التحقق هذا في غضون ساعة واحدة.\n\nإذا لم تقم بتطبيق${url}${action}الرجاء تجاهل هذه الرسالة.\n"

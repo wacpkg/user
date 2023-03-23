@@ -1,1 +1,1 @@
-export default "[${host}]${action}ລະຫັດຢືນຢັນ:${code}\n\n[${host}](${protocol}//${host})${action}ລະຫັດຢືນຢັນ:${code}.\n\nຖ້າເຈົ້າຍັງບໍ່ໄດ້ສະໝັກ [${host}](https://${host})${action}, ກະລຸນາລະເລີຍຂໍ້ຄວາມນີ້.\n\nຖ້າເຈົ້າຍັງບໍ່ໄດ້ສະໝັກ [${host}](${protocol}//${host})${action}, ກະລຸນາລະເລີຍຂໍ້ຄວາມນີ້.\n"
+export default "[${host}]${action}ລະຫັດຢືນຢັນ:${code}\n\n${url}${action}ລະຫັດຢືນຢັນ:\n\n${code}\n\nຖ້າເຈົ້າຍັງບໍ່ໄດ້ສະໝັກ [${host}](${protocol}//${host})${action}, ກະລຸນາລະເລີຍຂໍ້ຄວາມນີ້.\n\nຖ້າ​ຫາກ​ວ່າ​ທ່ານ​ບໍ່​ໄດ້​ສະ​ຫມັກ​${url}${action}, ກະລຸນາລະເລີຍຂໍ້ຄວາມນີ້.\n"

@@ -1,7 +1,9 @@
-[<br host>]<br action>የማረጋገጫ የሚስጥር ቁጥር :<br code>
+[<br host>]<br action>የማረጋገጫ የሚስጥር ቁጥር:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>የማረጋገጫ የሚስጥር ቁጥር :<br code>.
+<br url><br action>የማረጋገጫ የሚስጥር ቁጥር:
 
-ያላመለከቱ ከሆነ [<br host>](https://<br host>)<br action>እባኮትን ይህን መልእክት ችላ ይበሉ።
+<br code>
 
-ያላመለከቱ ከሆነ [<br host>](<br protocol>//<br host>)<br action>እባኮትን ይህን መልእክት ችላ ይበሉ።
+ይህ የማረጋገጫ ኮድ በአንድ ሰዓት ውስጥ ጊዜው ያልፍበታል።
+
+ያላመለከቱ ከሆነ<br url><br action>እባኮትን ይህን መልእክት ችላ ይበሉ።

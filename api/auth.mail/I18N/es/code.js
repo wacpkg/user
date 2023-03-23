@@ -1,1 +1,1 @@
-export default "[${host}]${action}código de verificación :${code}\n\n[${host}](${protocol}//${host})${action}código de verificación :${code}.\n\nSi no ha solicitado [${host}](https://${host})${action}, ignore este mensaje.\n\nSi no ha solicitado [${host}](${protocol}//${host})${action}, ignore este mensaje.\n"
+export default "[${host}]${action}código de verificación:${code}\n\n${url}${action}código de verificación:\n\n${code}\n\nEste código de verificación caducará en una hora.\n\nsi no has aplicado${url}${action}, ignore este mensaje.\n"

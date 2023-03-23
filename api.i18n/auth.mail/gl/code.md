@@ -1,7 +1,9 @@
-[<br host>]<br action>código de verificación :<br code>
+[<br host>]<br action>código de verificación:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>código de verificación :<br code>.
+<br url><br action>código de verificación:
 
-Se non solicitou [<br host>](https://<br host>)<br action>, ignore esta mensaxe.
+<br code>
 
 Se non solicitou [<br host>](<br protocol>//<br host>)<br action>, ignore esta mensaxe.
+
+se non solicitaches<br url><br action>, ignore esta mensaxe.

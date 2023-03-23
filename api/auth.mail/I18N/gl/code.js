@@ -1,1 +1,1 @@
-export default "[${host}]${action}código de verificación :${code}\n\n[${host}](${protocol}//${host})${action}código de verificación :${code}.\n\nSe non solicitou [${host}](https://${host})${action}, ignore esta mensaxe.\n\nSe non solicitou [${host}](${protocol}//${host})${action}, ignore esta mensaxe.\n"
+export default "[${host}]${action}código de verificación:${code}\n\n${url}${action}código de verificación:\n\n${code}\n\nSe non solicitou [${host}](${protocol}//${host})${action}, ignore esta mensaxe.\n\nse non solicitaches${url}${action}, ignore esta mensaxe.\n"

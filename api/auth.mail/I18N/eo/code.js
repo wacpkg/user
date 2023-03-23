@@ -1,1 +1,1 @@
-export default "[${host}]${action}konfirmkodo:${code}\n\n[${host}](${protocol}//${host})${action}konfirmkodo:${code}.\n\nSe vi ne petis por [${host}](https://${host})${action}, bonvolu ignori ĉi tiun mesaĝon.\n\nSe vi ne petis por [${host}](${protocol}//${host})${action}, bonvolu ignori ĉi tiun mesaĝon.\n"
+export default "[${host}]${action}konfirmkodo:${code}\n\n${url}${action}konfirmkodo:\n\n${code}\n\nSe vi ne petis por [${host}](${protocol}//${host})${action}, bonvolu ignori ĉi tiun mesaĝon.\n\nse vi ne kandidatiĝis${url}${action}, bonvolu ignori ĉi tiun mesaĝon.\n"

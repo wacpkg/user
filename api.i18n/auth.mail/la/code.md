@@ -1,7 +1,9 @@
-[<br host>]<br action>Codex autenticationis :<br code>
+[<br host>]<br action>Codex autenticationis:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>Codex autenticationis :<br code>.
+<br url><br action>Codex autenticationis:
 
-Si non applicari [<br host>](https://<br host>)<br action>quaeso hunc nuntium ignorare.
+<br code>
 
 Si non applicari [<br host>](<br protocol>//<br host>)<br action>quaeso hunc nuntium ignorare.
+
+si non applicantur<br url><br action>quaeso hunc nuntium ignorare.

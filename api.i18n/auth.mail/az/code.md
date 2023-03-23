@@ -1,7 +1,9 @@
-[<br host>]<br action>yoxlama kodu :<br code>
+[<br host>]<br action>yoxlama kodu:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>yoxlama kodu :<br code>.
+<br url><br action>yoxlama kodu:
 
-Əgər müraciət etməmisinizsə [<br host>](https://<br host>)<br action>, lütfən, bu mesaja məhəl qoymayın.
+<br code>
 
-Əgər müraciət etməmisinizsə [<br host>](<br protocol>//<br host>)<br action>, lütfən, bu mesaja məhəl qoymayın.
+Bu doğrulama kodunun müddəti bir saat ərzində bitəcək.
+
+müraciət etməmisinizsə<br url><br action>, lütfən, bu mesaja məhəl qoymayın.

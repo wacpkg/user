@@ -1,1 +1,1 @@
-export default "[${host}] ${action}驗證碼 : ${code}\n\n[${host}](${protocol}://${host}) ${action}驗證碼 : ${code}.\n\n此驗證碼將在一小時後失效。\n\n如果你未曾申請[${host}](${protocol}://${host})${action}，請忽略此郵件。\n"
+export default "[${host}] ${action}驗證碼 : ${code}\n\n${url} ${action}驗證碼:\n\n${code}\n\n此驗證碼將在一小時後失效。\n\n如果你未曾申請 ${url} ${action}，請忽略此郵件。\n"

@@ -1,1 +1,1 @@
-export default "[${host}]${action}Kodi i Verifikimit :${code}\n\n[${host}](${protocol}//${host})${action}Kodi i Verifikimit :${code}.\n\nNëse nuk keni aplikuar për [${host}](https://${host})${action}, ju lutemi injoroni këtë mesazh.\n\nNëse nuk keni aplikuar për [${host}](${protocol}//${host})${action}, ju lutemi injoroni këtë mesazh.\n"
+export default "[${host}]${action}Kodi i Verifikimit:${code}\n\n${url}${action}Kodi i Verifikimit:\n\n${code}\n\nKy kod verifikimi do të skadojë brenda një ore.\n\nnëse nuk keni aplikuar${url}${action}, ju lutemi injoroni këtë mesazh.\n"

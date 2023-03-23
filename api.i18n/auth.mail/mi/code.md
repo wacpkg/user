@@ -1,7 +1,9 @@
 [<br host>]<br action>waehere manatoko:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>waehere manatoko:<br code>.
+<br url><br action>waehere manatoko:
 
-Mena kaore koe i tono mo [<br host>](https://<br host>)<br action>, kaua e wareware ki tenei karere.
+<br code>
 
 Mena kaore koe i tono mo [<br host>](<br protocol>//<br host>)<br action>, kaua e wareware ki tenei karere.
+
+mena kaore koe i tono<br url><br action>, kaua e wareware ki tenei karere.

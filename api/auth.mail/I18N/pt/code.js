@@ -1,1 +1,1 @@
-export default "[${host}]${action}Código de verificação :${code}\n\n[${host}](${protocol}//${host})${action}Código de verificação :${code}.\n\nSe você não se inscreveu para [${host}](https://${host})${action}, ignore esta mensagem.\n\nSe você não se inscreveu para [${host}](${protocol}//${host})${action}, ignore esta mensagem.\n"
+export default "[${host}]${action}Código de verificação:${code}\n\n${url}${action}Código de verificação:\n\n${code}\n\nEste código de verificação expira em uma hora.\n\nse você não se candidatou${url}${action}, ignore esta mensagem.\n"

@@ -1,7 +1,9 @@
-[<br host>]<br action>সত্যাপন ক'ড :<br code>
+[<br host>]<br action>সত্যাপন ক'ড:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>সত্যাপন ক'ড :<br code>.
+<br url><br action>সত্যাপন ক'ড:
 
-যদি আপুনি [<br host>](https://<br host>)<br action>, অনুগ্ৰহ কৰি এই বাৰ্তাটো আওকাণ কৰক।
+<br code>
 
-যদি আপুনি [<br host>](<br protocol>//<br host>)<br action>, অনুগ্ৰহ কৰি এই বাৰ্তাটো আওকাণ কৰক।
+এই ভেৰিফিকেচন ক’ডৰ ম্যাদ এঘণ্টাৰ পিছত শেষ হ’ব।
+
+যদি আপুনি আবেদন কৰা নাই<br url><br action>, অনুগ্ৰহ কৰি এই বাৰ্তাটো আওকাণ কৰক।

@@ -1,7 +1,9 @@
 [<br host>]<br action>codice di verificazione:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>codice di verificazione:<br code>.
+<br url><br action>codice di verificazione:
 
-Se ùn avete micca dumandatu [<br host>](https://<br host>)<br action>, per piacè ignurà stu missaghju.
+<br code>
 
 Se ùn avete micca dumandatu [<br host>](<br protocol>//<br host>)<br action>, per piacè ignurà stu missaghju.
+
+se ùn avete micca applicatu<br url><br action>, per piacè ignurà stu missaghju.

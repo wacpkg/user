@@ -1,7 +1,9 @@
-[<br host>]<br action>codice di verifica :<br code>
+[<br host>]<br action>codice di verifica:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>codice di verifica :<br code>.
+<br url><br action>codice di verifica:
 
-Se non hai fatto domanda per [<br host>](https://<br host>)<br action>, ignora questo messaggio.
+<br code>
 
-Se non hai fatto domanda per [<br host>](<br protocol>//<br host>)<br action>, ignora questo messaggio.
+Questo codice di verifica scadrà tra un'ora.
+
+se non hai fatto domanda<br url><br action>, ignora questo messaggio.

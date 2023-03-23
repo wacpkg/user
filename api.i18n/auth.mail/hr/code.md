@@ -1,7 +1,9 @@
 [<br host>]<br action>kontrolni kod:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>kontrolni kod:<br code>.
+<br url><br action>kontrolni kod:
 
-Ako se niste prijavili za [<br host>](https://<br host>)<br action>, zanemarite ovu poruku.
+<br code>
 
 Ako se niste prijavili za [<br host>](<br protocol>//<br host>)<br action>, zanemarite ovu poruku.
+
+ako se niste prijavili<br url><br action>, zanemarite ovu poruku.

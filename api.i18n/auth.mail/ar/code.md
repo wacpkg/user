@@ -1,7 +1,9 @@
-[<br host>]<br action>رمز التحقق :<br code>
+[<br host>]<br action>رمز التحقق:<br code>
 
-[<br host>] (<br protocol>//<br host>)<br action>رمز التحقق :<br code>.
+<br url><br action>رمز التحقق:
 
-إذا لم تكن قد تقدمت بطلب للحصول على [<br host>] (https: //<br host>)<br action>الرجاء تجاهل هذه الرسالة.
+<br code>
 
-إذا لم تكن قد تقدمت بطلب للحصول على [<br host>] (<br protocol>//<br host>)<br action>الرجاء تجاهل هذه الرسالة.
+ستنتهي صلاحية رمز التحقق هذا في غضون ساعة واحدة.
+
+إذا لم تقم بتطبيق<br url><br action>الرجاء تجاهل هذه الرسالة.

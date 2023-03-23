@@ -1,7 +1,9 @@
-[<br host>]<br action>Código de verificação :<br code>
+[<br host>]<br action>Código de verificação:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>Código de verificação :<br code>.
+<br url><br action>Código de verificação:
 
-Se você não se inscreveu para [<br host>](https://<br host>)<br action>, ignore esta mensagem.
+<br code>
 
-Se você não se inscreveu para [<br host>](<br protocol>//<br host>)<br action>, ignore esta mensagem.
+Este código de verificação expira em uma hora.
+
+se você não se candidatou<br url><br action>, ignore esta mensagem.

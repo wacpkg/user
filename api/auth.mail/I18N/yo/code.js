@@ -1,1 +1,1 @@
-export default "[${host}]${action}kodu afimo :${code}\n\n[${host}](${protocol}//${host})${action}kodu afimo :${code}.\n\nTi o ko ba ti beere fun [${host}](https://${host})${action}, jọwọ foju yi ifiranṣẹ.\n\nTi o ko ba ti beere fun [${host}](${protocol}//${host})${action}, jọwọ foju yi ifiranṣẹ.\n"
+export default "[${host}]${action}kodu afimo:${code}\n\n${url}${action}kodu afimo:\n\n${code}\n\nTi o ko ba ti beere fun [${host}](${protocol}//${host})${action}, jọwọ foju yi ifiranṣẹ.\n\nti o ko ba ti lo${url}${action}, jọwọ foju yi ifiranṣẹ.\n"

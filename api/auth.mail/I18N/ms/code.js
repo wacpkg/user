@@ -1,1 +1,1 @@
-export default "[${host}]${action}kod pengesahan :${code}\n\n[${host}](${protocol}//${host})${action}kod pengesahan :${code}.\n\nJika anda belum memohon [${host}](https://${host})${action}, sila abaikan mesej ini.\n\nJika anda belum memohon [${host}](${protocol}//${host})${action}, sila abaikan mesej ini.\n"
+export default "[${host}]${action}kod pengesahan:${code}\n\n${url}${action}kod pengesahan:\n\n${code}\n\nJika anda belum memohon [${host}](${protocol}//${host})${action}, sila abaikan mesej ini.\n\njika anda belum memohon${url}${action}, sila abaikan mesej ini.\n"

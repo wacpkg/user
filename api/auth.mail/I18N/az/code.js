@@ -1,1 +1,1 @@
-export default "[${host}]${action}yoxlama kodu :${code}\n\n[${host}](${protocol}//${host})${action}yoxlama kodu :${code}.\n\nƏgər müraciət etməmisinizsə [${host}](https://${host})${action}, lütfən, bu mesaja məhəl qoymayın.\n\nƏgər müraciət etməmisinizsə [${host}](${protocol}//${host})${action}, lütfən, bu mesaja məhəl qoymayın.\n"
+export default "[${host}]${action}yoxlama kodu:${code}\n\n${url}${action}yoxlama kodu:\n\n${code}\n\nBu doğrulama kodunun müddəti bir saat ərzində bitəcək.\n\nmüraciət etməmisinizsə${url}${action}, lütfən, bu mesaja məhəl qoymayın.\n"

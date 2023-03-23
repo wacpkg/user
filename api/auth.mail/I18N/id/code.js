@@ -1,1 +1,1 @@
-export default "[${host}]${action}Kode verifikasi :${code}\n\n[${host}](${protocol}//${host})${action}Kode verifikasi :${code}.\n\nJika Anda belum melamar [${host}](https://${host})${action}, harap abaikan pesan ini.\n\nJika Anda belum melamar [${host}](${protocol}//${host})${action}, harap abaikan pesan ini.\n"
+export default "[${host}]${action}Kode verifikasi:${code}\n\n${url}${action}Kode verifikasi:\n\n${code}\n\nJika Anda belum melamar [${host}](${protocol}//${host})${action}, harap abaikan pesan ini.\n\njika belum melamar${url}${action}, harap abaikan pesan ini.\n"

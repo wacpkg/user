@@ -1,7 +1,9 @@
-[<br host>]<br action>kod pengesahan :<br code>
+[<br host>]<br action>kod pengesahan:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>kod pengesahan :<br code>.
+<br url><br action>kod pengesahan:
 
-Jika anda belum memohon [<br host>](https://<br host>)<br action>, sila abaikan mesej ini.
+<br code>
 
 Jika anda belum memohon [<br host>](<br protocol>//<br host>)<br action>, sila abaikan mesej ini.
+
+jika anda belum memohon<br url><br action>, sila abaikan mesej ini.

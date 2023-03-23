@@ -1,7 +1,9 @@
-[<br host>]<br action>nambala yotsimikizira :<br code>
+[<br host>]<br action>nambala yotsimikizira:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>nambala yotsimikizira :<br code>.
+<br url><br action>nambala yotsimikizira:
 
-Ngati simunalembetse [<br host>](https://<br host>)<br action>, chonde nyalanyazani uthengawu.
+<br code>
 
 Ngati simunalembetse [<br host>](<br protocol>//<br host>)<br action>, chonde nyalanyazani uthengawu.
+
+ngati simunalembetse<br url><br action>, chonde nyalanyazani uthengawu.

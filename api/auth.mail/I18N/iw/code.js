@@ -1,1 +1,1 @@
-export default "[${host}]${action}קוד אימות :${code}\n\n[${host}](${protocol}//${host})${action}קוד אימות :${code}.\n\nאם לא הגשת בקשה ל[${host}](https://${host})${action}, אנא התעלם מהודעה זו.\n\nאם לא הגשת בקשה ל[${host}](${protocol}//${host})${action}, אנא התעלם מהודעה זו.\n"
+export default "[${host}]${action}קוד אימות:${code}\n\n${url}${action}קוד אימות:\n\n${code}\n\nאם לא הגשת בקשה ל[${host}](${protocol}//${host})${action}, אנא התעלם מהודעה זו.\n\nאם לא הגשת בקשה${url}${action}, אנא התעלם מהודעה זו.\n"

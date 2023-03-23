@@ -1,7 +1,9 @@
-[<br host>] .<br action>sɛgɛsɛgɛli kode : 1 .<br code>
+[<br host>] .<br action>sɛgɛsɛgɛli kode:<br code>
 
-[<br host>](<br protocol>//<br host>) .<br action>sɛgɛsɛgɛli kode : 1 .<br code>.
+<br url><br action>sɛgɛsɛgɛli kode:
 
-Ni aw ma ɲinini kɛ [<br host>](https://www.<br host>) .<br action>, aw ka aw janto nin cikan in na.
+<br code>
 
 Ni aw ma ɲinini kɛ [<br host>](<br protocol>//<br host>) .<br action>, aw ka aw janto nin cikan in na.
+
+ni aw ma sɛbɛn di<br url><br action>, aw ka aw janto nin cikan in na.

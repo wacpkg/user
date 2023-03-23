@@ -1,7 +1,9 @@
-[<br host>]<br action>പരിശോധിച്ചുറപ്പിക്കൽ കോഡ് :<br code>
+[<br host>]<br action>പരിശോധിച്ചുറപ്പിക്കൽ കോഡ്:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>പരിശോധിച്ചുറപ്പിക്കൽ കോഡ് :<br code>.
+<br url><br action>പരിശോധിച്ചുറപ്പിക്കൽ കോഡ്:
 
-നിങ്ങൾ അപേക്ഷിച്ചിട്ടില്ലെങ്കിൽ [<br host>](https://<br host>)<br action>, ദയവായി ഈ സന്ദേശം അവഗണിക്കുക.
+<br code>
 
 നിങ്ങൾ അപേക്ഷിച്ചിട്ടില്ലെങ്കിൽ [<br host>](<br protocol>//<br host>)<br action>, ദയവായി ഈ സന്ദേശം അവഗണിക്കുക.
+
+നിങ്ങൾ അപേക്ഷിച്ചിട്ടില്ലെങ്കിൽ<br url><br action>, ദയവായി ഈ സന്ദേശം അവഗണിക്കുക.

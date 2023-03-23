@@ -1,7 +1,9 @@
-[<br host>]<br action>Sëcherheetscode :<br code>
+[<br host>]<br action>Sëcherheetscode:<br code>
 
-[<br host>](<br protocol>//<br host>)<br action>Sëcherheetscode :<br code>.
+<br url><br action>Sëcherheetscode:
 
-Wann Dir net fir [<br host>](https://<br host>)<br action>, weg ignoréieren dëse Message.
+<br code>
 
 Wann Dir net fir [<br host>](<br protocol>//<br host>)<br action>, weg ignoréieren dëse Message.
+
+wann Dir net ugemellt hutt<br url><br action>, weg ignoréieren dëse Message.
