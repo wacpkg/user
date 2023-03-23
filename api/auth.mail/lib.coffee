@@ -51,14 +51,14 @@
   dict = {
     host:origin
     url:protocol+'://'+origin
-    code
     action:I18N[lang][action]
+    code
   }
 
   subject = subject.render dict
   text = mail.render dict
 
-  delete dict.code
+  dict.code = "${code}"
   html = marked.parse(mail.render(dict)).replaceAll(
     '<p>','<p style="font-size:16px">'
   ).render({
