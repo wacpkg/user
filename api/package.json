@@ -1,1 +1,10 @@
-{"type":"module","dependencies":{"~":"link:."},"exports":{".":"./index.js","./*":"./*"}}
+{
+  "type": "module",
+  "dependencies": {
+    "~": "link:."
+  },
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*"
+  }
+}
