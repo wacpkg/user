@@ -1,7 +1,6 @@
-lockfileVersion: 5.4
-
-specifiers:
-  '~': link:.
+lockfileVersion: '6.0'
 
 dependencies:
-  '~': 'link:'
+  '~':
+    specifier: link:.
+    version: 'link:'
