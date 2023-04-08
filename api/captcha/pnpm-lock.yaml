@@ -1,13 +1,12 @@
-lockfileVersion: 5.4
-
-specifiers:
-  '@w5/captcha-img': ^0.0.3
+lockfileVersion: '6.0'
 
 dependencies:
-  '@w5/captcha-img': 0.0.3
+  '@w5/captcha-img':
+    specifier: ^0.0.3
+    version: 0.0.3
 
 packages:
 
-  /@w5/captcha-img/0.0.3:
+  /@w5/captcha-img@0.0.3:
     resolution: {integrity: sha512-+kl6ANWJ2rN30j9L423o5zdjdaPXfGnqDM6gJPXy/EP3kRyCJ3fDAxD+ggiWIaSKqeW17v/Ql07Cus7AuTJ5PQ==}
     dev: false
