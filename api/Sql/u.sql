@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS u.log (
     action u16 NOT NULL,
     uid u64 NOT NULL,
     val bytea DEFAULT '\x'::bytea NOT NULL,
-    ctime u64 DEFAULT (date_part('epoch'::text, now()))::u64 NOT NULL,
+    ctime u64 DEFAULT ceil(date_part('epoch'::text, now())) NOT NULL,
     client_id u64 NOT NULL
 );
 CREATE SEQUENCE IF NOT EXISTS u.log_id_seq
