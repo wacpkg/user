@@ -15,7 +15,7 @@
   @w5/wcut
   _/Core/sk > skVerify
   _/Http/Err > ERR
-  _/Pg > EXE
+  @w5/pg/PG > EXE
   _/Redis > R R_USER_NAME R_CLIENT_USER R_AUTH_WAY R_AUTH_LAST R_UID_MAIL
 
 SIGNUP = 'signup'
