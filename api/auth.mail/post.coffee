@@ -34,6 +34,9 @@ _captcha = (self, isNew)=>
 passwordHash = (ctime,password)=>
   _passwordHash u64Bin(ctime), password
 
+< has = (account)->
+  if await uidByMailId(mail_id) then 1 else 0
+
 signin = (I, user_id)=>
   key = u64Bin I
   uid = u64Bin user_id
@@ -166,4 +169,6 @@ _setPassword = (action, account, password, code)->
   ]
   EXE"INSERT INTO u.log (action,client_id,uid,val,ctime) VALUES (#{NAME},#{@I},#{user_id},#{name},#{ctime})"
   return [user_id,name]
+
+
 
