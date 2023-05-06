@@ -13,6 +13,7 @@
     r = await uidAccount li
     if r.size
       for i from r.values()
+        # TODO 根据 i[0] 判断类型决定是否用微信登录之类的
         return i[1]
   return ''
 
