@@ -3,7 +3,7 @@ include /_/p_input.pug
 form(@&form @submit|preventDefault)
   +p_input("{tip}")#account(
     &account
-    autocomplete="{ up ? 'off' : null }"
+    autocomplete="{ up ? 'off' : 'username' }"
     required
   )
   +p_input("{i18nPassword}")#password(
