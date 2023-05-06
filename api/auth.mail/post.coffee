@@ -35,6 +35,9 @@ passwordHash = (ctime,password)=>
   _passwordHash u64Bin(ctime), password
 
 < has = (account)->
+  account = account.trim().toLocaleLowerCase()
+  if not account
+    return 0
   mail_id = await R.mailId account
   if not mail_id
     return 0
