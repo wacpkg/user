@@ -5,14 +5,15 @@
   @w5/wcut
 
 # 获取最近一个登录用户的账号
-< last = =>
+< last = ->
   {I} = @
   key = u64Bin I
-  li = await R_CLIENT_USER.zrevrangebyscoreWithscores(key, 1)
-  if not li.length
-    return ''
-  uidAccount li
-
+  li = await R_CLIENT_USER.zrevrangebyscore(key, 1)
+  if li.length
+    r = uidAccount li
+    if r.length
+      return r[0][1]
+  return ''
 
 # 获取已登录/已退出的用户列表
 < ->
@@ -24,6 +25,7 @@
 
   + pos
 
+  # 区分已经登录和退出登录的用户
   li = li.map(
     ([id,s], n)=>
       if pos == undefined
