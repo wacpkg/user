@@ -4,6 +4,16 @@
   ./canEdit
   @w5/wcut
 
+# 获取最近一个登录用户的账号
+< last = =>
+  {I} = @
+  key = u64Bin I
+  li = await R_CLIENT_USER.zrevrangebyscoreWithscores(key, 1)
+  if not li.length
+    return ''
+  uidAccount li
+
+
 # 获取已登录/已退出的用户列表
 < ->
   {I} = @
