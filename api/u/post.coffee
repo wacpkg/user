@@ -10,7 +10,7 @@
   key = u64Bin I
   li = await R_CLIENT_USER.zrevrangebyscore(key, 1)
   if li.length
-    r = uidAccount li
+    r = await uidAccount li
     if r.length
       return r[0][1]
   return ''
