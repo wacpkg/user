@@ -4,6 +4,7 @@
   ./canEdit
   @w5/wcut
 
+# 获取已登录的用户列表
 < ->
   {I} = @
   key = u64Bin I
