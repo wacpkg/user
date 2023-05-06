@@ -11,8 +11,9 @@
   li = await R_CLIENT_USER.zrevrangebyscore(key, 1)
   if li.length
     r = await uidAccount li
-    if r.length
-      return r[0][1]
+    if r.size
+      for i from r.values()
+        return i[1]
   return ''
 
 # 获取已登录/已退出的用户列表
