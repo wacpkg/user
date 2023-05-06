@@ -35,6 +35,9 @@ passwordHash = (ctime,password)=>
   _passwordHash u64Bin(ctime), password
 
 < has = (account)->
+  mail_id = await R.mailId account
+  if not mail_id
+    return 0
   if await uidByMailId(mail_id) then 1 else 0
 
 signin = (I, user_id)=>
