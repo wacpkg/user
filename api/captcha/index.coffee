@@ -1,6 +1,6 @@
 > _/Redis.js > R_CAPTCHA
   _/Http/Err.js > ERR_CAPTCHA
-  @w5/ru > unzipU64 z85Load
+  @w5/lib > unzipU64 z85Load
 
 < ({type:captcha}) =>
   if captcha

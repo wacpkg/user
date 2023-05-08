@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > _/Redis > R R_AUTH_LAST R_AUTH_WAY
-  @w5/ru > u64Bin binU64
+  @w5/lib > u64Bin binU64
 
 < WAY_ACCOUNT = new Map()
 

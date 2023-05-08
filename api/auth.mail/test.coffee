@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 
 > _/Redis:R
-  @w5/ru > u64Bin
+  @w5/lib > u64Bin
 
 id = 1
 console.log await R.mailId('i@wac.tax')

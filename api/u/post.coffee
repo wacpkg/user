@@ -1,4 +1,4 @@
-> @w5/ru > zipU64 binU64 u64Bin
+> @w5/lib > zipU64 binU64 u64Bin
   _/Redis > R R_CLIENT_USER R_USER_NAME
   ./uidAccount:@ > uidWay
   ./canEdit

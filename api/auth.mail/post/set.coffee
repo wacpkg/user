@@ -6,7 +6,7 @@
   ~/Sql/uidByMailId.js
   ~/Sql/mailSet.js
   ../lib.js > mailValid sendMail
-   @w5/ru > binU64
+   @w5/lib > binU64
 
 _old_mail = (uid, account)=>
   r = await mailValid account

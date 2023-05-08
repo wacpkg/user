@@ -9,7 +9,7 @@
   ./lib.js > mailValid sendMail
   ~/Sql/signup.js:_signup
   ~/Sql/uidByMailId.js
-  @w5/ru > passwordHash:_passwordHash u64Bin
+  @w5/lib > passwordHash:_passwordHash u64Bin
   @w5/time > Second
   @w5/u8 > u8merge u8eq
   @w5/wcut
