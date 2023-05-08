@@ -1,7 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "@w5/svg2webp": "^0.0.14",
+    "@w5/svg2webp": "^0.0.29",
     "~": "link:."
   },
   "exports": {
