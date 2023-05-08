@@ -1,6 +1,146 @@
 lockfileVersion: '6.0'
 
 dependencies:
+  '@w5/svg2webp':
+    specifier: ^0.0.14
+    version: 0.0.14
   '~':
     specifier: link:.
     version: 'link:'
+
+packages:
+
+  /@w5/svg2webp-android-arm-eabi@0.0.14:
+    resolution: {integrity: sha512-MbW59OUrhXzA5XJ2VQ79Rk8OxDZpBrDqpSnLcTitPejoHC791BYzukRgtVscsqcrBnQ5b09PfWAH2wyMeISh5g==}
+    engines: {node: '>= 10'}
+    cpu: [arm]
+    os: [android]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-android-arm64@0.0.14:
+    resolution: {integrity: sha512-giIa3t4MdI3W2jBqMu2go8tciNKT/BW9UXBRo02vqTQgI00q9RTmq9NH26VdmxnA2p8Olbz62feA9wbhaWjKlg==}
+    engines: {node: '>= 10'}
+    cpu: [arm64]
+    os: [android]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-darwin-arm64@0.0.14:
+    resolution: {integrity: sha512-Gviba0KSa0Jczq/T4LMwIlglpVXYea8z3Vsbtm3mkA+qyMJMdjsPraK4MHfbagsdYKOm2UmwF/UnRvV8krsylA==}
+    engines: {node: '>= 10'}
+    cpu: [arm64]
+    os: [darwin]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-darwin-universal@0.0.14:
+    resolution: {integrity: sha512-bLOqcYlGAR/dzNc/EpyYueFK4F7Abd6IBBzngugV3I0gxdOUDSw+ZLTQyLF/ujXqdD5kfm7xlV1tyPnchDqlZA==}
+    engines: {node: '>= 10'}
+    os: [darwin]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-darwin-x64@0.0.14:
+    resolution: {integrity: sha512-iMGjqXa583CCPXFGn8t0QhB8ocI04T3ZDHlewueGT7tb6IbX+09qjD9yyWkvHLie/iDfVA6dv5LxzLj0h+UGFg==}
+    engines: {node: '>= 10'}
+    cpu: [x64]
+    os: [darwin]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-freebsd-x64@0.0.14:
+    resolution: {integrity: sha512-cypKGk1QqsSqXgw18OL8CsaEabE7hvShEoVFdUPNGfQT0qEgxM8495GVa324zK0AuECLax3YxQ0WNfJ+DwnqUg==}
+    engines: {node: '>= 10'}
+    cpu: [x64]
+    os: [freebsd]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-linux-arm-gnueabihf@0.0.14:
+    resolution: {integrity: sha512-JE7lsuD7zQZYOAyCu8+Y5zxkPpk+c/qFhHHQLaZQU/MZFlObOd8YsKlcggPHfgJBlbLKPN1thGahsAAX8q1MWA==}
+    engines: {node: '>= 10'}
+    cpu: [arm]
+    os: [linux]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-linux-arm64-gnu@0.0.14:
+    resolution: {integrity: sha512-I2Zj9g/Xvk0knCV/5E9a4MCQ2CkZQ+uwGpjQro393Cbfl2cF0S4hAhS+2zECzMNWAZGM4Vhz7kWDbdVsjcR65Q==}
+    engines: {node: '>= 10'}
+    cpu: [arm64]
+    os: [linux]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-linux-arm64-musl@0.0.14:
+    resolution: {integrity: sha512-FwLPIisKyCPTCGsACfvjEVYjgRjpK8uSp6fHWtO+PhTK90NAYorxZrLgbb4sm9rljTy6T9fQ999/ou3GZekTnQ==}
+    engines: {node: '>= 10'}
+    cpu: [arm64]
+    os: [linux]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-linux-x64-gnu@0.0.14:
+    resolution: {integrity: sha512-fzbzbP+TBVvbxbpSJHFwi5bg+8ihZRyJkYELp09TWdSp5U2x6xNcf4bBYsCrBGQA1yxmcf65B80eWE+fWU30HQ==}
+    engines: {node: '>= 10'}
+    cpu: [x64]
+    os: [linux]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-linux-x64-musl@0.0.14:
+    resolution: {integrity: sha512-iJBYJrtfTjoyKNWzffiJtcQz0TNYSD7EUZ09ruCT6BDwgeNNfMsG3K2azU8uFjm+De8UPGxy5bARnBS5qrIcsw==}
+    engines: {node: '>= 10'}
+    cpu: [x64]
+    os: [linux]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-win32-arm64-msvc@0.0.14:
+    resolution: {integrity: sha512-k+f5lYaL8SPM+L0GROyMP6AyVdhgvpSVaSuz2j+6hU/zj11oxycIGt+SefR+6GSKt7awbT/LogB74snx82eDfQ==}
+    engines: {node: '>= 10'}
+    cpu: [arm64]
+    os: [win32]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp-win32-x64-msvc@0.0.14:
+    resolution: {integrity: sha512-gtD8w8xxeKXBzYFrODfRYQTnMqDs8GS90ALq1IN5jWmKY0JaV5wJ7PtkRaT/OZk++y+srtbmYNXoyCof0SPVgg==}
+    engines: {node: '>= 10'}
+    cpu: [x64]
+    os: [win32]
+    requiresBuild: true
+    dev: false
+    optional: true
+
+  /@w5/svg2webp@0.0.14:
+    resolution: {integrity: sha512-dzCw/t6MfEqbGKXkKunBJ0To8OirI2gRxMOj2um8hNMm/gk1wlQsJnj4yZ4P1pWJX3KOVFikmdoGl4IaPMEqBQ==}
+    engines: {node: '>= 10'}
+    optionalDependencies:
+      '@w5/svg2webp-android-arm-eabi': 0.0.14
+      '@w5/svg2webp-android-arm64': 0.0.14
+      '@w5/svg2webp-darwin-arm64': 0.0.14
+      '@w5/svg2webp-darwin-universal': 0.0.14
+      '@w5/svg2webp-darwin-x64': 0.0.14
+      '@w5/svg2webp-freebsd-x64': 0.0.14
+      '@w5/svg2webp-linux-arm-gnueabihf': 0.0.14
+      '@w5/svg2webp-linux-arm64-gnu': 0.0.14
+      '@w5/svg2webp-linux-arm64-musl': 0.0.14
+      '@w5/svg2webp-linux-x64-gnu': 0.0.14
+      '@w5/svg2webp-linux-x64-musl': 0.0.14
+      '@w5/svg2webp-win32-arm64-msvc': 0.0.14
+      '@w5/svg2webp-win32-x64-msvc': 0.0.14
+    dev: false

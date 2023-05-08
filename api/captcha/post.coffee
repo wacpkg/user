@@ -4,7 +4,7 @@
   _/Redis > R_CAPTCHA R_CAPTCHA_IP_LIMIT
   @w5/ru > z85Dump randomBytes ipBin zipU64
   @w5/svg2webp > svgWebp
-
+  @w5/utf8/utf8e
 # 返回验证码 加密的位置和图片id
 
 CACHE = [
@@ -16,7 +16,7 @@ WIDTH = 350
 
 _new = (radio)=>
   r = CaptchaImg(WIDTH*radio)
-  r[0] = await svgWebp r[0], 20
+  r[0] = await svgWebp utf8e(r[0]), 20
   r
 
 _cache = (radio)=>
