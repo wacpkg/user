@@ -2,7 +2,8 @@
   @w5/u8 > U8
   @w5/captcha-img/D.js # svg path
   _/Redis > R_CAPTCHA R_CAPTCHA_IP_LIMIT
-  @w5/ru > z85Dump randomBytes svgWebp ipBin zipU64
+  @w5/ru > z85Dump randomBytes ipBin zipU64
+  @w5/svg2webp > svgWebp
 
 # 返回验证码 加密的位置和图片id
 
