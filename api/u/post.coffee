@@ -8,7 +8,7 @@
 < last = ->
   {I} = @
   key = u64Bin I
-  li = await R_CLIENT_USER.zrevrangebyscore(key, 1)
+  li = await R_CLIENT_USER.zrevrangebyscore(key, limit:1)
   if li.length
     r = await uidAccount li
     if r.size
@@ -21,7 +21,7 @@
 < ->
   {I} = @
   key = u64Bin I
-  li = await R_CLIENT_USER.zrevrangebyscoreWithscores(key)
+  li = await R_CLIENT_USER.zrevrangebyscoreWithscore(key)
   if not li.length
     return [[],[]]
 
@@ -42,7 +42,7 @@
   uid_account = await uidAccount li
 
   r = (
-    await R.hmgetS R_USER_NAME, ...li
+    await R.hmget R_USER_NAME, li
   ).map (name,p)=>
     id = li[p]
     [

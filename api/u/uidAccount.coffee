@@ -23,7 +23,7 @@
 
 < default main = (uid_bin_li)=>
   way_li = (
-    await R.hmget R_AUTH_LAST,...uid_bin_li
+    await R.hmgetB R_AUTH_LAST, uid_bin_li
   ).map binU64
 
   way_uid = new Map()
