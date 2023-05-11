@@ -1,3 +1,3 @@
-< (R,redis)=>
-  redis.ipLimit = R.fnum.ipLimit
+< (R)=>
+  R.fnum.ipLimit
   return
