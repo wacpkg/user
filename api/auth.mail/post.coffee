@@ -39,6 +39,7 @@ passwordHash = (ctime,password)=>
   if not account
     return 0
   mail_id = await R.mailId account
+  console.log {mail_id}
   if not mail_id
     return 0
   if await uidByMailId(mail_id) then 1 else 0
