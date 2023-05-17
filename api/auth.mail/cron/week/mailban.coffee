@@ -1,6 +1,6 @@
 #!/usr/bin/env coffee
 
-> @w5/req > reqJson
+> @w5/req/reqJson
   @w5/write
   @w5/read
   _/Redis > R R_MAIL_BAN_HOST
