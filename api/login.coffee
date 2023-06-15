@@ -9,7 +9,6 @@
     uid = await R_CLIENT_USER.zmax(key) 0
     if uid
       @uid = uid
-      console.log @uid, {uid}
       return await func.apply @,arguments
     throw ERR_LOGIN
 
