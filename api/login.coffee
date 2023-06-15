@@ -1,6 +1,7 @@
 #!/usr/bin/env coffee
 > @w5/lib > u64Bin
   _/Redis > R R_CLIENT_USER
+  ~/ERR.js > ERR_LOGIN
 
 < (func)=>
   ->
@@ -9,5 +10,5 @@
     if uid
       @uid = uid
       return await func.apply @,arguments
-    return
+    throw ERR_LOGIN
 
