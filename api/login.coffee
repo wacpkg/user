@@ -1,7 +1,7 @@
 #!/usr/bin/env coffee
 > @w5/lib > u64Bin
   _/Redis > R R_CLIENT_USER
-  ~/ERR.js > ERR_LOGIN
+  _/Http/Err.js > ERR_LOGIN
 
 < (func)=>
   ->
