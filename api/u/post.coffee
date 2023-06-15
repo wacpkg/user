@@ -1,8 +1,8 @@
 > @w5/lib > zipU64 binU64 u64Bin
-  _/Redis > R R_CLIENT_USER R_USER_NAME
-  ./uidAccount:@ > uidWay
-  ./canEdit
   @w5/wcut
+  _/Redis > R R_CLIENT_USER R_USER_NAME
+  ./canEdit
+  ./uidAccount:@ > uidWay
 
 # 获取最近一个登录用户的账号
 < last = ->
