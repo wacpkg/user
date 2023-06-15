@@ -3,5 +3,11 @@
   _/Redis > R R_CLIENT_USER
 
 < (func)=>
-  await R_CLIENT_USER.zrevrangebyscore
+  ->
+    key = u64Bin @I
+    uid = await R_CLIENT_USER.zmax(key) 0
+    if uid
+      @uid = uid
+      return await func.apply @,arguments
+    return
 
