@@ -1,11 +1,16 @@
 > ./captcha.js
   ./Sign.auth.js > auth
+  !/_/byTag.js > byTag0
+  !/_/SDK.js
 
 < (response, next, url, req_option)=>
   {status} = response
   switch status
     when 401
-      auth()
+      byTag0(
+        auth()
+        'u-auth'
+      ) = await SDK.u.last()
     when 412
       c = await captcha()
       # 验证码窗口被关闭
