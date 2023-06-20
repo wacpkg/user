@@ -7,10 +7,7 @@
   {status} = response
   switch status
     when 401
-      byTag0(
-        auth()
-        'u-auth'
-      ) = await SDK.u.last()
+      byTag0(auth(),'u-auth').account = await SDK.u.last()
     when 412
       c = await captcha()
       # 验证码窗口被关闭
