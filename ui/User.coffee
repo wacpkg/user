@@ -75,6 +75,7 @@ _change = =>
   for i,pos in USER_SIGNIN
     if i[0] == id
       if pos == 0
+        _setMeLi()
         return
       await SDK.u.enter id
       USER_SIGNIN.splice pos,1
