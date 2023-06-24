@@ -30,7 +30,8 @@ include /_/p_input.pug
 <script lang="coffee">
 > !/_/SDK.js
   ./i18n/code.js > NAME INVALID
-  ./User.js > setNameWay USER_SIGNIN onMe
+  !/_/vote.js > USER_SIGNIN
+  ./User.js > setNameWay onMe
   wtax/wcut.js
   !/_/Alert.js
   ./WAY.js
