@@ -32,13 +32,15 @@ ON_LI = new Set()
 
 _setMe = =>
   me = USER_SIGNIN[0]
-  if USER
-    if me and (me[0] == USER.id)
-      return
   if me
     [id,name] = me
+    if USER
+      if USER.id == id and USER.name == name
+        return
     USER = {id,name}
   else
+    if not USER?.id
+      return
     USER = {}
   for f from ON_ME
     f(USER)
