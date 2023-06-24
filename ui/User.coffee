@@ -214,6 +214,14 @@ ON_LI = new Set()
     ON_LI.delete func
     return
 
+< onMe = (func)=>
+  ON_ME.add func
+  if USER != undefined
+    func USER
+  =>
+    ON_ME.delete func
+    return
+
 _setMe = =>
   me = USER_SIGNIN[0]
   if USER
@@ -245,14 +253,6 @@ save = =>
     ]
   }
   return
-
-< onMe = (func)=>
-  ON_ME.add func
-  if USER != undefined
-    func USER
-  =>
-    ON_ME.delete func
-    return
 
 < exitAll = =>
 < rmAll = =>
