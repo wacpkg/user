@@ -7,7 +7,8 @@ template(@&Drop)
     li >logout
 u-if-user
   span(@click=drop) {user.name}
-  slot(slot="else")
+  b(slot="else")
+    slot
 </template>
 
 <script lang="coffee">

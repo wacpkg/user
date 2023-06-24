@@ -134,7 +134,7 @@ onMount =>
         if 13 == e.keyCode
           e.preventDefault()
           for b from byTag form,'button'
-            if b.className != 'a'
+            if not b.classList.contains 'a'
               b.click()
               break
         return
