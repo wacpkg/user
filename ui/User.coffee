@@ -33,7 +33,7 @@ ON_LI = new Set()
 _setMe = =>
   me = USER_SIGNIN[0]
   if USER
-    if me?.id == USER.id
+    if me[0] == USER.id
       return
   if me
     [id,name] = me
@@ -75,7 +75,6 @@ _change = =>
   for i,pos in USER_SIGNIN
     if i[0] == id
       if pos == 0
-        _setMeLi()
         return
       await SDK.u.enter id
       USER_SIGNIN.splice pos,1
@@ -137,7 +136,7 @@ _User()
           _change()
         return r
     USER_SIGNIN.unshift li
-    _change()
+  _change()
   return r
 
 
