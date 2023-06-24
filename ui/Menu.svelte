@@ -5,10 +5,11 @@ template(@&Drop)
     li >config
     li >switchUser
     li >logout
-u-if-user
-  span(@click=drop) {user.name}
-  b(slot="else")
-    slot
++if user
+  +if user.id
+    span(@click=drop) {user.name}
+    +else
+      slot
 </template>
 
 <script lang="coffee">
@@ -21,7 +22,7 @@ u-if-user
 
 + Drop, drop
 
-user = {}
++ user
 
 onMount =>
   await tick()
