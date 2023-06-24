@@ -208,16 +208,20 @@ On CHANNEL,{
     return
 }
 
+U = 'u'
 
 do =>
   initPost()
   await sleep 300
   if INIT
     r = await SDK.u()
+    W.conf.put {
+      id:U
+      v:JSON.stringify(r)
+    }
     # 必须拆分成为2行写，不然可能会导致_setUser还是INIT
     if _setUser ...r
       reply(0)
-    console.log '>>>>', r
   return
 
 < setNameWay = (id, name, li)=>
