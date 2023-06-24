@@ -16,6 +16,18 @@ NEW_REPLY = []
 LEADER = 0
 MSG_NEW = 1
 
+U = 'u'
+
+save = =>
+  W.conf.put {
+    id:U
+    v:[
+      USER_SIGNIN
+      USER_EXIT
+    ]
+  }
+  return
+
 _ms = =>
   parseInt +new Date
 
@@ -73,6 +85,7 @@ _toAllMe = =>
   reply(0)
   _setMe()
   _nextLi()
+  save()
   return
 
 _nextLi = (signin,exit)=>
@@ -208,20 +221,25 @@ On CHANNEL,{
     return
 }
 
-U = 'u'
 
 do =>
   initPost()
   await sleep 300
+
   if INIT
+    set = (v)=>
+      if _setUser ...v
+        reply(0)
+      return
+
+    pre = (await R.conf.get U)?.v
+    if pre
+      set pre
+
     r = await SDK.u()
-    W.conf.put {
-      id:U
-      v:JSON.stringify(r)
-    }
-    # 必须拆分成为2行写，不然可能会导致_setUser还是INIT
-    if _setUser ...r
-      reply(0)
+    if JSON.stringify(pre) != JSON.stringify(r)
+      set(r)
+      save()
   return
 
 < setNameWay = (id, name, li)=>
