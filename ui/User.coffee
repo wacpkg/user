@@ -1,7 +1,6 @@
 > !/_/DB.js > R W
   !/_/SDK.js
   wtax/liSet.js
-  # wtax/sleep.js
   # !/_/vote.js > reply
 
 
