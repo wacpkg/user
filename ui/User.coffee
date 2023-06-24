@@ -126,29 +126,6 @@
 #     _toAllMe()
 #   return
 #
-# < userSet = (li, args...)=>
-#   r = Array.isArray(li)
-#   if r
-#     li = li.concat args
-#     uid = li[0]
-#
-#     for [id],pos in USER_EXIT
-#       if uid == id
-#         USER_EXIT.splice(pos,1)
-#         USER_SIGNIN.unshift(li)
-#         _toAllMe()
-#         return r
-#
-#     for [id],pos in USER_SIGNIN
-#       if uid == id
-#         if pos != 0
-#           USER_SIGNIN.splice pos, 1
-#           USER_SIGNIN.unshift li
-#           _toAllMe()
-#         return r
-#     USER_SIGNIN.unshift li
-#     _toAllMe()
-#   return r
 #
 # < exit = ()=>
 #   {id} = await User()
@@ -156,17 +133,6 @@
 #     return exitUid(id)
 #   return
 #
-# < enter = (id)=>
-#   for i,pos in USER_SIGNIN
-#     if i[0] == id
-#       if pos == 0
-#         return
-#       USER_SIGNIN.splice pos,1
-#       USER_SIGNIN.unshift i
-#       _toAllMe()
-#       await SDK.u.enter id
-#       return
-#   return
 #
 # < rm = (id)=>
 #   for i,pos in USER_EXIT
@@ -236,12 +202,17 @@ _setMe = =>
     f(USER)
   return
 
-_signinExit = ([signin,exit])=>
-  liSet USER_SIGNIN,signin
-  liSet USER_EXIT,exit
+
+_setMeLi = =>
   _setMe()
   for func from ON_LI
     func USER_SIGNIN,USER_EXIT
+  return
+
+_signinExit = ([signin,exit])=>
+  liSet USER_SIGNIN,signin
+  liSet USER_EXIT,exit
+  _setMeLi()
   return
 
 save = =>
@@ -252,18 +223,41 @@ save = =>
       USER_EXIT
     ]
   }
+
+change = =>
+  await save()
+  _setMeLi()
   return
 
 < exitAll = =>
 < rmAll = =>
 < setNameWay = (id, name, li)=>
-< userSet = (li, args...)=>
 < exit = ()=>
-< enter = (id)=>
 < rm = (id)=>
-< exitUid = (id)=>
 
-await do =>
+< enter = (id)=>
+  for i,pos in USER_SIGNIN
+    if i[0] == id
+      if pos == 0
+        return
+      USER_SIGNIN.splice pos,1
+      USER_SIGNIN.unshift i
+      await SDK.u.enter id
+      _setMeLi()
+      return
+  return
+
+< exitUid = (id)=>
+  for i,pos in USER_SIGNIN
+    if i[0] == id
+      await SDK.u.exit id
+      USER_EXIT.push i
+      USER_SIGNIN.splice pos,1
+      change()
+      return
+  return
+
+_User = =>
   r = (await R.conf.get U)?.v
 
   no_exist = not r
@@ -274,9 +268,37 @@ await do =>
 
   if no_exist
     save()
-  return
 
-< default User = =>
+  _User = =>
+    USER
+
   USER
 
+_User()
 
+< default User = =>
+  _User()
+
+< userSet = (li, args...)=>
+  r = Array.isArray(li)
+  if r
+    li = li.concat args
+    uid = li[0]
+
+    for [id],pos in USER_EXIT
+      if uid == id
+        USER_EXIT.splice(pos,1)
+        USER_SIGNIN.unshift(li)
+        change()
+        return r
+
+    for [id],pos in USER_SIGNIN
+      if uid == id
+        if pos != 0
+          USER_SIGNIN.splice pos, 1
+          USER_SIGNIN.unshift li
+          change()
+        return r
+    USER_SIGNIN.unshift li
+    change()
+  return r
