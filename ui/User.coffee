@@ -33,7 +33,7 @@ ON_LI = new Set()
 _setMe = =>
   me = USER_SIGNIN[0]
   if USER
-    if me[0] == USER.id
+    if me and (me[0] == USER.id)
       return
   if me
     [id,name] = me
