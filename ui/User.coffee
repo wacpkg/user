@@ -229,12 +229,6 @@ change = =>
   _setMeLi()
   return
 
-< exitAll = =>
-< rmAll = =>
-< setNameWay = (id, name, li)=>
-< exit = ()=>
-< rm = (id)=>
-
 < enter = (id)=>
   for i,pos in USER_SIGNIN
     if i[0] == id
@@ -302,3 +296,10 @@ _User()
     USER_SIGNIN.unshift li
     change()
   return r
+
+< exitAll = =>
+< rmAll = =>
+< setNameWay = (id, name, li)=>
+< exit = ()=>
+< rm = (id)=>
+
