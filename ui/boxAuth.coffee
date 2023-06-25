@@ -5,4 +5,6 @@
   ./Sign.auth.js > auth
 
 < =>
-  byTag0(auth(),'u-auth').account = await SDK.u.last()
+  box = auth()
+  byTag0(box,'u-auth').account = await SDK.u.last()
+  box
