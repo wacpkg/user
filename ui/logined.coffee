@@ -1,10 +1,10 @@
 > ./boxAuth.js
   ./User.js
 
-< =>
-  user = await User()
-  if user.id
-    return user.id
-  boxAuth()
-  return
-
+< (func)=>
+  ->
+    user = await User()
+    if user.id
+      return func.call @,user.id,...arguments
+    boxAuth()
+    return
