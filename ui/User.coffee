@@ -42,8 +42,6 @@ _setMe = =>
         return
     USER = {id,name}
   else
-    if not USER?.id
-      return
     USER = {}
   for f from ON_ME
     f(USER)
