@@ -3,8 +3,7 @@
 > !/_/SDK.js
   !/_/byTag.js > byTag0
   ./Sign.auth.js > auth
+  ./User.js > last
 
 < =>
-  box = auth()
-  byTag0(box,'u-auth').account = await SDK.u.last()
-  box
+  byTag0(auth(),'u-auth').account = last()?[3] or ''

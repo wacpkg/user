@@ -2,7 +2,6 @@
   !/_/SDK.js
   wtax/liSet.js
   !/_/channel.js > toAll hook
-  ./boxAuth.js
 
 MSG_USER = 2
 
@@ -126,11 +125,11 @@ hook MSG_USER, =>
 < default User = =>
   _User()
 
-< logined = =>
-  user = await _User()
-  if user.id
-    return user.id
-  boxAuth()
+< last = =>
+  if USER_SIGNIN.length
+    return USER_SIGNIN[0]
+  if USER_EXIT.length
+    return USER_EXIT[0]
   return
 
 < userSet = (li, args...)=>
