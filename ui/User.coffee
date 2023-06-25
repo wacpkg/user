@@ -1,7 +1,9 @@
 > !/_/DB.js > R W
   !/_/SDK.js
   wtax/liSet.js
-  # !/_/vote.js > reply
+  !/_/channel.js > toAll hook
+
+MSG_USER = 2
 
 
 + USER
@@ -71,6 +73,7 @@ save = =>
 _change = =>
   _setMeLi()
   await save()
+  toAll MSG_USER
   return
 
 < enter = (id)=>
@@ -95,24 +98,31 @@ _change = =>
       return
   return
 
-_User = =>
+_refresh = =>
   r = (await R.conf.get U)?.v
 
   no_exist = not r
   if no_exist
     r = await SDK.u()
 
-  _signinExit r
-
   if no_exist
     save()
 
+  return r
+
+_User = =>
+  _signinExit await _refresh()
   _User = =>
     USER
-
   USER
 
 _User()
+
+hook MSG_USER, =>
+  r = await _refresh()
+  if JSON.stringify([USER_SIGNIN, USER_EXIT]) != JSON.stringify(r)
+    _signinExit r
+  return
 
 < default User = =>
   _User()
