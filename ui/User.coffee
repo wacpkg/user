@@ -123,8 +123,16 @@ hook MSG_USER, =>
   _refresh (r)=>
     JSON.stringify([USER_SIGNIN, USER_EXIT]) != JSON.stringify(r)
   return
+
 < default User = =>
   _User()
+
+< logined = =>
+  user = await _User()
+  if user.id
+    return user.id
+
+  return
 
 < userSet = (li, args...)=>
   r = Array.isArray(li)
