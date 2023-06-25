@@ -98,29 +98,31 @@ _change = =>
       return
   return
 
-_refresh = =>
+_refresh = (do_save)=>
   r = (await R.conf.get U)?.v
 
   no_exist = not r
   if no_exist
     r = await SDK.u()
 
-  if JSON.stringify([USER_SIGNIN, USER_EXIT]) != JSON.stringify(r)
+  if do_save r
     _signinExit r
     save()
 
   return r
 
 _User = =>
-  await _refresh()
+  await _refresh(=> 1)
   _User = =>
     USER
   USER
 
 _User()
 
-hook MSG_USER, _refresh
-
+hook MSG_USER, =>
+  _refresh (r)=>
+    JSON.stringify([USER_SIGNIN, USER_EXIT]) != JSON.stringify(r)
+  return
 < default User = =>
   _User()
 
