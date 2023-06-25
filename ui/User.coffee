@@ -105,24 +105,21 @@ _refresh = =>
   if no_exist
     r = await SDK.u()
 
-  if no_exist
+  if JSON.stringify([USER_SIGNIN, USER_EXIT]) != JSON.stringify(r)
+    _signinExit r
     save()
 
   return r
 
 _User = =>
-  _signinExit await _refresh()
+  await _refresh()
   _User = =>
     USER
   USER
 
 _User()
 
-hook MSG_USER, =>
-  r = await _refresh()
-  if JSON.stringify([USER_SIGNIN, USER_EXIT]) != JSON.stringify(r)
-    _signinExit r
-  return
+hook MSG_USER, _refresh
 
 < default User = =>
   _User()
