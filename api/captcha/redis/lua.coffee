@@ -1,3 +1,3 @@
 < (R)=>
-  R.fnum.ipLimit
+  R.fnum.ipLimit()
   return
