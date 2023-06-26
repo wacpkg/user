@@ -109,13 +109,13 @@ _refresh = (do_save)=>
 
   return r
 
+_refresh_promise = _refresh(=> 1)
+
 _User = =>
-  await _refresh(=> 1)
+  await _refresh_promise
   _User = =>
     USER
   USER
-
-_User()
 
 hook MSG_USER, =>
   _refresh (r)=>
