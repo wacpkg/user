@@ -117,6 +117,9 @@ _User = =>
     USER
   USER
 
+< Uid = =>
+  USER.id
+
 hook MSG_USER, =>
   _refresh (r)=>
     JSON.stringify([USER_SIGNIN, USER_EXIT]) != JSON.stringify(r)
