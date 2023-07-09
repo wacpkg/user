@@ -20,9 +20,7 @@ template(@&Drop)
   ./sign.js
   ./conf.js
 
-+ Drop, drop
-
-+ user
++ Drop, drop, user
 
 onMount =>
   await tick()
