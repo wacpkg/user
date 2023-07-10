@@ -12,7 +12,7 @@ form(@&form @submit|preventDefault)
     autocomplete="off"
     required
   )
-  u-resend(:send)
+  u-resend(send:)
   button(type="submit") {I18N[btn]}
 </template>
 

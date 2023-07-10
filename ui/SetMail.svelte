@@ -16,7 +16,7 @@ form(@submit|preventDefault)
       autocomplete="off"
       required
     )
-  u-resend(:send)
+  u-resend(send:)
   button(type="submit") >modifyMail
 </template>
 
