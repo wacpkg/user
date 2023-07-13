@@ -105,7 +105,7 @@ sign = (uid)=>
 
 onMount =>
   await tick()
-  meMenu = menu(
+  meMenu = Menu(
     MeMenu
     (elem)=>
       uid = SIGNIN[0][0]
@@ -114,7 +114,7 @@ onMount =>
         exit.bind 0, uid
       ) elem
   )
-  signinMenu = menu(
+  signinMenu = Menu(
     SigninMenu
     (elem)->
       {rel:uid} = @
@@ -124,7 +124,7 @@ onMount =>
         exitUid.bind 0, uid
       ) elem
   )
-  exitMenu = menu ExitMenu, (elem)->
+  exitMenu = Menu ExitMenu, (elem)->
     {rel:uid} = @
     uid -= 0
     bindLi(
