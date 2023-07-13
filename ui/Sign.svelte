@@ -59,7 +59,7 @@ template(@&ExitMenu)
   ./User.js > exit onLi rmAll:_rmAll exitUid exitAll enter:_enter rm
   wtax/assign.js
   wtax/On.js
-  !/_/menu.js
+  !/_/Menu.js
   ./conf.js
   ./WAY.js
   !/_/bindLi.js

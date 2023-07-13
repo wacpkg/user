@@ -15,7 +15,7 @@ template(@&Drop)
 <script lang="coffee">
 > ./User.js > onMe exit
   !/_/SDK.js
-  !/_/menu.js
+  !/_/Menu.js
   !/_/bindLi.js
   ./sign.js
   ./conf.js
