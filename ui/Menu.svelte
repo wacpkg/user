@@ -24,7 +24,7 @@ template(@&Drop)
 
 onMount =>
   await tick()
-  drop = menu Drop, bindLi(
+  drop = Menu Drop, bindLi(
     =>
       conf user.id
       return
