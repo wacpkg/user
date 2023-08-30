@@ -12,7 +12,7 @@
         if Number.isNaN c
           resolve c
         else
-          f['Content-Type'] = c
+          f.headers = {'Content-Type':c}
           next().then(resolve, reject)
         return
     ) else next()
