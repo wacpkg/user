@@ -89,7 +89,7 @@ _change = =>
   for i,pos in USER_SIGNIN
     if i[0] == id
       await SDK.u.exit id
-      USER_EXIT.push i
+      USER_EXIT.unshift i
       USER_SIGNIN.splice pos,1
       _change()
       return
@@ -130,6 +130,7 @@ hook MSG_USER, =>
 < last = =>
   if USER_SIGNIN.length
     return USER_SIGNIN[0]
+
   if USER_EXIT.length
     return USER_EXIT[0]
   return
