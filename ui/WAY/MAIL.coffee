@@ -7,6 +7,7 @@
   !/wtax/On.js
   !/wtax/assign.js
   !/wtax/wcut.js
+  !/user/i18n/onMount.js > I18N
   ./captcha.js
   ../i18n/code.js > MAIL CREATE_ACCOUNT NAME RESET_PASSWORD USED SET_DONE
   ../User.js > userSet
@@ -94,7 +95,8 @@ _signup = (account,password,send)=>
                   if _user r, account
                     box.close()
                     Alert(
-                      (I18N)=>I18N[SET_DONE]
+                      =>
+                        I18N[SET_DONE]
                     )
                     return
                   r
@@ -109,8 +111,8 @@ _signup = (account,password,send)=>
         if Number.isNaN r
           return false
         if r
-          return (I18N)=>
-            now + ' : ' + I18N[r]
+          return (i18n)=>
+            now + ' : ' + i18n[r]
         [box,tag] = tagBox('u-set-mail')
         new Promise (resolve, reject)=>
           x = =>
